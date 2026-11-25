@@ -1,0 +1,182 @@
+[
+  {
+    "question": "how does sun produce energie",
+    "requested_top_k": 4,
+    "returned_chunks": 4,
+    "retrieval_seconds": 0.0366,
+    "results": [
+      {
+        "chunk_id": "103ff5b7ba5eb4815d95bcb44c98634beaa6a280c4a4225ac40473f9ec5a7bc1",
+        "document_id": "2280fa3e302774d2681a98ba5ff33e7dc3bc63440d13b01453ec1bda36f32b5a",
+        "source": "Solar_System_Lithograph_Set.pdf",
+        "page": 6,
+        "chunk_index": 6,
+        "text": "omosphere; and the\noutermost region, the corona. The Sun has no solid surface.\nAt the core, the temperature is about 15 million degrees Celsius\n(about 27 million degrees Fahrenheit), which is sufficient to\nsustain thermonuclear fusion. The energy produced in the core\npowers the Sun and produces essentially all the heat and light\nwe receive on Earth. Energy from the core is carried outward by\nradiation, which bounces around the radiative",
+        "char_start": 1657,
+        "char_end": 2097,
+        "token_count": 102,
+        "rank": 1,
+        "score": 0.648966908454895
+      },
+      {
+        "chunk_id": "55705535a25500c8f37193882864f126548afbf4983811b9426ea3ff4f794bf1",
+        "document_id": "2280fa3e302774d2681a98ba5ff33e7dc3bc63440d13b01453ec1bda36f32b5a",
+        "source": "Solar_System_Lithograph_Set.pdf",
+        "page": 6,
+        "chunk_index": 22,
+        "text": ").\nFOR MORE INFORMATION\nsolarsystem.nasa.gov/sun\n\n2\n4\n5\n3\n1\n2\n3\n4\n5\nLG-2013-07-564-HQ — JPL 400-1489C 07/13",
+        "char_start": 6800,
+        "char_end": 6907,
+        "token_count": 41,
+        "rank": 2,
+        "score": 0.5420948266983032
+      },
+      {
+        "chunk_id": "ed03fdf58fbbd2b5d689db09803517ebb9d740a57471a9d5998b894bcfca9048",
+        "document_id": "2280fa3e302774d2681a98ba5ff33e7dc3bc63440d13b01453ec1bda36f32b5a",
+        "source": "Solar_System_Lithograph_Set.pdf",
+        "page": 6,
+        "chunk_index": 11,
+        "text": "be seen\nas a red rim around the Sun while the corona forms a beautiful white crown with plasma streaming outward, forming the\n“points” of the crown.\nAbove the photosphere, temperature increases with altitude,\nreaching as high as 2 million degrees Celsius (3.5 million degrees\nFahrenheit). The source of coronal heating has been a scientific\nmystery for more than 50 years. Likely solutions emerged from\nobservations by the Solar and Heli",
+        "char_start": 3303,
+        "char_end": 3740,
+        "token_count": 102,
+        "rank": 3,
+        "score": 0.5403611660003662
+      },
+      {
+        "chunk_id": "6c1988de00ca72aec9a2bad19eff9ca3e06314bcb8ba0a876a6c3f0b51301fd3",
+        "document_id": "2280fa3e302774d2681a98ba5ff33e7dc3bc63440d13b01453ec1bda36f32b5a",
+        "source": "Solar_System_Lithograph_Set.pdf",
+        "page": 6,
+        "chunk_index": 15,
+        "text": "km (432,200 mi)\n\nMass\n1.989 × 10^30 kg\n\nDensity\n1.409 g/cm^3\n\nComposition\n92.1% hydrogen, 7.8% helium,\n\n0.1% other elements\n\nSurface Temperature (Photosphere)\n5,500 deg C\n\n(10,000 deg F)\n\nLuminosity*\n3.83 × 10^33 ergs/sec\n*The total energy radiated by the Sun (or any star) per second at all wavelengths.\nSIGNIFI",
+        "char_start": 4627,
+        "char_end": 4939,
+        "token_count": 102,
+        "rank": 4,
+        "score": 0.5361517071723938
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of MOXIE?",
+    "requested_top_k": 4,
+    "returned_chunks": 4,
+    "retrieval_seconds": 0.0244,
+    "results": [
+      {
+        "chunk_id": "153260ab08720cc554c388206bb6d4d29a847512b6843ce93bb24a50b535483a",
+        "document_id": "14ddeea4fb8e04dbee9a95bdba27471f5cccc9d6bd10692ed287b2274f3664fb",
+        "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+        "page": 2,
+        "chunk_index": 6,
+        "text": "ic carbon dioxide. If\nsuccessful, MOXIE’s technology could be used by future\nastronauts on Mars to burn rocket fuel for returning\nto Earth. The principal investigator is Michael Hecht,\nMassachusetts Institute of Technology, Cambridge,\nMassachusetts.\n• Mars Environmental Dynamics Analyzer (MEDA), a set of\nsensors that will provide measurements of temperature,\nwind speed and direction, pressure, relative humidity, and\ndust size and shape. The principal investigator",
+        "char_start": 1634,
+        "char_end": 2101,
+        "token_count": 102,
+        "rank": 1,
+        "score": 0.2868175804615021
+      },
+      {
+        "chunk_id": "2678b737634be51c049cf14c64159332d72e0e033a20dcea064ede2be6f04c5b",
+        "document_id": "2280fa3e302774d2681a98ba5ff33e7dc3bc63440d13b01453ec1bda36f32b5a",
+        "source": "Solar_System_Lithograph_Set.pdf",
+        "page": 42,
+        "chunk_index": 14,
+        "text": "Kuiper\nBelt.\nAstronomers and planetary scientists did not unanimously agree\nwith these definitions. To some it appeared that the classification\nscheme was designed to limit the number of planets; to others\nit was incomplete and the terms unclear. Some astronomers\nargued that location (context) is important, especially in understanding the formation and evolution of the solar system.\nOne idea is to simply define a planet as a “natural object in\nspace that is massive",
+        "char_start": 4359,
+        "char_end": 4828,
+        "token_count": 102,
+        "rank": 2,
+        "score": 0.2799440920352936
+      },
+      {
+        "chunk_id": "db67e9ea06678f3f708a3b46efe9675cf6ae0ace0b2ddbff8c92e4ace522d9e7",
+        "document_id": "2280fa3e302774d2681a98ba5ff33e7dc3bc63440d13b01453ec1bda36f32b5a",
+        "source": "Solar_System_Lithograph_Set.pdf",
+        "page": 40,
+        "chunk_index": 12,
+        "text": "y\nof a planet-like transneptunian object orbiting the Sun at an\n\nextreme distance, in one of the coldest known regions of our\nsolar system. The object (2003VB12), since named Sedna for an\nInuit goddess who lives at the bottom of the frigid Arctic ocean,\napproaches the Sun only briefly during its 10,500-year solar\n\norbit. It never enters the Kuiper Belt, whose outer boundary\n\nregion",
+        "char_start": 3538,
+        "char_end": 3922,
+        "token_count": 102,
+        "rank": 3,
+        "score": 0.24552252888679504
+      },
+      {
+        "chunk_id": "e64083f38dd59a58eeecb5f156658c1371480706881af271cd5ddf5518e30398",
+        "document_id": "2280fa3e302774d2681a98ba5ff33e7dc3bc63440d13b01453ec1bda36f32b5a",
+        "source": "Solar_System_Lithograph_Set.pdf",
+        "page": 42,
+        "chunk_index": 11,
+        "text": "of a planet. Then, in 2005, a team of astronomers announced that they had found a “tenth planet” — it\nwas a KBO even larger than Pluto. People began to wonder what\nplanethood really means. Just what is a planet, anyway? Suddenly the answer to that question didn’t seem so self-evident,\nand, as it turns out, there are plenty of disagreements about it.\nThe International Astronomical Union (IAU), a worldwide",
+        "char_start": 3392,
+        "char_end": 3799,
+        "token_count": 102,
+        "rank": 4,
+        "score": 0.2424445003271103
+      }
+    ]
+  },
+  {
+    "question": "What is the main goal of Europa Clipper?",
+    "requested_top_k": 4,
+    "returned_chunks": 4,
+    "retrieval_seconds": 0.0291,
+    "results": [
+      {
+        "chunk_id": "063d6ee4676135f87004046ce2de00461edcd6c78d3446a9f02abc0e427dd1a9",
+        "document_id": "74e0a4b0b04aadd375c882b7186f570f8548728aacb850947f121df53cb32f71",
+        "source": "Europa-Clipper-Fact-Sheet.pdf",
+        "page": 1,
+        "chunk_index": 8,
+        "text": "s Europa Clipper flying by the\nicy moon Europa as the spacecraft orbits Jupiter.\n\nCredit: NASA/JPL-Caltech",
+        "char_start": 2402,
+        "char_end": 2508,
+        "token_count": 32,
+        "rank": 1,
+        "score": 0.657402515411377
+      },
+      {
+        "chunk_id": "d5046616cb2932153ff827c886b27d1ed905cf88b3fbc3ba5a4eb0d1528b6bf5",
+        "document_id": "74e0a4b0b04aadd375c882b7186f570f8548728aacb850947f121df53cb32f71",
+        "source": "Europa-Clipper-Fact-Sheet.pdf",
+        "page": 1,
+        "chunk_index": 5,
+        "text": "Europa\nbegins.\n• June 2034: End of the prime mission.\nGoals and Objectives\nDetermine whether there are places below\nthe surface of Europa that could support life\nby studying:\n• the geology of Europa’s icy shell\n• the interior of Europa, including the ice\nshell and the liquid water ocean beneath it\n• the composition of the surface and interior\nKey Hardware\nEuropa Clipper has a suite of nine instruments dedicated to collecting science and a",
+        "char_start": 1368,
+        "char_end": 1810,
+        "token_count": 102,
+        "rank": 2,
+        "score": 0.6432670950889587
+      },
+      {
+        "chunk_id": "4a1d3cb8583cbe550a17932e47a6b884367bcd7c06173be004e82976ad0d42ba",
+        "document_id": "74e0a4b0b04aadd375c882b7186f570f8548728aacb850947f121df53cb32f71",
+        "source": "Europa-Clipper-Fact-Sheet.pdf",
+        "page": 2,
+        "chunk_index": 11,
+        "text": "body of the Europa Clipper spacecraft just after delivery to NASA’s Jet Propulsion Laboratory in early June 2022.\n\nCredit: NASA/JPL-Caltech\nNational Aeronautics and Space Administration\nJet Propulsion Laboratory\n\nCalifornia Institute of Technology\n\nPasadena, California\nwww.nasa.gov\nNASA Facts",
+        "char_start": 3367,
+        "char_end": 3660,
+        "token_count": 70,
+        "rank": 3,
+        "score": 0.6306440830230713
+      },
+      {
+        "chunk_id": "9d0950a70dfad23ffca30a68352ac9f122557f3bdfa66baebb8c6334859e21b4",
+        "document_id": "74e0a4b0b04aadd375c882b7186f570f8548728aacb850947f121df53cb32f71",
+        "source": "Europa-Clipper-Fact-Sheet.pdf",
+        "page": 1,
+        "chunk_index": 6,
+        "text": "Key Hardware\nEuropa Clipper has a suite of nine instruments dedicated to collecting science and a\ngravity experiment that uses the telecommunications system.\n• Imagers: Europa Imaging System (EIS)\nhas two visible-light cameras that will\nmap Europa at a range of resolutions.\n\nEuropa Thermal Emission Imaging\n\nSystem (E-THEMIS) uses an infrared\ncamera to map temperature and\n\nroughness. Mapping Imaging Spectrometer for Europa (MIS",
+        "char_start": 1713,
+        "char_end": 2143,
+        "token_count": 102,
+        "rank": 4,
+        "score": 0.6150133609771729
+      }
+    ]
+  }
+]
