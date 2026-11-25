@@ -1,0 +1,19 @@
+{
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "model_max_tokens": 128,
+  "chunk_size_content_tokens": 100,
+  "overlap_window_tokens": 20,
+  "special_tokens_per_chunk": 2,
+  "input_pages_sha256": "facab228d763ef8153ef4f43050835c72618ffe93386c11a34e5200bfc13b4ca",
+  "total_input_pages": 48,
+  "empty_pages_skipped": 0,
+  "total_chunks": 518,
+  "max_chunk_tokens_including_special_tokens": 102,
+  "all_chunks_within_model_limit": true,
+  "chunks_per_source": {
+    "44738_Mars2020_Fact_Sheet_REV_BI.pdf": 18,
+    "Europa-Clipper-Fact-Sheet.pdf": 19,
+    "nh-fact-sheet-2015_1.pdf": 17,
+    "Solar_System_Lithograph_Set.pdf": 464
+  }
+}
