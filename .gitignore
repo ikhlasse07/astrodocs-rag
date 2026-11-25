@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Frontend
+node_modules/
+dist/
+
+# Local settings
+.env
+.env.*
+!.env.example
+
+# Generated index and downloaded models
+backend/data/index/
+backend/models/
+
+# Logs
+*.log

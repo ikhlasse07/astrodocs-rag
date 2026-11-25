@@ -1,0 +1,62 @@
+{
+  "pymupdf_version": "1.26.6",
+  "extraction_method": "page.get_text('text', sort=False)",
+  "page_numbering": "1-based physical PDF page, not the printed page label",
+  "short_page_threshold_characters": 300,
+  "note": "Status ok measures text length only, not extraction accuracy. Review columns and tables.",
+  "total_files": 4,
+  "total_pages": 48,
+  "empty_pages": 0,
+  "short_pages": 20,
+  "files": [
+    {
+      "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+      "document_id": "14ddeea4fb8e04dbee9a95bdba27471f5cccc9d6bd10692ed287b2274f3664fb",
+      "pages": 2,
+      "empty_pages": [],
+      "short_pages": []
+    },
+    {
+      "source": "Europa-Clipper-Fact-Sheet.pdf",
+      "document_id": "74e0a4b0b04aadd375c882b7186f570f8548728aacb850947f121df53cb32f71",
+      "pages": 2,
+      "empty_pages": [],
+      "short_pages": []
+    },
+    {
+      "source": "nh-fact-sheet-2015_1.pdf",
+      "document_id": "b63b74c1e1dab1fa5ec773ce22cd62c362ae0d187af2e0a0b69330e36a519ed4",
+      "pages": 2,
+      "empty_pages": [],
+      "short_pages": []
+    },
+    {
+      "source": "Solar_System_Lithograph_Set(1).pdf",
+      "document_id": "2280fa3e302774d2681a98ba5ff33e7dc3bc63440d13b01453ec1bda36f32b5a",
+      "pages": 42,
+      "empty_pages": [],
+      "short_pages": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41
+      ]
+    }
+  ]
+}

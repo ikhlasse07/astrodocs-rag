@@ -1,0 +1,3968 @@
+SOURCE: 44738_Mars2020_Fact_Sheet_REV_BI.pdf
+PDF PAGE: 1
+STATUS: ok
+
+Mars 2020/Perseverance
+National Aeronautics and Space Administration
+Over the past two decades, missions flown
+by NASA’s Mars Exploration Program have
+shown us that Mars was once very different
+from the cold, dry planet it is today. Evidence
+discovered by landed and orbital missions point
+to wet conditions billions of years ago. These
+environments lasted long enough to potentially
+support the development of microbial life.
+The Mars 2020/Perseverance rover is designed to
+better understand the geology of Mars and seek
+signs of ancient life. The mission will collect and
+store a set of rock and soil samples that could be
+returned to Earth in the future. It will also test new
+Key Objectives
+Mission Timeline
+• Launch July 30, 2020 from Cape Canaveral Air
+Force Station, Florida
+• Land on Mars on February 18, 2021 at the site
+of an ancient river delta in a lake that once filled
+Jezero Crater
+• Spend at least one Mars year (two Earth years)
+exploring the landing site region
+Key Hardware
+Perseverance will carry seven instruments to
+conduct unprecedented science and test new
+technology on the Red Planet. They are:
+• Mastcam-Z, an advanced camera system with
+panoramic and stereoscopic imaging capability
+with the ability to zoom. The instrument also
+will determine mineralogy of the Martian surface
+and assist with rover operations. The principal
+investigator is James Bell, Arizona State
+University in Tempe.
+technology to benefit future robotic and human
+exploration of Mars.
+• Explore a geologically diverse landing site
+• Assess ancient habitability
+• Seek signs of ancient life, particularly in special
+rocks known to preserve signs of life over time
+• Gather rock and soil samples that could be
+returned to Earth by a future NASA mission
+• Demonstrate technology for future robotic and
+human exploration
+
+----------------------------------------
+
+SOURCE: 44738_Mars2020_Fact_Sheet_REV_BI.pdf
+PDF PAGE: 2
+STATUS: ok
+
+NASA Facts
+JPL 400-1732 12/20
+www.nasa.gov
+For more information about the Mars 2020 mission and NASA’s Mars
+Exploration Program, visit: mars.nasa.gov/mars2020
+• SuperCam, an instrument that can provide imaging,
+chemical composition analysis, and mineralogy at a
+distance. The principal investigator is Roger Wiens, Los
+Alamos National Laboratory, Los Alamos, New Mexico.
+This instrument also has a significant contribution from the
+Centre National d’Etudes Spatiales, Institut de Recherche
+en Astrophysique et Planétologie (CNES/IRAP), France.
+• Planetary Instrument for X-ray Lithochemistry (PIXL), an
+X-ray fluorescence spectrometer and high-resolution
+imager to map the fine-scale elemental composition of
+Martian surface materials. PIXL will provide capabilities that
+permit more detailed detection and analysis of chemical
+elements than ever before. The principal investigator is
+Abigail Allwood, NASA’s Jet Propulsion Laboratory (JPL) in
+Pasadena, California.
+• Scanning Habitable Environments with Raman &
+Luminescence for Organics and Chemicals (SHERLOC), a
+spectrometer that will provide fine-scale imaging and uses
+an ultraviolet (UV) laser to map mineralogy and organic
+compounds. SHERLOC will be the first UV Raman
+spectrometer to fly to the surface of Mars and will provide
+complementary measurements with other instruments in
+the payload. SHERLOC includes a high-resolution color
+camera for microscopic imaging of Mars’ surface. The
+principal investigator is Luther Beegle, JPL.
+• The Mars Oxygen In-Situ Resource Utilization Experiment
+(MOXIE), a technology demonstration that will produce
+oxygen from Martian atmospheric carbon dioxide. If
+successful, MOXIE’s technology could be used by future
+astronauts on Mars to burn rocket fuel for returning
+to Earth. The principal investigator is Michael Hecht,
+Massachusetts Institute of Technology, Cambridge,
+Massachusetts.
+• Mars Environmental Dynamics Analyzer (MEDA), a set of
+sensors that will provide measurements of temperature,
+wind speed and direction, pressure, relative humidity, and
+dust size and shape. The principal investigator is Jose
+Rodriguez-Manfredi, Centro de Astrobiología, Instituto
+Nacional de Tecnica Aeroespacial, Spain.
+• The Radar Imager for Mars’ Subsurface Experiment
+(RIMFAX), a ground-penetrating radar that will provide
+centimeter-scale resolution of the geologic structure of the
+subsurface. The principal investigator is Svein-Erik Hamran,
+University of Oslo.
+Technology
+Perseverance will also test new technology for future robotic
+and human missions to the Red Planet. That includes
+an autopilot for avoiding hazards called Terrain Relative
+Navigation and a set of sensors for gathering data during the
+landing (Mars Entry, Descent and Landing Instrumentation 2,
+or MEDLI2). A new autonomous navigation system will allow
+the rover to drive faster in challenging terrain.
+As with Curiosity, Perseverance’s baseline power system
+is a Multi-Mission Radioisotope Thermoelectric Generator
+(MMRTG) provided by the U.S. Department of Energy. It uses
+the heat from the natural decay of plutonium-238 to generate
+electricity.
+Program Management
+The Mars 2020 Project is managed for NASA’s Science
+Mission Directorate, Washington, D.C., by the Jet Propulsion
+Laboratory (JPL), a division of Caltech in Pasadena, California.
+At NASA Headquarters, George Tahu is the Mars 2020
+program executive and Mitchell Schulte is program scientist.
+At JPL, John McNamee is the Mars 2020 project manager
+and Ken Farley of Caltech is project scientist.
+Rover Size and Dimensions
+Perseverance’s body and other major hardware (such as the
+cruise stage, descent stage, and aeroshell/heat shield) build
+upon the success of NASA’s Curiosity rover and include many
+heritage components. The car-sized Perseverance rover has
+roughly the same dimensions as Curiosity: it’s about 10 feet
+long (not including the arm), 9 feet wide, and 7 feet tall (about
+3 meters long, 2.7 meters wide, and 2.2 meters tall). But at
+2,260 pounds (1,025 kilograms), Perseverance is about 278
+pounds (126 kilograms) heavier than Curiosity.
+
+----------------------------------------
+
+SOURCE: Europa-Clipper-Fact-Sheet.pdf
+PDF PAGE: 1
+STATUS: ok
+
+Europa Clipper
+Exploring Jupiter’s Ocean World
+Europa, an icy moon that orbits Jupiter, is
+considered one of the most promising places
+in our solar system to find an environment
+suitable for life beyond Earth. There is strong
+evidence of an ocean beneath the moon’s
+thick icy crust, potentially with twice as much
+liquid water as all of Earth’s oceans
+combined. Everywhere on Earth that there’s
+water, there’s life, and scientists want to
+know if oceans elsewhere in the solar system
+can also be habitable.
+NASA’s Europa Clipper mission will be the
+first to conduct a detailed survey of this icy
+moon. While Europa Clipper is not a life-
+detection mission, it aims to answer
+questions about Europa’s potential to
+support life. The mission will confirm whether
+there is an ocean, look for evidence of
+energy sources beneath Europa’s surface,
+and determine the moon’s makeup.
+Expected Mission Timeline
+• October 2024: Europa Clipper is scheduled to launch from NASA’s Kennedy
+Space Center on a SpaceX Falcon Heavy
+rocket.
+• February 2025: Spacecraft flies by Mars
+for a gravity assist to gain speed.
+• February 2026: Spacecraft flies by Earth
+for another gravity assist on its way to
+the outer solar system.
+• April 2030: Spacecraft enters orbit
+around Jupiter after a journey of about
+1.8 billion miles (2.9 billion kilometers).
+• March 2031: First of 49 flybys of Europa
+begins.
+• June 2034: End of the prime mission.
+Goals and Objectives
+Determine whether there are places below
+the surface of Europa that could support life
+by studying:
+• the geology of Europa’s icy shell
+• the interior of Europa, including the ice
+shell and the liquid water ocean beneath it
+• the composition of the surface and interior
+Key Hardware
+Europa Clipper has a suite of nine instruments dedicated to collecting science and a
+gravity experiment that uses the telecommunications system.
+• Imagers: Europa Imaging System (EIS)
+has two visible-light cameras that will
+map Europa at a range of resolutions.
+Europa Thermal Emission Imaging
+System (E-THEMIS) uses an infrared
+camera to map temperature and
+roughness. Mapping Imaging Spectrometer for Europa (MISE) will map surface
+composition by using infrared light. Europa Ultraviolet Spectrograph (Europa-UVS)
+will collect ultraviolet light to search for
+plumes and analyze the composition of
+Europa’s surface and thin atmosphere.
+This artist’s concept depicts NASA’s Europa Clipper flying by the
+icy moon Europa as the spacecraft orbits Jupiter.
+
+Credit: NASA/JPL-Caltech
+
+----------------------------------------
+
+SOURCE: Europa-Clipper-Fact-Sheet.pdf
+PDF PAGE: 2
+STATUS: ok
+
+• Ice-penetrating radar: Radar for Europa Assessment and Sounding: Ocean to Near-surface (REASON) to study Europa’s ice structure and thickness.
+• Gas and Dust measurements: Mass Spectrometer for Planetary Exploration/Europa (MASPEX) will
+analyze gases in the atmosphere and in possible
+plumes spraying from the surface. Surface Dust
+Analyzer (SUDA) will identify the makeup of dust
+particles ejected from the surface.
+• Magnetometer and Plasma Instruments: Europa
+Clipper Magnetometer (ECM) will work hand-in-hand
+with the Plasma Instrument for Magnetic Sounding
+(PIMS) to study magnetic fields to confirm the existence of an ocean, measure the ocean’s depth and
+saltiness, and assess the thickness of the ice shell.
+• Gravity science experiment: By analyzing the radio
+signals sent back and forth through space via the
+spacecraft’s telecommunications system, scientists
+will study how changes in Europa’s gravity can
+reveal the moon’s internal structure.
+Europa Clipper Spacecraft
+Europa Clipper is the largest spacecraft NASA has ever
+developed for a planetary mission. The main spacecraft
+body is about 10 feet (3 meters) wide, 15.5 feet (4.7
+meters) tall, and 13 feet (4 meters) deep — about the
+size of a small box truck. When fully deployed, Europa
+Clipper stretches over 100 feet (30.5 meters) wide, a
+little longer than a basketball court.
+Because Jupiter is so far from the Sun, Europa Clipper
+needs enormous solar arrays to convert the faint
+sunlight into electricity, providing power for the
+spacecraft’s computers, heaters, science instruments,
+and other subsystems. The solar arrays will provide at
+least 700 watts throughout the prime mission, equivalent
+to powering seven 100-watt light bulbs.
+Europa Clipper is built to protect itself from Jupiter’s
+harsh radiation environment. The surface of the spacecraft will be exposed to the equivalent of about a few million chest X-rays during each flyby of Europa. A
+special aluminum-zinc alloy vault protects its sensitive
+electronics, and the design of the spacecraft’s Europa flybys minimizes the amount of time in high-radiation zones.
+The vault also features a unique tantalum metal plate
+engraved with messages in the form of artwork and
+poetry, along with a microchip stenciled with more
+than 2.6 million names contributed by the public to ride
+along to Europa.
+Mission Partners
+Managed by Caltech in Pasadena, California, NASA’s
+Jet Propulsion Laboratory (JPL) leads the development
+of the Europa Clipper mission in partnership with the
+Johns Hopkins Applied Physics Laboratory (APL) for
+NASA’s Science Mission Directorate in Washington.
+APL designed the main spacecraft body in collaboration with JPL and NASA’s Goddard Space Flight Center in Greenbelt, Maryland; NASA’s Marshall Space
+Flight Center in Huntsville, Alabama; and NASA’s
+Langley Research Center in Hampton, Virginia. The
+instruments were designed and built by JPL, APL, Arizona State University, and the University of Colorado
+at Boulder. The Planetary Missions Program Office at
+NASA’s Marshall Space Flight Center in Huntsville, Alabama, executes program management of the Europa
+Clipper mission.
+NASA’s Launch Services Program at Kennedy Space
+Center manages launch operations.
+Mission Websites
+For more information about the Europa Clipper
+mission, visit: https://europa.nasa.gov/
+Engineers and technicians inspect the main body of the Europa Clipper spacecraft just after delivery to NASA’s Jet Propulsion Laboratory in early June 2022.
+
+Credit: NASA/JPL-Caltech
+National Aeronautics and Space Administration
+Jet Propulsion Laboratory
+California Institute of Technology
+Pasadena, California
+www.nasa.gov
+NASA Facts
+
+----------------------------------------
+
+SOURCE: nh-fact-sheet-2015_1.pdf
+PDF PAGE: 1
+STATUS: ok
+
+National Aeronautics and Space Administration
+The First Mission to the Pluto System and the Kuiper Belt
+New Horizons
+
+Voyage to Unexplored Pluto and a
+New Realm
+The New Horizons mission will help us understand
+worlds at the edge of our solar system by making
+the first reconnaissance of the Pluto system and by
+venturing deeper into the distant, mysterious Kuiper
+Belt – a relic of solar system formation.
+The Journey
+New Horizons launched on Jan. 19, 2006; it swung
+past Jupiter for a gravity boost and scientific studies
+in February 2007, and is conducting a six-month-long
+reconnaissance flyby study of Pluto and its moons
+that started in early 2015. Pluto closest approach
+occurs on July 14, 2015. If NASA approves an extended mission, the spacecraft could head farther
+into the Kuiper Belt to examine one or two of the
+ancient, icy mini-worlds in that vast region, at least a
+billion miles beyond Neptune’s orbit.
+Sending a spacecraft on this long journey will help us
+answer basic questions about the surface properties,
+geology, interior makeup and atmospheres on these
+bodies.
+New Science
+The National Academy of Sciences has ranked the
+exploration of the Kuiper Belt – including Pluto – of
+the highest priority for solar system exploration.
+Artist’s concept of the New Horizons spacecraft and Pluto-Charon
+Generally, New Horizons seeks to understand where
+Pluto and its moons “fit in” with the other objects
+in the solar system, such as the inner rocky planets
+(Earth, Mars, Venus and Mercury) and the outer
+gas giants (Jupiter, Saturn, Uranus and Neptune).
+Pluto and its largest moon, Charon, belong to a third
+category known as “ice dwarfs.” They have solid surfaces but, unlike the terrestrial planets, a significant
+portion of their mass is icy material.
+Using Hubble Space Telescope images, New Horizons team members have discovered four previously
+unknown moons of Pluto: Nix, Hydra, Styx and
+Kerberos.
+A close-up look at these worlds from a spacecraft
+promises to tell an incredible story about the origins
+and outskirts of our solar system. New Horizons also
+will explore – for the first time – how ice dwarf planets
+like Pluto and Kuiper Belt bodies have evolved
+over time.
+The Need to Explore
+The United States has been the first nation to reach
+every planet from Mercury to Neptune with a space
+probe. If New Horizons is successful, it will allow the
+U.S. to complete the initial reconnaissance of the
+solar system.
+A Team Approach
+Principal Investigator Dr. Alan Stern, of Southwest
+Research Institute (SwRI), leads the mission team.
+The Johns Hopkins University Applied Physics Laboratory (APL) manages the mission for NASA, and
+designed, built and operates the spacecraft. SwRI
+is responsible for science payload operations, and
+data reduction and archiving, and participates in
+the science team. The mission team also includes
+KinetX, Inc. (navigation team), Ball Aerospace Corporation, the Boeing Company, NASA Goddard Space
+Flight Center, NASA Jet Propulsion Laboratory, Stanford University, Lockheed Martin Corporation, University of Colorado, the U.S. Department of Energy and
+a number of other firms, NASA centers and university
+partners.
+
+----------------------------------------
+
+SOURCE: nh-fact-sheet-2015_1.pdf
+PDF PAGE: 2
+STATUS: ok
+
+NASA Facts
+
+January 19, 2006
+New Horizons spacecraft lifts off from
+Cape Canaveral, Florida — the fastest
+spacecraft ever launched.
+February 2007
+New Horizons gets a gravity assist
+from Jupiter and gathers unique,
+exciting science data on the giant
+planet and its moons.
+Fall 2014
+Reconnaissance begins about
+200 days before the spacecraft’s
+closest approach to Pluto.
+2015
+Exploration of the Pluto
+system begins with a 6-month
+intensive study to understand these
+mysterious worlds. On July 14,
+New Horizons will make its closest
+approach to Pluto and its moons.
+2017–2020
+With NASA approval, the
+spacecraft will be directed
+toward one or more Kuiper
+Belt Objects beyond Pluto.
+EARTH
+JUPITER
+PLUTO
+Almost Ten Years and Over
+Three Billion Miles …
+Science Payload
+•
+Ralph: Visible and infrared imager/spectrometer; provides
+color, composition and thermal maps.
+•
+Alice: Ultraviolet imaging spectrometer; analyzes composition and structure of Pluto’s atmosphere and looks for atmospheres around Charon and Kuiper Belt Objects (KBOs).
+•
+REX (Radio Science EXperiment): Measures atmospheric
+composition and temperature; passive radiometer.
+•
+LORRI (Long Range Reconnaissance Imager): Telescopic
+camera; obtains encounter data at long distances, maps
+Pluto’s far side and provides high resolution geologic data.
+•
+SWAP (Solar Wind Around Pluto): Solar wind and plasma
+spectrometer; measures atmospheric “escape rate” and
+observes Pluto’s interaction with solar wind.
+•
+PEPSSI (Pluto Energetic Particle Spectrometer Science
+Investigation): Energetic particle spectrometer; measures
+the composition and density of plasma (ions) escaping from
+Pluto’s atmosphere.
+•
+VBSDC (Venetia Burney Student Dust Counter): Built and
+operated by students at University of Colorado; measures
+the space dust peppering New Horizons during its voyage
+across the solar system.
+PEPSSI
+SWAP
+LORRI
+VBSDC
+(Under spacecraft;
+not visible)
+Alice
+Ralph
+REX
+Join the Adventure
+New Horizons on the Web
+http://www.nasa.gov/newhorizons
+www.nasa.gov
+http://pluto.jhuapl.edu
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 1
+STATUS: ok
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+OURSOLARSYSTEM
+2013
+www.nasa.gov
+Inside
+Our Solar System
+Our Star — The Sun
+Mercury
+Venus
+Earth
+Earth’s Moon
+Mars
+Asteroids
+Meteors and Meteorites
+Moons of the Solar System
+Jupiter
+Galilean Moons of Jupiter
+Saturn
+Moons of Saturn
+Uranus
+Neptune
+Pluto and Charon
+Comets
+Kuiper Belt and Oort Cloud
+What Is a Planet?
+Educational Product
+Educators
+Grades K–12+
+LS-2013-07-003-HQ
+JPL 400-1489 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 2
+STATUS: ok
+
+NASA EDUCATIONAL RESOURCES
+The NASA portal (www.nasa.gov) is the gateway for information
+about content, programs, and services offered for the general
+public and the education community. NASA’s goal is to improve
+interactions for students, educators, and families with NASA
+and its education resources.
+NASA’s education home page (www.nasa.gov; click on “For
+Educators”) serves as the portal for information about educational programs and services offered by NASA. A directory
+of information provides details and points of contact for all
+of NASA’s educational efforts, NASA field center offices, and
+points of presence within each state.
+A wide variety of NASA educational materials, video clips, and
+links to other NASA educational websites can be found using
+the NASA education materials finder at www.nasa.gov/
+education/materials.
+The EarthSpace portal (www.lpi.usra.edu/earthspace) is a
+national clearinghouse for higher information space and Earth
+sciences, with resources for undergraduate education in planetary science and solar and space physics.
+NASA multimedia (www.nasa.gov) features International Space
+Station coverage, live special events, interactive educational
+live shows, electronic field trips, aviation and space news, and
+historical NASA footage. Links to a variety of NASA resources
+can be found here, such as the NASA image of the day, videos,
+audio and video podcasts, and interactive features.
+NASA’s Solar System Exploration website features formal and
+informal educational materials — visit solarsystem.nasa.gov and
+click on “Education.”
+Educator Resource Center Network (ERCN)
+NASA’s Educator Resource Center (ERC) network helps educators learn about NASA educational resources and provides
+NASA materials.
+Regional Educator Resource Centers offer access to NASA educational materials for educators. NASA has formed partnerships
+with universities, museums, and other educational institutions to
+serve as Regional ERCs in many states.
+Educators may wish to visit an individual NASA field center’s
+ERC website for details on materials, resources, directions,
+hours of operation, and other information.
+Go to www.nasa.gov and click on “For Educators” to locate the
+Regional ERCs.
+NASA Wavelength (www.nasawavelength.org) is a digital collection of Earth and space science resources for educators of all
+levels, from elementary to college, to out-of-school programs.
+The resources were developed through funding from the NASA
+Science Mission Directorate and have been peer-reviewed by
+educators and scientists.
+LS-2013-07-003-HQ — JPL 400-1489A 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 3
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Our Solar System
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 4
+STATUS: ok
+
+Humans have gazed at the heavens and tried to understand
+the cosmos for thousands of years. Ancient civilizations placed
+great emphasis on careful astronomical observations. Early
+Greek astronomers were among the first to leave a written record of their attempts to explain the cosmos. For them, the universe was Earth, the Sun, the Moon, the stars, and five glowing
+points of light that moved among the stars. The Greeks named
+the five points of light — called planetes, or wanderers — after
+their gods. The Romans later translated the names into Latin —
+Mercury, Venus, Mars, Jupiter, and Saturn — and these are the
+names astronomers use today. Planetary features are named by
+the International Astronomical Union, founded in 1919. For more
+information about the names of planets, moons, and features,
+consult the Gazetteer of Planetary Nomenclature website at
+planetarynames.wr.usgs.gov.
+Ancient observers believed that the Sun and all the other celestial bodies revolved around Earth. Astronomers gradually
+realized that the Earth-centered model did not account for the
+motions of the planets. In the early 17th century, Galileo Galilei’s discoveries using the recently invented telescope strongly
+supported the concept of a “solar system” in which all the planets, including Earth, revolve around a central star — the Sun.
+Planetary moons, the rings of Saturn, and more planets were
+eventually discovered: Uranus (in 1781) and Neptune (1846). The
+largest known asteroid, Ceres, was discovered between Mars
+and Jupiter in 1801. Originally classified as a planet, Ceres is
+now designated a dwarf planet (but retains its asteroid label),
+along with Pluto, which was discovered in 1930; Eris, found in
+2003; Haumea, found in 2004; and Makemake, found in 2005.
+There may be hundreds of dwarf planets in Pluto’s realm.
+Our solar system formed about 4.6 billion years ago. The four
+planets closest to the Sun — Mercury, Venus, Earth, and Mars —
+are called the terrestrial planets because they have solid, rocky
+surfaces. Two of the outer planets beyond the orbit of Mars —
+Jupiter and Saturn — are known as gas giants; the more distant
+Uranus and Neptune are called ice giants.
+Earth’s atmosphere is primarily nitrogen and oxygen. Mercury has a very tenuous atmosphere, while Venus has a thick
+atmosphere of mainly carbon dioxide. Mars’ carbon dioxide
+atmosphere is extremely thin. Jupiter and Saturn are composed
+mostly of hydrogen and helium, while Uranus and Neptune are
+composed mostly of water, ammonia, and methane, with icy
+mantles around their cores. The Voyager 1 and 2 spacecraft
+visited the gas giants, and Voyager 2 flew by and imaged the ice
+giants. Ceres and the outer dwarf planets — Pluto, Eris, Haumea, and Makemake — have similar compositions and are solid
+with icy surfaces. NASA spacecraft are en route to two of the
+dwarf planets — the Dawn mission visits Ceres in 2015 and the
+New Horizons mission reaches Pluto in that same year. Neither
+Ceres nor Pluto has been previously visited by any spacecraft.
+Moons, rings, and magnetic fields characterize the planets.
+There are 146 known planetary moons, with at least 27 moons
+awaiting official recognition. (Three of the dwarf planets have
+moons: Pluto has five, Eris has one, and Haumea has two.) The
+planetary moons are not all alike. One (Saturn’s Titan) has a thick
+atmosphere; another has active volcanoes (Jupiter’s Io). New
+moons are frequently discovered, so moon counts can change.
+Rings are an intriguing planetary feature. From 1659 to 1979,
+Saturn was thought to be the only planet with rings. NASA’s
+Voyager missions to the outer planets showed that Jupiter,
+Uranus, and Neptune also have ring systems.
+Most of the planets have magnetic fields that extend into space
+and form a magnetosphere around each planet. These magnetospheres rotate with the planet, sweeping charged particles with
+them.
+How big is our solar system? To think about the large distances,
+we use a cosmic ruler based on the astronomical unit (AU). One
+AU is the distance from Earth to the Sun, which is about 150 million kilometers or 93 million miles. Particles from the Sun can
+reach far beyond the planets, forming a giant bubble called the
+heliosphere. The enormous bubble of the heliosphere is created
+by the solar wind, a stream of charged gas blowing outward from
+the Sun. As the Sun orbits the center of the Milky Way, the bubble of the heliosphere moves also, creating a bow shock ahead
+of itself in interstellar space — like the bow of a ship in water
+— as it crashes into the interstellar gases. The region where the
+solar wind is abruptly slowed by pressure from gas between the
+stars is called the termination shock.
+Two NASA spacecraft, launched in 1977, have crossed the termination shock — Voyager 1 in 2004 and Voyager 2 in 2007. In late
+2011, Voyager 1 data showed that the spacecraft had entered
+the outermost region of the heliosphere. By 2013, Voyager 1 was
+about 18 billion kilometers (11 billion miles) from the Sun, and
+Voyager 2 was about 15 billion kilometers (9 billion miles) from
+the Sun. Scientists anticipate that Voyager 1 will cross into interstellar space, where gas and dust from other stars are found as
+well as the enormous Oort Cloud, within a few months to a few
+years. Both spacecraft should have enough electrical power to
+send data until at least 2020. It will be thousands of years before
+the two Voyagers exit the Oort Cloud, a vast spherical shell of icy
+bodies surrounding the solar system.
+As we explore the universe, we wonder: Are there other planets
+where life might exist? Are we alone? These are the great questions that science is now probing. Only recently have astronomers had the tools — sensitive telescopes on Earth and in space
+— to detect planets orbiting stars in other solar systems.
+FAST FACTS
+
+Mean Distance
+
+Equatorial
+from the Sun
+
+Body
+Radius
+km, mi,
+km
+mi
+millions millions Moons*
+Sun
+695,500
+432,200
+—
+—
+—
+Mercury
+2,440
+1,516
+57.91
+35.98
+0
+Venus
+6,052
+3,760
+108.21
+67.24
+0
+Earth
+6,378
+3,963
+149.60
+92.96
+1
+Moon
+1,737
+1,080
+**
+**
+—
+Mars
+3,397
+2,111
+227.94
+141.63
+2
+Jupiter
+71,492
+44,423
+778.41
+483.68
+50†
+Saturn
+60,268
+37,449
+1,426.73
+886.53
+53‡
+Uranus
+25,559
+15,882
+2,870.97
+1,783.94
+27
+Neptune
+24,764
+15,388
+4,498.25
+2,795.08
+13∆
+*Known moons as of July 2013. The dwarf planet moons are not included
+in this list, nor are asteroid moons.
+**Mean Earth–Moon distance: 384,400 kilometers or 238,855 miles.
+†Jupiter has 17 moons awaiting official confirmation, bringing the total to 67.
+‡Saturn has 9 moons awaiting official confirmation, bringing the total to 62.
+∆Neptune has 1 moon awaiting official confirmation, bringing the total to 14.
+ABOUT THE ILLUSTRATION
+The planets are shown in the upper part of the illustration in their
+correct order from the Sun and to the same relative size scale.
+If the distances between the planets were shown at the same
+scale, the illustration would be miles wide! The correct distance
+scale between planets is shown in the lower part of the illustration, but the sizes of the planets have been greatly exaggerated
+(even the Sun would be too small to see at the scale shown). The
+faint rings of Jupiter, Uranus, and Neptune are not shown. Dwarf
+planets Pluto, Eris, Haumea, and Makemake do not appear in
+the illustration. The dwarf planet Ceres is not shown separately;
+it resides in the asteroid belt between Mars and Jupiter.
+FOR MORE INFORMATION
+solarsystem.nasa.gov/planets/profile.cfm?Object=SolarSys
+solarsystem.nasa.gov/education/
+LG-2013-07-563-HQ — JPL 400-1489B 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 5
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Our Star — The Sun
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 6
+STATUS: ok
+
+Our solar system’s central star, the Sun, has inspired mythological stories in cultures around the world, including those of the
+ancient Egyptians, the Aztecs of México, Native American tribes
+of North America and Canada, the Chinese, and many others.
+A number of ancient cultures built stone structures or modified
+natural rock formations to mark the motions of the Sun and
+Moon — they charted the seasons, created calendars, and
+monitored solar and lunar eclipses. These architectural sites
+show evidence of deliberate alignments to astronomical phenomena: sunrises, moonrises, moonsets, even stars or planets.
+Many cultures believed that the Earth was immovable and the
+Sun, other planets, and stars revolved about it. Ancient Greek
+astronomers and philosophers knew this “geocentric” concept
+from as early as the 6th century BCE. Now we know, of course,
+that all the planets orbit our lone star — the Sun.
+The Sun is the closest star to Earth, at a mean distance from
+our planet of 149.60 million kilometers (92.96 million miles). This
+distance is known as an astronomical unit (abbreviated AU), and
+sets the scale for measuring distances all across the solar system. The Sun, a huge sphere of mostly ionized gas, supports life
+on Earth. The connection and interactions between the Sun and
+Earth drive the seasons, ocean currents, weather, and climate.
+About one million Earths could fit inside the Sun. It is held together by gravitational attraction, producing immense pressure
+and temperature at its core. The Sun has six regions — the core,
+the radiative zone, and the convective zone in the interior; the
+visible surface (the photosphere); the chromosphere; and the
+outermost region, the corona. The Sun has no solid surface.
+At the core, the temperature is about 15 million degrees Celsius
+(about 27 million degrees Fahrenheit), which is sufficient to
+sustain thermonuclear fusion. The energy produced in the core
+powers the Sun and produces essentially all the heat and light
+we receive on Earth. Energy from the core is carried outward by
+radiation, which bounces around the radiative zone, taking about
+170,000 years to get from the core to the convective zone. The
+temperature drops below 2 million degrees Celsius (3.5 million
+degrees Fahrenheit) in the convective zone, where large bubbles
+of hot plasma (a soup of ionized atoms) move upwards.
+The Sun’s “surface” — the photosphere — is a 500-kilometer-
+thick (300-mile-thick) region, from which most of the Sun’s
+radiation escapes outward and is detected as the sunlight we
+observe here on Earth about eight minutes after it leaves the
+Sun. Sunspots in the photosphere are areas with strong magnetic fields that are cooler, and thus darker, than the surrounding
+region. Sunspot numbers fluctuate every 11 years as part of the
+Sun’s magnetic activity cycle. Also connected to this cycle are
+bright solar flares and huge coronal mass ejections that blast off
+of the Sun.
+The temperature of the photosphere is about 5,500 degrees
+Celsius (10,000 degrees Fahrenheit). Above the photosphere lie
+the tenuous chromosphere and the corona (“crown”). Visible light
+from these top regions is usually too weak to be seen against the
+brighter photosphere, but during total solar eclipses, when the
+Moon covers the photosphere, the chromosphere can be seen
+as a red rim around the Sun while the corona forms a beautiful white crown with plasma streaming outward, forming the
+“points” of the crown.
+Above the photosphere, temperature increases with altitude,
+reaching as high as 2 million degrees Celsius (3.5 million degrees
+Fahrenheit). The source of coronal heating has been a scientific
+mystery for more than 50 years. Likely solutions emerged from
+observations by the Solar and Heliospheric Observatory (SOHO)
+and the Transition Region and Coronal Explorer (TRACE) missions, but the complete answer still evades scientists. Recent
+missions — Hinode, Solar Terrestrial Relations Observatory
+(STEREO), and the Solar Dynamics Observatory (SDO) — greatly
+improved our knowledge of the corona, getting us still closer to
+the answer. They also give us an unprecedented understanding
+of the physics of space weather phenomena such as solar flares,
+coronal mass ejections, and solar energetic particles. Space
+weather can adversely affect our technology in space and on
+Earth; these missions help us to develop space weather reports.
+FAST FACTS
+Spectral Type of Star
+G2V
+Age
+4.6 billion years
+Mean Distance to Earth
+149.60 million km
+(92.96 million mi) (1 astronomical unit)
+Rotation Period at Equator
+26.8 days
+Rotation Period at Poles
+36 days
+Equatorial Radius
+695,500 km (432,200 mi)
+Mass
+1.989 × 1030 kg
+Density
+1.409 g/cm3
+Composition
+92.1% hydrogen, 7.8% helium,
+
+0.1% other elements
+Surface Temperature (Photosphere)
+5,500 deg C
+(10,000 deg F)
+Luminosity*
+3.83 × 1033 ergs/sec
+*The total energy radiated by the Sun (or any star) per second at all wavelengths.
+SIGNIFICANT DATES
+150 CE — Greek scholar Claudius Ptolemy writes the
+Almagest, formalizing the Earth-centered model of the solar
+system. The model was accepted until the 16th century.
+1543 — Nicolaus Copernicus publishes On the Revolutions of
+the Celestial Spheres describing his heliocentric (Sun-centered)
+model of the solar system.
+1610 — First observations of sunspots through a telescope
+made independently by Galileo Galilei and Thomas Harriot.
+1645–1715 — Sunspot activity declines to almost zero, possibly
+causing a “Little Ice Age” on Earth.
+1860 — Eclipse observers see a massive burst of material from
+the Sun; it is the first recorded coronal mass ejection.
+1994 — The Ulysses spacecraft makes the first observations of
+the Sun’s polar regions.
+2004 — NASA’s Genesis spacecraft returns samples of the solar
+wind to Earth for study.
+2007 — NASA’s double-spacecraft STEREO mission returns the
+first three-dimensional images of the Sun.
+2009 — After more than 18 years, the Ulysses mission ends.
+2010 — SDO is launched and begins observing the Sun in
+super-high definition.
+2011 — The STEREO spacecraft, from their dual perspective,
+see the entire Sun for the first time.
+ABOUT THE IMAGES
+Active regions spin
+out bright loops above
+the Sun that trace
+magnetic field lines
+(SDO image in extreme
+ultraviolet light).
+1
+Magnetic fields are believed to cause huge, super-hot
+coronal loops that tower above the Sun’s surface (TRACE image).
+An illustration of a coronal mass ejection and interaction
+with Earth’s magnetic field (not to scale). The pressure from the
+Sun forces Earth’s magnetic field into a windsock shape.
+The Sun unleashed a solar flare with a spectacular coronal
+mass ejection on June 7, 2011 (SDO extreme ultraviolet image).
+These large sunspots in the photosphere were associated
+with several powerful solar flares in 2003 (SOHO image).
+FOR MORE INFORMATION
+solarsystem.nasa.gov/sun
+
+2
+4
+5
+3
+1
+2
+3
+4
+5
+LG-2013-07-564-HQ — JPL 400-1489C 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 7
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Mercury
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 8
+STATUS: ok
+
+Mercury’s eccentric orbit takes the small planet as close as
+47 million kilometers (29 million miles) and as far as 70 million
+kilometers (43 million miles) from the Sun. If one could stand on
+the scorching surface of Mercury when it is at its closest point
+to the Sun, the Sun would appear more than three times as large
+as it does when viewed from Earth. Temperatures on Mercury’s
+surface can reach 430 degrees Celsius (800 degrees Fahren-
+heit). Because the planet has no atmosphere to retain that heat,
+nighttime temperatures on the surface can drop to –180 degrees
+Celsius (–290 degrees Fahrenheit).
+Because Mercury is so close to the Sun, it is hard to directly observe from Earth except during dawn or twilight. Mercury makes
+an appearance indirectly, however — 13 times each century,
+observers on Earth can watch Mercury pass across the face of
+the Sun, an event called a transit. These rare transits fall within
+several days of May 8 and November 10. The first two transits of
+Mercury in the 21st century occurred May 7, 2003, and November 8, 2006. The next are May 9, 2016, and November 11, 2019.
+Mercury speeds around the Sun every 88 days, traveling
+through space at nearly 50 kilometers (31 miles) per second
+— faster than any other planet. One Mercury solar day equals
+175.97 Earth days.
+Instead of an atmosphere, Mercury possesses a thin “exosphere” made up of atoms blasted off the surface by the solar
+wind and striking micrometeoroids. Because of solar radiation
+pressure, the atoms quickly escape into space and form a “tail”
+of neutral particles. Though Mercury’s magnetic field at the surface has just 1 percent the strength of Earth’s, it interacts with
+the magnetic field of the solar wind to episodically create intense
+“magnetic tornadoes” that funnel the fast, hot solar wind plasma
+down to the surface. When the ions strike the surface, they
+knock off neutrally charged atoms and send them on a loop high
+into the sky.
+Mercury’s surface resembles that of Earth’s Moon, scarred
+by many impact craters resulting from collisions with meteoroids and comets. Very large impact basins, including Caloris
+(1,550 kilometers, or 960 miles, in diameter) and Rachmaninoff
+(306 kilometers, or 190 miles), were created by asteroid impacts
+on the planet’s surface early in the solar system’s history. While
+there are large areas of smooth terrain, there are also lobe-
+shaped scarps or cliffs, some hundreds of miles long and soaring up to a mile high, formed as the planet’s interior cooled and
+contracted over the billions of years since Mercury formed.
+Mercury is the second densest planet after Earth, with a
+large metallic core having a radius of about 2,000 kilometers
+(1,240 miles), about 80 percent of the planet’s radius. In 2007,
+researchers used ground-based radars to study the core, and
+found evidence that it is partly molten (liquid). Mercury’s outer
+shell, comparable to Earth’s outer shell (called the mantle and
+crust), is only about 400 kilometers (250 miles) thick.
+The first spacecraft to visit Mercury was Mariner 10, which imaged about 45 percent of the surface. NASA’s MErcury Surface,
+Space ENvironment, GEochemistry, and Ranging (MESSENGER)
+mission flew by Mercury three times in 2008–2009 and has
+been in orbit around the planet since March 18, 2011. The entire
+planet has now been imaged, revealing a surface that has been
+shaped both by extensive volcanism and impacts.
+Data from MESSENGER’s scientific instruments have provided a
+trove of scientific discoveries. These include the identification of
+a new landform known as “hollows,” measurements indicating
+that Mercury has a remarkably high abundance of the volatile
+elements sulfur and potassium, and the discoveries that Mercury’s magnetic field is offset relative to the planet’s equator and
+that the planet has a highly unusual internal structure. In 1991,
+astronomers on Earth using radar observations showed that
+Mercury may have water ice at its north and south poles inside
+deep craters. MESSENGER observations have shown that
+the materials identified by radar are present only in regions of
+permanent shadow, consistent with the idea that they are cold
+enough to preserve water ice, despite the extreme high temperatures experienced by sunlit parts of the planet.
+FAST FACTS
+Namesake
+Messenger of the Roman gods
+Mean Distance from the Sun
+57.91 million km
+
+(35.98 million mi)
+Orbit Period
+87.97 Earth days
+Orbit Eccentricity (Circular Orbit = 0)
+0.206
+Orbit Inclination to Ecliptic
+7 deg
+Inclination of Equator to Orbit
+0 deg
+Rotation Period
+58.65 Earth days
+Successive Sunrises
+175.97 days
+Equatorial Radius
+2,440 km (1,516 mi)
+Mass
+0.055 of Earth’s
+Density
+5.43 g/cm3 (0.98 of Earth’s)
+Gravity
+0.38 of Earth’s
+Exosphere Components
+hydrogen, helium, sodium,
+potassium, calcium, magnesium
+Temperature Range
+–180 to 430 deg C
+
+(–290 to 800 deg F)
+Known Moons
+0
+Rings
+0
+SIGNIFICANT DATES
+1609 — Thomas Harriott and Galileo Galilei observe Mercury
+with the newly invented telescope.
+1631 — Pierre Gassendi uses a telescope to watch from Earth
+as Mercury crosses the face of the Sun.
+1965 — Incorrectly believing for centuries that the same side of
+Mercury always faces the Sun, astronomers find that the planet
+rotates three times for every two orbits.
+1974–1975 — Mariner 10 photographs roughly half of Mercury’s
+surface in three flybys.
+1991 — Scientists using Earth-based radar find signs of ice
+locked in permanently shadowed areas of craters in Mercury’s
+polar regions.
+2008–2009 — MESSENGER observes Mercury during three
+flybys.
+2011 — MESSENGER begins its orbital mission of Mercury,
+yielding a treasure trove of images, compositional data, and scientific discoveries.
+ABOUT THE IMAGES
+2
+3
+5
+4
+1
+3
+4
+5
+2
+A MESSENGER
+1
+visible–infrared mosaic
+translated to colors the
+eye can see to accentu-
+ate subtle differences in
+color on the surface.
+A close-up, enhanced color view of “hollows” located on
+the peak-ring of Raditladi basin. The image is 20 kilometers
+(12 miles) tall. A peak-ring basin has two rings; the outer ring is
+the rim of the basin.
+A MESSENGER visible–infrared color image of the peak-ring
+basin Rachmaninoff.
+The object that formed crater Ailey partially destroyed an
+older impact crater. Ailey, 21 kilometers (13 miles) in diameter,
+was imaged by MESSENGER and named in 2012.
+A mosaic of Victoria Rupes, a scarp nearly 500 kilometers
+(310 miles) long, imaged by MESSENGER.
+FOR MORE INFORMATION
+solarsystem.nasa.gov/mercury
+LG-2013-07-565-HQ — JPL 400-1489D 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 9
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Venus
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 10
+STATUS: ok
+
+Venus and Earth are similar in size, mass, density, composition, and gravity. There, however, the similarities end. Venus
+is covered by a thick, rapidly spinning atmosphere, creating a
+scorched world with temperatures hot enough to melt lead and
+surface pressure 90 times that of Earth (similar to the bottom
+of a swimming pool 1-1/2 miles deep). Because of its proximity
+to Earth and the way its clouds reflect sunlight, Venus appears
+to be the brightest planet in the sky. We cannot normally see
+through Venus’ thick atmosphere, but NASA’s Magellan mission
+during the early 1990s used radar to image 98 percent of the
+surface, and the Galileo spacecraft used infrared mapping to
+view both the surface and mid-level cloud structure as it passed
+by Venus on the way to Jupiter. In 2010, infrared surface images by the European Space Agency’s Venus Express provided
+evidence for recent volcanism within the past several hundred
+thousand years. Indeed, Venus may be volcanically active today.
+Like Mercury, Venus can be seen periodically passing across
+the face of the Sun. These “transits” of Venus occur in pairs with
+more than a century separating each pair. Transits occurred in
+1631, 1639; 1761, 1769; and 1874, 1882. On June 8, 2004, astronomers worldwide watched the tiny dot of Venus crawl across
+the Sun; and on June 6, 2012, the second in this pair of transits
+occurred. The next transit is December 11, 2117. Observing
+these transits helps us understand the capabilities and limitations of techniques used to find and characterize planets around
+other stars.
+Venus’ atmosphere consists mainly of carbon dioxide, with
+clouds of sulfuric acid droplets. Only trace amounts of water
+have been detected in the atmosphere. The thick atmosphere
+traps the Sun’s heat, resulting in surface temperatures higher
+than 470 degrees Celsius (880 degrees Fahrenheit). The few
+probes that have landed on Venus have not survived longer than
+2 hours in the intense heat. Sulfur compounds are abundant in
+Venus’ clouds; the corrosive chemistry and dense, moving
+atmosphere cause significant surface weathering and erosion.
+The Venusian year (orbital period) is about 225 Earth days long,
+while the planet’s rotation period is 243 Earth days, making a
+Venus day about 117 Earth days long. Venus rotates retrograde
+(east to west) compared with Earth’s prograde (west to east) rotation. Seen from Venus, the Sun would rise in the west and set
+in the east. As Venus moves forward in its solar orbit while slowly
+rotating “backwards” on its axis, the top level of cloud layers
+zips around the planet every four Earth days, driven by hurricane-force winds traveling at about 360 kilometers (224 miles)
+per hour. Speeds within the clouds decrease with cloud height,
+and at the surface are estimated to be just a few kilometers per
+hour. How this atmospheric “super-rotation” forms and is maintained continues to be a topic of scientific investigation.
+Atmospheric lightning bursts, long suspected by scientists, were
+confirmed in 2007 by the European Venus Express orbiter. On
+Earth, Jupiter, and Saturn, lightning is associated with water
+clouds, but on Venus, it is associated with sulfuric acid clouds.
+Craters smaller than 1.5 to 2 kilometers (0.9 to 1.2 miles) across
+do not exist on Venus, because small meteors burn up in the
+dense atmosphere before they can reach the surface. It is
+thought that Venus was completely resurfaced by volcanic activity 300 to 500 million years ago. More than 1,000 volcanoes or
+volcanic centers larger than 20 kilometers (12 miles) in diameter
+dot the surface. Volcanic flows have produced long, sinuous
+channels extending for hundreds of kilometers. Venus has two
+large highland areas — Ishtar Terra, about the size of Australia,
+in the north polar region; and Aphrodite Terra, about the size of
+South America, straddling the equator and extending for almost
+10,000 kilometers (6,000 miles). Maxwell Montes, the highest
+mountain on Venus and comparable to Mount Everest on Earth,
+is at the eastern edge of Ishtar Terra.
+Venus has an iron core that is approximately 3,000 kilometers
+(1,200 miles) in radius. Venus has no global magnetic field —
+though its core iron content is similar to that of Earth, Venus
+rotates too slowly to generate the type of magnetic field that
+Earth has.
+FAST FACTS
+Namesake
+Roman goddess of love and beauty
+Mean Distance from the Sun
+108.21 million km
+
+(67.24 million mi)
+Orbit Period
+224.70 Earth days
+Orbit Eccentricity (Circular Orbit = 0)
+0.0068
+Orbit Inclination to Ecliptic
+3.39 deg
+Inclination of Equator to Orbit
+177.3 deg
+Rotation Period
+243.02 Earth days (retrograde)
+Successive Sunrises
+116.75 days
+Equatorial Radius
+6,052 km (3,760 mi)
+Mass
+0.815 of Earth’s
+Density
+5.24 g/cm3 (0.95 of Earth’s)
+Gravity
+0.91 of Earth’s
+Atmosphere Primary Component
+carbon dioxide
+Temperature at Surface
+470 deg C (880 deg F)
+Known Moons
+0
+Rings
+0
+SIGNIFICANT DATES
+650 CE — Mayan astronomers make detailed observations of
+Venus, leading to a highly accurate calendar.
+1761–1769 — Two European expeditions to watch Venus cross
+in front of the Sun lead to the first good estimate of the Sun’s
+distance from Earth.
+1962 — NASA’s Mariner 2 reaches Venus and reveals the planet’s extreme surface temperatures. It is the first spacecraft to
+send back information from another planet.
+1970 — The Soviet Union’s Venera 7 sends back 23 minutes of
+data from the surface of Venus. It is the first spacecraft to successfully land on another planet.
+1990–1994 — NASA’s Magellan spacecraft, in orbit around
+Venus, uses radar to map 98 percent of the planet’s surface.
+2005 — The European Space Agency launches Venus Express
+to study the atmosphere and surface. The orbiter reached Venus
+in April 2006, and will study the planet through at least December 31, 2014. Japan’s Akatsuki (“Dawn”) orbiter is en route to
+Venus, scheduled to arrive in 2015. Combining the Venus
+Express and Akatsuki datasets should greatly enhance our
+knowledge of the planet.
+ABOUT THE IMAGES
+
+1
+1
+2
+3
+4
+5
+6
+2
+4
+5
+6
+3
+A 1979 Pioneer
+Venus image of Venus’
+clouds seen in ultraviolet.
+This composite
+global view created
+from Magellan radar images is color-coded to represent varying
+elevations.
+This Magellan radar image reveals impact craters.
+Magellan radar images were used to create this three-
+dimensional view of Venus’ Maat Mons volcano (vertical scale is
+exaggerated 22.5 times).
+This false-color composite image of Magellan radar and
+Venus Express infrared data show emissivity (orange) of the
+ground overlying a volcanic peak, characteristic of young, unweathered volcanic basalts less than a few hundred years old.
+This view of Venus transiting the face of the Sun on June 6,
+2012, was taken by NASA’s Solar Dynamics Observatory.
+FOR MORE INFORMATION
+solarsystem.nasa.gov/venus
+LG-2013-07-566-HQ — JPL 400-1489E 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 11
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Earth
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 12
+STATUS: ok
+
+Earth, our home planet, is the only planet in our solar system
+known to harbor life — life that is incredibly diverse. All the
+things we need to survive exist under a thin layer of atmosphere
+that separates us from the cold, airless void of space.
+Earth is made up of complex, interactive systems that create a
+constantly changing world that we are striving to understand.
+From the vantage point of space, we are able to observe our
+planet globally, using sensitive instruments to understand the
+delicate balance among its oceans, air, land, and life. NASA satellite observations help study and predict weather, drought, pollution, climate change, and many other phenomena that affect
+the environment, economy, and society.
+Earth is the third planet from the Sun and the fifth largest in the
+solar system. Earth’s diameter is just a few hundred kilometers
+larger than that of Venus. The four seasons are a result of Earth’s
+axis of rotation being tilted 23.45 degrees with respect to the
+plane of Earth’s orbit around the Sun. During part of the year, the
+northern hemisphere is tilted toward the Sun and the southern
+hemisphere is tilted away, producing summer in the north and
+winter in the south. Six months later, the situation is reversed.
+When spring and fall begin, both hemispheres receive roughly
+equal amounts of solar illumination.
+Earth’s global ocean, which covers nearly 70 percent of the
+planet’s surface, has an average depth of about 4 kilometers
+(2.5 miles). Fresh water exists in the liquid phase only within a
+narrow temperature span — 0 to 100 degrees Celsius (32 to
+212 degrees Fahrenheit). This span is especially narrow when
+contrasted with the full range of temperatures found within the
+solar system. The presence and distribution of water vapor in the
+atmosphere is responsible for much of Earth’s weather.
+Near the surface, an atmosphere that consists of 78 percent
+nitrogen, 21 percent oxygen, and 1 percent other ingredients envelops us. The atmosphere affects Earth’s long-term climate and
+short-term local weather, shields us from much of the harmful
+radiation coming from the Sun, and protects us from meteors as
+well — most of which burn up before they can strike the surface
+as meteorites. Our planet’s rapid rotation and molten nickel–iron
+core give rise to a magnetic field, which the solar wind distorts
+into a teardrop shape in space. (The solar wind is a stream of
+charged particles continuously ejected from the Sun.) When
+charged particles from the solar wind become trapped in Earth’s
+magnetic field, they collide with air molecules above our planet’s
+magnetic poles. These air molecules then begin to glow, and are
+known as the aurorae — the northern and southern lights.
+Earth’s lithosphere, which includes the crust (both continental
+and oceanic) and the upper mantle, is divided into huge plates
+that are constantly moving. For example, the North American
+plate moves west over the Pacific Ocean basin, roughly at a rate
+equal to the growth of our fingernails. Earthquakes result when
+plates grind past one another, ride up over one another, collide
+to make mountains, or split and separate. Unifying centuries
+of Earth sciences studies, the theory of motion of lithospheric
+plates was developed within only the last 47 years.
+FAST FACTS
+Mean Distance from the Sun
+149.60 million km
+
+(92.96 million mi) (1 astronomical unit)
+Orbit Period
+365.26 days
+Orbit Eccentricity (Circular Orbit = 0)
+0.0167
+Orbit Inclination to Ecliptic
+0.00005 deg
+Inclination of Equator to Orbit
+23.45 deg
+Rotation Period
+23.93 hr
+Successive Sunrises
+24.00 hr
+Equatorial Radius
+6,378 km (3,963 mi)
+Mass
+5.9737 × 1024 kg
+Density
+5.515 g/cm3
+Gravity (Global Average)
+9.8 m/sec2 (32.15 ft/sec2)
+Atmosphere Primary Components
+nitrogen, oxygen
+Surface Temperature Range
+–88 to 58 deg C
+
+(–126 to 136 deg F)
+Known Moons
+1
+Rings
+0
+SIGNIFICANT DATES
+1960 — NASA launches the Television Infrared Observation
+Satellite (TIROS), the first weather satellite.
+1972 — The Earth Resources Technology Satellite 1 (renamed
+Landsat 1) is launched.
+1987 — NASA’s Airborne Antarctic Ozone Experiment helps
+determine the cause of the Antarctic ozone hole.
+1992 — TOPEX/Poseidon, a U.S.–France mission, begins
+measuring sea-surface height. Jason 1 continues in 2001.
+1997 — TOPEX/Poseidon captures the onset of one of the
+largest El Niño events of the 20th century.
+1997 — The U.S.–Japan Tropical Rainfall Measuring Mission is
+launched to provide 3-D maps of storm structure.
+1999 — Quick Scatterometer (QuikScat) launches in June to
+measure ocean surface wind velocity; in December the Active
+Cavity Irradiance Monitor Satellite launches to monitor the total
+amount of the Sun’s energy reaching Earth.
+1999–2006 — A series of satellites is launched to provide
+global observations of the Earth system: Terra (land, oceans,
+atmosphere), Aqua (water cycle), Aura (atmospheric chemistry)
+CloudSat (clouds), and the Cloud–Aerosol Lidar and Infrared
+Pathfinder Satellite Observation mission (aerosols, clouds).
+2002 — The Gravity Recovery and Climate Experiment launches
+to monitor mass variations associated with land features and
+water movement.
+2006 — The Antarctic ozone hole was the largest yet observed.
+2007 — Arctic sea ice reaches the all-time minimum since satellite records began.
+2008 — The third U.S.–France mission to measure sea-level
+height, Ocean Surface Topography Mission/Jason 2, is launched,
+doubling global data coverage.
+2009 — NASA and Japan release the most accurate topographic
+map of Earth.
+2011 — NASA launches Aquarius, its first instrument to measure
+the salinity of the global oceans.
+ABOUT THE IMAGES
+A “blue marble”
+composite image of
+Earth taken by NASA’s
+Suomi National Polar-
+orbiting Partnership
+(NPP) satellite.
+Studies show the oldest and thickest sea ice in the Arctic
+is disappearing even faster than younger and thinner ice at the
+fringe of the polar ice cap.
+Color-coded data from Aquarius reveal the Atlantic Ocean’s
+high s
+3
+alinity (orange), due in part to high evaporation, and the
+Pacific’s low salinity (blue) along the tropical rain belt.
+This map of the global biosphere shows plant growth (green)
+and phytoplankton (blue green).
+Sea-level-measuring satellites track El Niño and La Niña
+in the Pacific; the blue area in this color-coded image shows
+La Niña (low sea level/cold water) in April 2008.
+This visualization of a gravity model shows variations
+in E
+6
+arth’s gravity field across North and South America. Red
+indicates areas where gravity is stronger.
+FOR MORE INFORMATION
+solarsystem.nasa.gov/earth
+
+4
+2
+5
+2
+4
+5
+3
+6
+1
+1
+LG-2013-07-567-HQ — JPL 400-1489F 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 13
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Earth’s Moon
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 14
+STATUS: ok
+
+The regular daily and monthly rhythms of Earth’s only natural
+satellite, the Moon, have guided timekeepers for thousands of
+years. Its influence on Earth’s cycles, notably tides, has been
+charted by many cultures in many ages. The Moon moderates
+Earth’s wobble on its axis, leading to a relatively stable climate
+over billions of years. From Earth, we always see the same face
+of the Moon because the Moon is spinning on its axis at the
+same speed that it is going around Earth (that is, it is in synchronous rotation with Earth).
+The light areas of the Moon are known as the highlands. The
+dark features, called maria (Latin for seas), are impact basins
+that were filled with lava between 4.2 and 1.2 billion years ago.
+These light and dark areas represent rocks of different composition and ages, which provide evidence for how the early crust
+may have crystallized from a lunar magma ocean. The craters
+themselves, which have been preserved for billions of years,
+provide an impact history for the Moon and other bodies in the
+inner solar system.
+The leading theory of the Moon’s origin is that a Mars-sized
+body collided with Earth approximately 4.5 billion years ago, and
+the resulting debris from both Earth and the impactor accumulated to form our natural satellite. The newly formed Moon was
+in a molten state. Within about 100 million years, most of the
+global “magma ocean” had crystallized, with less-dense rocks
+floating upward and eventually forming the lunar crust. The early
+Moon may have developed an internal dynamo, the mechanism
+for global magnetic fields for terrestrial planets.
+Since the ancient time of volcanism, the arid, lifeless Moon has
+remained nearly unchanged. With too sparse an atmosphere
+to impede impacts, a steady rain of asteroids, meteoroids, and
+comets strikes the surface. Over billions of years, the surface
+has been ground up into fragments ranging from huge boulders
+to powder. Nearly the entire Moon is covered by a rubble pile of
+charcoal-gray, powdery dust and rocky debris called the lunar
+regolith. Beneath is a region of fractured bedrock referred to as
+the megaregolith.
+The Moon was first visited by the U.S.S.R.’s Luna 1 and 2 in
+1959, and a number of U.S. and U.S.S.R. robotic spacecraft
+followed. The U.S. sent three classes of robotic missions to prepare the way for human exploration: the Rangers (1961–1965)
+were impact probes, the Lunar Orbiters (1966–1967) mapped
+the surface to find landing sites, and the Surveyors (1966–1968)
+were soft landers. The first human landing on the Moon was
+on July 20, 1969. During the Apollo missions of 1969–1972,
+12 American astronauts walked on the Moon and used a Lunar
+Roving Vehicle to travel on the surface and extend their studies
+of soil mechanics, meteoroids, lunar ranging, magnetic fields,
+and solar wind. The Apollo astronauts brought back 382 kilograms (842 pounds) of rock and soil to Earth for study.
+After a long hiatus, lunar exploration resumed in the 1990s with
+the U.S. robotic missions Clementine and Lunar Prospector. Results from both missions suggested that water ice might be present at the lunar poles, but a controlled impact of the Prospector
+spacecraft produced no observable water.
+The European Space Agency was first in the new millennium
+with SMART-1 in 2003, followed by Kaguya (Japan), Chang’e 1
+(China), and Chandrayaan-1 (India) in 2007–2008. The U.S. began a new series of robotic lunar missions with the joint launch
+of the Lunar Reconnaissance Orbiter (LRO) and Lunar Crater
+Observation and Sensing Satellite (LCROSS) in 2009. In 2011, a
+pair of repurposed spacecraft began the ARTEMIS (Acceleration,
+Reconnection, Turbulence, and Electrodynamics of the Moon’s
+Interaction with the Sun) mission. In 2012, the Gravity Recovery and Interior Laboratory (GRAIL) twin spacecraft studied the
+Moon’s gravity field and produced the highest-resolution gravity
+field map of any celestial body. The Lunar Atmosphere and Dust
+Environment Explorer (LADEE) is scheduled to launch in 2013.
+FAST FACTS
+Mean Distance from Earth
+384,400 km (238,855 mi)
+Orbit Period
+27.32 Earth days
+Orbit Eccentricity (Circular Orbit = 0)
+0.05490
+Orbit Inclination to Ecliptic
+5.145 deg
+Inclination of Equator to Orbit
+6.68 deg
+Rotation Period
+27.32 Earth days
+Equatorial Radius
+1,737.4 km (1,079.6 mi)
+Mass
+0.0123 of Earth’s
+Density
+3.341 g/cm3 (0.61 of Earth’s)
+Gravity
+0.166 of Earth’s
+Temperature Range
+–248 to 123 deg C (–414 to 253 deg F)
+SIGNIFICANT DATES
+1610 — Galileo Galilei is the first to use a telescope to make
+scientific observations of the Moon.
+1959–1976 — The U.S.S.R.’s Luna program of 17 robotic
+missions achieves many “firsts” and three sample returns.
+1961–1968 — The U.S. Ranger, Lunar Orbiter, and Surveyor
+robotic missions pave the way for Apollo human lunar landings.
+1969 — Astronaut Neil Armstrong is the first human to walk on
+the Moon’s surface.
+1994–1999 — Clementine and Lunar Prospector data suggest
+that water ice may exist at the lunar poles.
+2003 — The European Space Agency’s SMART-1 lunar orbiter
+inventories key chemical elements.
+2007–2008 — Japan’s second lunar spacecraft, Kaguya, and
+China’s first lunar spacecraft, Chang’e 1, both begin one-year
+missions orbiting the Moon; India’s Chandrayaan-1 soon follows
+in lunar orbit.
+2008 — The NASA Lunar Science Institute is formed to help lead
+NASA’s research activities related to lunar exploration goals.
+2009 — NASA’s LRO and LCROSS launch together, beginning
+the U.S. return to lunar exploration. In October, LCROSS was
+directed to impact a permanently shadowed region near the
+lunar south pole, resulting in the discovery of water ice.
+2011 — Twin GRAIL spacecraft launch to map the interior of
+the Moon from crust to core, and NASA begins the ARTEMIS
+mission to study the Moon’s interior and surface composition.
+ABOUT THE IMAGES
+5
+6
+7
+2
+4
+3
+1
+2
+3
+4
+5
+6
+7
+About 1,300
+images from LRO’s
+wide-angle camera
+were used to compose
+this spectacular view
+of the lunar nearside.
+
+1
+Apollo 12 astronaut Charles Conrad approaches Surveyor 3,
+a robotic spacecraft that soft-landed on the Moon in 1967.
+This bootprint marks one of the first steps human beings
+took on the Moon in July 1969.
+This LRO false-color image shows elevations on the farside
+of the Moon: highest elevations are in red and lowest in blue.
+This LRO image reveals that one edge of Giordano Bruno
+crater has collapsed, creating a slump terrace.
+The Apollo 8 crew took this picture of Earth rising over the
+surface of the Moon in 1968.
+Diviner, LRO’s temperature instrument, measured the floor
+of the permanently shaded crater Hermite and recorded the
+coldest temperature measured anywhere in the solar system
+(middle right, in purple): –240 deg C (33 kelvins or –400 deg F).
+FOR MORE INFORMATION
+solarsystem.nasa.gov/moon
+LG-2013-07-568-HQ — JPL 400-1489G 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 15
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Mars
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 16
+STATUS: ok
+
+Though details of Mars’ surface are difficult to see from Earth,
+telescope observations show seasonally changing features and
+white patches at the poles. For decades, people speculated that
+bright and dark areas on Mars were patches of vegetation, Mars
+was a likely place for advanced life forms, and water might exist
+in the polar caps. When the Mariner 4 spacecraft flew by Mars in
+1965, photographs of a bleak, cratered surface shocked many
+— Mars seemed to be a dead planet. Later missions, however,
+showed that Mars is a complex planet and holds many mysteries
+yet to be solved. Chief among them is whether Mars ever had
+the right conditions to support small life forms called microbes.
+Mars is a rocky body about half the size of Earth. As with the
+other terrestrial planets — Mercury, Venus, and Earth — volcanoes, impact craters, crustal movement, and atmospheric conditions such as dust storms have altered the surface of Mars.
+Mars has two small moons, Phobos and Deimos, that may be
+captured asteroids. Potato-shaped, they have too little mass for
+gravity to make them spherical. Phobos, the innermost moon, is
+heavily cratered, with deep grooves on its surface.
+Like Earth, Mars experiences seasons due to the tilt of its rotational axis. Mars’ orbit is about 1.5 times farther from the Sun
+than Earth’s and is slightly elliptical, so its distance from the Sun
+changes. That affects the length of martian seasons, which vary
+in length. The polar ice caps on Mars grow and recede with the
+seasons. Layered areas near the poles suggest that the planet’s
+climate has changed more than once. Volcanism in the highlands
+and plains was active more than 3 billion years ago. Some of the
+giant shield volcanoes are younger, having formed between
+1 and 2 billion years ago. Mars has the largest volcano in the
+solar system, Olympus Mons, as well as a spectacular equatorial
+canyon system, Valles Marineris.
+Mars has no global magnetic field today. However, NASA’s Mars
+Global Surveyor orbiter found that areas of the martian crust
+in the southern hemisphere are highly magnetized, indicating
+traces of a magnetic field from 4 billion years ago that remain.
+Scientists believe that Mars experienced huge floods about
+3.5 billion years ago. Though we do not know where the ancient
+flood water came from, how long it lasted, or where it went,
+recent missions to Mars have uncovered intriguing hints. In
+2002, NASA’s Mars Odyssey orbiter detected hydrogen-rich
+polar deposits, indicating large quantities of water ice close to
+the surface. Further observations found hydrogen in other areas
+as well. If water ice permeated the entire planet, Mars could
+have substantial subsurface layers of frozen water. In 2004, Mars
+Exploration Rover Opportunity found structures and minerals
+indicating that liquid water once existed at its landing site. The
+rover’s twin, Spirit, also found the signature of ancient water near
+its landing site, halfway around Mars from Opportunity’s location.
+The cold temperatures and thin atmosphere on Mars do not
+allow liquid water to exist at the surface for long. The quantity
+of water required to carve Mars’ great channels and flood plains
+is not evident today. Unraveling the story of water on Mars is
+important to unlocking its climate history, which will help us
+understand the evolution of all the planets. Water is an essential
+ingredient for life as we know it. Evidence of long-term past or
+present water on Mars holds clues about whether Mars could
+ever have been a habitat for life. In 2008, NASA’s Phoenix Mars
+Lander was the first mission to “touch” water ice in the martian
+arctic. Phoenix also observed precipitation (snow falling from
+clouds), as confirmed by Mars Reconnaissance Orbiter. Soil
+chemistry experiments led scientists to believe that the Phoenix
+landing site had a wetter and warmer climate in the recent past
+(the last few million years). NASA’s Mars Science Laboratory
+mission, with its large rover Curiosity, is examining martian rocks
+and soil at Gale Crater, looking for minerals that formed in water,
+signs of subsurface water, and carbon-based molecules called
+organics, the chemical building blocks of life. That information
+will reveal more about the present and past habitability of Mars,
+as well as whether humans could survive on Mars some day.
+FAST FACTS
+Namesake
+
+Roman god of war
+Mean Distance from the Sun
+227.94 million km
+
+(141.63 million mi)
+Orbit Period
+1.8807 Earth years (686.98 Earth days)
+Orbit Eccentricity (Circular Orbit = 0)
+0.0934
+Orbit Inclination to Ecliptic
+1.8 deg
+Inclination of Equator to Orbit
+25.19 deg
+Rotation Period
+24.62 hr
+Successive Sunrises
+24.660 hr
+Equatorial Radius
+3,397 km (2,111 mi)
+Mass
+0.10744 of Earth’s
+Density
+3.934 g/cm3 (0.714 of Earth’s)
+Surface Gravity
+0.38 of Earth’s
+Atmosphere Primary Components
+carbon dioxide,
+
+nitrogen, argon
+Temperature Range
+–87 to –5 deg C (–125 to 23 deg F)
+Known Moons*
+2
+Rings
+0
+
+*As of July 2013.
+SIGNIFICANT DATES
+1877 — Asaph Hall discovers the two moons of Mars.
+1965 — NASA’s Mariner 4 sends back 22 photos of Mars, the
+world’s first close-up photos of a planet beyond Earth.
+1976 — Viking 1 and 2 land on the surface of Mars.
+1997 — Mars Pathfinder lands and dispatches Sojourner, the first
+wheeled rover to explore the surface of another planet.
+2002 — Mars Odyssey begins its mission to make global obser-
+vations and find buried water ice on Mars.
+2004 — Twin Mars Exploration Rovers named Spirit and
+Opportunity find strong evidence that Mars once had long-term
+liquid water on the surface.
+2006 — Mars Reconnaissance Orbiter begins returning high-
+resolution images as it studies the history of water on Mars and
+seasonal changes.
+2008 — Phoenix finds signs of possible habitability, including the
+occasional presence of liquid water and potentially favorable soil
+chemistry.
+2012 — NASA’s Mars rover Curiosity lands in Gale Crater and
+finds conditions once suited for ancient microbial life on Mars.
+ABOUT THE IMAGES
+Water-ice clouds,
+polar ice, polar regions,
+and geological features
+can be seen in this
+full-disk image of
+Mars.
+1
+Mars rover Curiosity drilled this hole and fired its laser
+several times (creating small pits across the top of the hole) to
+learn more about the composition of the gray matter.
+Mars rover Opportunity found sphere-like grains of hematite
+that likely formed in water.
+Mars Reconnaissance Orbiter captured seasonal changes in
+this false-color image of sand dunes from the north polar region.
+Curiosity will sample the layered rocks of Mount Sharp in
+Gale Crater to understand Mars as a possible place for life.
+A dust devil towers about half a mile above the martian
+surface in this Mars Reconnaissance Orbiter image.
+False color (blue) shows where water ice is buried beneath
+the martian surface in this Mars Odyssey orbiter image.
+1
+2
+4
+7
+3
+5
+6
+2
+3
+4
+5
+6
+7
+FOR MORE INFORMATION
+solarsystem.nasa.gov/mars
+LG-2013-07-569-HQ — JPL 400-1489H 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 17
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Asteroids
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 18
+STATUS: ok
+
+Asteroids, sometimes called minor planets, are rocky remnants
+left over from the early formation of the solar system about
+4.6 billion years ago. Most of this ancient space rubble can be
+found orbiting the Sun between Mars and Jupiter within the main
+asteroid belt. Asteroids range in size from Ceres — the largest
+at about 950 kilometers (590 miles) in diameter and also identified as a dwarf planet — to bodies that are less than 1 kilometer
+(0.6 mile) across. The total mass of all the asteroids combined is
+less than that of Earth’s Moon.
+Most asteroids are irregularly shaped, though a few are nearly
+spherical, and they are often pitted or cratered. As they revolve
+around the Sun in elliptical orbits, the asteroids also rotate,
+sometimes quite erratically, tumbling as they go. More than 150
+asteroids are known to have a small companion moon (some
+have two moons). There are also binary (double) asteroids, in
+which two rocky bodies of roughly equal size orbit each other, as
+well as triple asteroid systems.
+The three broad composition classes of asteroids are C-, S-, and
+M-types. The C-type (chondrite) asteroids are most common,
+probably consist of clay and silicate rocks, and are dark in appearance. They are among the most ancient objects in the solar
+system. The S-types (“stony”) are made up of silicate materials and nickel–iron. The M-types are metallic (nickel–iron). The
+asteroids’ compositional differences are related to how far from
+the Sun they formed. Some experienced high temperatures after
+they formed and partly melted, with iron sinking to the center
+and forcing basaltic (volcanic) lava to the surface. Only one such
+asteroid, Vesta, survives to this day.
+Jupiter’s massive gravity and occasional close encounters with
+Mars or another object change the asteroids’ orbits, knocking
+them out of the main belt and hurling them into space in all directions across the orbits of the other planets. Stray asteroids
+and asteroid fragments slammed into Earth and the other planets in the past, playing a major role in altering the geological history of the planets and in the evolution of life on Earth.
+Scientists continuously monitor Earth-crossing asteroids, whose
+paths intersect Earth’s orbit, and near-Earth asteroids that
+approach Earth’s orbital distance to within about 45 million kilometers (28 million miles) and may pose an impact danger. Radar
+is a valuable tool in detecting and monitoring potential impact
+hazards. By reflecting transmitted signals off objects, images
+and other information can be derived from the echoes. Scientists
+can learn a great deal about an asteroid’s orbit, rotation, size,
+shape, and metal concentration.
+Several missions have flown by and observed asteroids. The
+Galileo spacecraft flew by asteroids Gaspra in 1991 and Ida
+in 1993; the Near-Earth Asteroid Rendezvous (NEAR) mission
+studied asteroids Mathilde and Eros; and the Rosetta mission
+encountered Steins in 2008 and Lutetia in 2010.
+In 2005, the Japanese spacecraft Hayabusa landed on the near-
+Earth asteroid Itokawa and attempted to collect samples. On
+June 3, 2010, Hayabusa successfully returned to Earth a small
+amount of asteroid dust now being studied by scientists.
+NASA’s Dawn spacecraft, launched in 2007, orbited and explored asteroid Vesta for over a year. Once it left in September 2012, it headed towards dwarf planet Ceres, with a planned
+arrival of 2015. Vesta and Ceres are two of the largest surviving
+protoplanet bodies that almost became planets. By studying
+them with the same complement of instruments on board the
+same spacecraft, scientists will be able to compare and contrast
+the different evolutionary path each object took to help understand the early solar system overall.
+SIGNIFICANT DATES
+1801 — Giuseppe Piazzi discovers the first and largest asteroid,
+Ceres, orbiting between Mars and Jupiter.
+1898 — Gustav Witt discovers Eros, one of the largest near-
+Earth asteroids.
+1991–1994 — The Galileo spacecraft takes the first close-up images of an asteroid (Gaspra) and discovers the first moon (later
+named Dactyl) orbiting an asteroid (Ida).
+1997–2000 — The NEAR spacecraft flies by Mathilde and orbits
+and lands on Eros.
+1998 — NASA establishes the Near-Earth Object Program Office
+to detect, track, and characterize potentially hazardous asteroids
+and comets that could approach Earth.
+4
+5
+
+3
+2
+6
+2006 — Ceres attains a new classification, “dwarf planet,” but
+retains its distinction as the largest known asteroid.
+2008 — The European spacecraft Rosetta, on its way to study a
+comet in 2014, flies by and photographs asteroid Steins, a rare
+type of asteroid composed of silicates and basalts.
+2010 – Rosetta flies by asteroid Lutetia, revealing a primitive
+survivor from the violent birth of our solar system.
+2011–2012 — Dawn studies Vesta. Dawn is the first spacecraft
+to orbit a main-belt asteroid and continues on to dwarf planet
+Ceres in 2015.
+ABOUT THE IMAGES
+1
+1
+2
+4
+5
+3
+6
+Dawn view of Vesta
+images showing a towering mountain at the
+south pole (more than
+twice as high as Mount
+Everest).
+Asteroids compared to Vesta. From the top: Lutetia,
+Mathilde, Ida and moon Dactyl, Eros, Gaspra, Steins, and
+Itokawa (circled).
+A Galileo image of asteroid Ida and its moon Dactyl.
+NEAR gravity map of near-Earth asteroid Eros used to
+determine its shape and density.
+The Hubble Space Telescope provides our best view of
+dwarf planet Ceres until Dawn arrives there in 2015.
+Asteroid Annefrank was seen as an irregularly shaped,
+cratered body by NASA’s Stardust spacecraft in 2002.
+FOR MORE INFORMATION
+solarsystem.nasa.gov/asteroids
+ASTEROID CLASSIFICATIONS
+Main asteroid belt — The majority of known asteroids orbit within the asteroid belt between Mars and Jupiter, generally with not very elongated
+orbits. The belt is estimated to contain between 1.1 and 1.9 million asteroids larger than 1 kilometer (0.6 mile) in diameter, and millions of smaller ones. Early in the history of the solar system, the gravity of newly formed Jupiter brought an end to the formation of planetary bodies in this
+region and caused the small bodies to collide with one another, fragmenting them into the asteroids we observe today.
+Trojans — These asteroids share an orbit with a larger planet, but do not collide with it because they gather around two special places in the
+orbit (called the L4 and L5 Lagrangian points). There, the gravitational pull from the Sun and the planet are balanced by a trojan’s tendency to
+otherwise fly out of the orbit. The Jupiter trojans form the most significant population of trojan asteroids. It is thought that they are as numerous
+as the asteroids in the asteroid belt. There are Mars and Neptune trojans, and NASA announced the discovery of an Earth trojan in 2011.
+Near-Earth asteroids — These objects have orbits that pass close by that of Earth. Asteroids that actually cross Earth’s orbital path are known
+as Earth-crossers. As of June 19, 2013, 10,003 near-Earth asteroids are known and the number over 1 kilometer in diameter is thought to be
+861, with 1,409 classified as potentially hazardous asteroids — those that could pose a threat to Earth.
+LG-2013-07-570-HQ — JPL 400-1489I 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 19
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Meteors and Meteorites
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 20
+STATUS: ok
+
+“Shooting stars,” or meteors, are bits of interplanetary material
+falling through Earth’s atmosphere and heated to incandescence
+by friction. These objects are called meteoroids as they are hurtling through space, becoming meteors for the few seconds they
+streak across the sky and create glowing trails.
+Several meteors per hour can usually be seen on any given
+night. Sometimes the number increases dramatically — these
+events are termed meteor showers. Some occur annually or at
+regular intervals as the Earth passes through the trail of dusty
+debris left by a comet. Meteor showers are usually named after
+a star or constellation that is close to where the meteors appear
+in the sky. Perhaps the most famous are the Perseids, which
+peak around August 12 every year. Every Perseid meteor is a tiny
+piece of the comet Swift–Tuttle, which swings by the Sun every
+135 years. Other meteor showers and their associated comets
+are the Leonids (Tempel–Tuttle), the Aquarids and Orionids (Halley), and the Taurids (Encke). Most comet dust in meteor showers burns up in the atmosphere before reaching the ground;
+some dust is captured by high-altitude aircraft and analyzed in
+NASA laboratories.
+Chunks of rock and metal from asteroids and other planetary
+bodies that survive their journey through the atmosphere and
+fall to the ground are called meteorites. Most meteorites found
+on Earth are pebble to fist size, but some are larger than a building. Early Earth experienced many large meteorite impacts that
+caused extensive destruction.
+One of the most intact impact craters is the Barringer Meteorite
+Crater in Arizona, about 1 kilometer (0.6 mile) across, formed by
+the impact of a piece of iron–nickel metal approximately 50 meters (164 feet) in diameter. It is only 50,000 years old and so
+well preserved that it has been used to study impact processes.
+Since this feature was recognized as an impact crater in the
+1920s, about 170 impact craters have been identified on Earth.
+A very large asteroid impact 65 million years ago, which created
+the 300-kilometer-wide (180-mile-wide) Chicxulub crater on the
+Yucatán Peninsula, is thought to have contributed to the extinction of about 75 percent of marine and land animals on Earth at
+the time, including the dinosaurs.
+Well-documented stories of meteorite-caused injury or death are
+rare. In the first known case of an extraterrestrial object to have
+injured a human being in the U.S., Ann Hodges of Sylacauga,
+Alabama, was severely bruised by a 3.6-kilogram (8-pound)
+stony meteorite that crashed through her roof in November 1954.
+Meteorites may resemble Earth rocks, but they usually have a
+“burned” exterior. This fusion crust is formed as the meteorite
+is melted by friction as it passes through the atmosphere. There
+are three major types of meteorites: the “irons,” the “stones,”
+and the “stony-irons.” Although the majority of meteorites that
+fall to Earth are stony, more of the meteorites that are discovered
+long after they fall are “irons” — these heavy objects are easier
+to distinguish from Earth rocks than stony meteorites. Meteorites
+also fall on other solar system bodies. Mars Exploration Rover
+Opportunity found the first meteorite of any type on another
+planet when it discovered an iron–nickel meteorite about the size
+of a basketball on Mars in 2005, and then found a much larger
+and heavier iron–nickel meteorite in 2009 in the same region. In
+all, Opportunity has discovered six meteorites during its travels
+on Mars.
+More than 50,000 meteorites have been found on Earth. Of
+these, 99.8 percent come from asteroids. Evidence for an asteroid origin includes orbits calculated from photographic observations of meteorite falls projected back to the asteroid belt;
+spectra of several classes of meteorites match those of some
+asteroid classes; and they are very old, 4.5 to 4.6 billion years.
+However, we can only match one group of meteorites to a specific asteroid — the eucrite, diogenite, and howardite igneous
+meteorites come from the third-largest asteroid, Vesta. Asteroids
+and the meteorites that fall to Earth are not pieces of a planet
+that broke apart, but instead are the original diverse materials
+from which the planets formed. The study of meteorites tells us
+much about the earliest conditions and processes during the formation and earliest history of the solar system, such as the age
+and composition of solids, the nature of the organic matter, the
+temperatures achieved at the surface and interiors of asteroids,
+and the degree to which materials were shocked by impacts.
+The remaining 0.2 percent of meteorites is split roughly equally
+between meteorites from Mars and the Moon. The over 60
+known martian meteorites were blasted off Mars by meteoroid
+impacts. All are igneous rocks crystallized from magma. The
+rocks are very much like Earth rocks with some distinctive
+compositions that indicate martian origin. The nearly 80 lunar
+meteorites are similar in mineralogy and composition to Apollo
+mission Moon rocks, but distinct enough to show that they have
+come from other parts of the Moon. Studies of lunar and martian
+meteorites complement studies of Apollo Moon rocks and the
+robotic exploration of Mars.
+SIGNIFICANT DATES
+4.55 billion years ago — Formation age of most meteorites,
+taken to be the age of the solar system.
+65 million years ago — Chicxulub impact leads to the death of
+75 percent of the animals on Earth, including the dinosaurs.
+50,000 years — Age of Barringer Meteorite Crater in Arizona.
+1478 BCE — First recorded observation of meteors.
+1794 — Ernst Friedrich Chladni publishes the first book on
+meteorites, in which he proposes that they have an extra-
+terrestrial origin.
+1908 (Tunguska), 1947 (Sikote Alin), 1969 (Allende and Murchison), 1976 (Jilin) — Important 20th-century meteorite falls.
+1969 — Discovery of meteorites in a small area of Antarctica
+leads to annual expeditions by U.S. and Japanese teams.
+1982–1983 — Meteorites from the Moon and Mars are identified
+in Antarctic collections.
+1996 — A team of NASA scientists suggests that martian meteorite ALH84001 may contain evidence of microfossils from Mars,
+a still-controversial claim.
+2005 — NASA’s Mars Exploration Rover Opportunity finds a
+basketball-size iron–nickel meteorite on Mars.
+2009 — Opportunity finds another iron–nickel meteorite on Mars.
+ABOUT THE IMAGES
+The ir
+1
+on–nickel
+meteorite found on
+Mars by Opportunity
+rover in 2005.
+A meteor swarm
+2
+photographed in
+November 1995.
+3
+1
+2
+3
+4
+5
+6
+7
+8
+4
+6
+5
+7
+8
+The glassy black patches in this martian meteorite contain
+atmospheric gases that point to a Mars origin.
+The Barringer Meteorite Crater in Arizona.
+A stony meteorite found in Antarctica.
+A scientist working in the Meteorite Processing Laboratory
+at NASA’s Johnson Space Center.
+An iron meteorite from the Barringer Meteorite Crater.
+A meteorite found in Antarctica of the type considered to
+originate from asteroid Vesta, supported by data from the Dawn
+spacecraft. The scale cubes indicate size and orientation.
+FOR MORE INFORMATION
+solarsystem.nasa.gov/meteors
+LG-2013-07-571-HQ — JPL 400-1489J 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 21
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Earth’s Moon
+Earth
+Callisto
+Io
+Europa
+Ganymede
+Enceladus
+Triton
+Dione
+Iapetus
+Tethys
+Titania
+Titan
+Mimas
+Rhea
+Charon
+Oberon
+Miranda
+Moons of the Solar System
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 22
+STATUS: ok
+
+Moons — also called satellites — come in many shapes, sizes,
+and types. They are generally solid bodies, and few have atmospheres. Most of the planetary moons probably formed from the
+discs of gas and dust circulating around planets in the early solar
+system. Some moons are large enough for their gravity to cause
+them to be spherical, while smaller moons appear to be captured asteroids, not related to the formation and evolution of the
+body they orbit. The International Astronomical Union lists 146
+moons orbiting planets in our solar system — this number does
+not include the moons awaiting official recognition and naming,
+the eight moons of the dwarf planets, nor the tiny satellites that
+orbit some asteroids and other celestial objects.
+Of the terrestrial (rocky) planets of the inner solar system, neither
+Mercury nor Venus has any moons at all, Earth has one, and
+Mars has its two small moons. In the outer solar system, the gas
+giants (Jupiter, Saturn) and the ice giants (Uranus and Neptune)
+have numerous moons. As these huge planets grew in the early
+solar system, they were able to capture objects with their large
+gravitational fields.
+Earth’s Moon probably formed when a large body about the size
+of Mars collided with Earth, ejecting material from our planet into
+orbit. This material accumulated to form the Moon approximately
+4.5 billion years ago (the age of the oldest collected lunar rocks).
+Twelve American astronauts landed on the Moon during NASA’s
+Apollo program in 1969 to 1972, studying the Moon and bringing
+back rock samples.
+Usually the term “moon” brings to mind a spherical object, like
+Earth’s Moon. The two moons of Mars, Phobos and Deimos, are
+somewhat different. Both have nearly circular orbits and travel
+close to the plane of the planet’s equator, and they are lumpy
+and dark. Phobos is slowly drawing closer to Mars, and could
+crash into Mars in 40 or 50 million years, or the planet’s gravity
+might break Phobos apart, creating a thin ring around Mars.
+Jupiter has 50 known moons (plus 17 awaiting official confirmation), including the largest moon in the solar system, Ganymede.
+Many of Jupiter’s outer moons have highly elliptical orbits and
+orbit “backwards” (opposite to the spin of the planet). Saturn,
+Uranus, and Neptune also have some “irregular” moons, which
+orbit far from their respective planets.
+Saturn has 53 known moons (plus 9 awaiting official confirmation). The chunks of ice and rock in Saturn’s rings (and the particles in the rings of the other outer planets) are not considered
+moons, yet embedded in Saturn’s rings are distinct moons or
+“moonlets.” Small “shepherd” moons help keep the rings in line.
+Saturn’s moon Titan, the second largest in the solar system, is
+the only moon with a thick atmosphere.
+Beyond Saturn, Uranus has 27 known moons. The inner moons
+appear to be about half water ice and half rock. Miranda is the
+most unusual; its chopped-up appearance shows the scars of
+impacts of large rocky bodies. Neptune’s moon Triton is as big
+as the dwarf planet Pluto, and orbits backwards compared with
+Neptune’s direction of rotation. Neptune has 13 known moons
+plus a 14th awaiting official confirmation.
+Pluto’s large moon, Charon, is about half the size of Pluto, and
+some scientists consider Pluto/Charon to be a double system.
+Like Earth’s Moon, Charon may have formed from debris from
+an early collision of an impactor with Pluto. Scientists using the
+Hubble Space Telescope to study Pluto have found five additional smaller moons. Eris, a dwarf planet even more distant than
+Pluto, has a small moon of its own, named Dysnomia. Haumea,
+another dwarf planet, has two satellites, Hi’iaka and Namaka.
+FAST FACTS — PLANETS AND SELECTED MOONS
+
+Mean Radius
+Mean Radius
+Planet
+Moon
+(km)
+(mi)
+Earth
+Moon
+1,737.4
+1,079.6
+Mars
+Phobos
+11.1
+6.9
+Mars
+Deimos
+6.2
+3.9
+Jupiter
+Io
+1,821.6
+1,131.9
+Jupiter
+Europa
+1,560.8
+969.8
+Jupiter
+Callisto
+2,410
+1,498
+Jupiter
+Ganymede
+2,631
+1,635
+Saturn
+Mimas
+198.6
+123.4
+Saturn
+Enceladus
+249.4
+154.9
+Saturn
+Tethys
+529.9
+329.3
+Saturn
+Dione
+560
+348
+Saturn
+Rhea
+764
+475
+Saturn
+Titan
+2,575
+1,600
+Saturn
+Iapetus
+718
+446
+Uranus
+Miranda
+235.8
+146.5
+Uranus
+Ariel
+578.9
+359.7
+Uranus
+Umbriel
+584.7
+363.3
+Uranus
+Titania
+788.9
+490.2
+Uranus
+Oberon
+761.4
+473.1
+Neptune
+Triton
+1,353.4
+841
+Neptune
+Nereid
+170
+106
+
+SIGNIFICANT DATES
+1610 — Galileo Galilei and Simon Marius independently discover
+four moons orbiting Jupiter. Galileo is credited and the moons
+are called “Galilean.” This discovery changed the way the solar
+system was perceived.
+1877 — Asaph Hall discovers Mars’ moons Phobos and Deimos.
+1969 — Astronaut Neil Armstrong is the first of 12 humans to
+walk on the surface of Earth’s Moon.
+1979 — Voyager 1 photographs an erupting volcano on Jupiter’s
+moon Io; the first ever seen anywhere other than Earth.
+1980 — Voyager 1 instruments detect signs of surface features
+beneath the hazy atmosphere of Saturn’s largest moon, Titan.
+2005 — The Cassini spacecraft discovers jets or geysers of
+water ice particles venting from Saturn’s moon Enceladus.
+2000–present — Using improved ground-based telescopes,
+the Hubble Space Telescope, and spacecraft observations,
+scientists have found dozens of new moons in our solar system.
+Newly discovered moons (as well as other solar system objects)
+are given temporary designations until they are confirmed by
+subsequent observations and receive permanent names from
+the International Astronomical Union.
+ABOUT THE IMAGES
+Selected solar
+system moons, displaying a variety of
+surface features, are
+shown at correct relative sizes to each other
+and to Earth.
+Miranda, a moon of Uranus, has many rugged features:
+canyons, grooved structures, ridges, and broken terrain. The
+large cliff in this image is a 12-mile-high vertical drop.
+This false-color image of Neptune’s moon Triton shows what
+appear to be volcanic deposits.
+This Voyager 1 close-up of Saturn’s moon Rhea shows the
+moon’s ancient, cratered surface.
+A portion of a Cassini radar image of Saturn’s largest moon,
+Titan, showing the complexity of the surface.
+Cassini imaged the small irregular moon Phoebe when the
+spacecraft was inbound for Saturn orbit insertion in June 2004.
+FOR MORE INFORMATION
+solarsystem.nasa.gov/planets/profile.cfm?Object=
+SolarSys&Display=Sats
+2
+4
+3
+5
+6
+1
+2
+3
+4
+6
+5
+1
+LG-2013-07-572-HQ — JPL 400-1489K 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 23
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Jupiter
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 24
+STATUS: ok
+
+Jupiter is the largest and most massive planet in our solar system, containing more than twice the amount of material of the
+other bodies orbiting our Sun combined. Most of the material
+left over after the formation of the Sun went to Jupiter, forming a
+type of planet called a gas giant.
+Jupiter’s appearance is a tapestry of colorful cloud bands and
+spots. Most visible clouds are composed of ammonia and ammonia compounds, with unknown chemicals providing color.
+Jupiter’s fast rotation — spinning once every 10 hours — creates
+strong jet streams, smearing its clouds into bands across the
+planet.
+With no solid surface to slow them down, Jupiter’s spots can
+persist for many years. The Great Red Spot, a swirling oval of
+clouds twice as wide as Earth, has been observed on the giant planet for more than 300 years. More recently, three smaller
+ovals merged to form the Little Red Spot, about half the size of
+its larger cousin. Scientists do not yet know if these ovals and
+planet-circling bands are shallow or deeply rooted to the interior.
+The composition of Jupiter’s atmosphere is similar to that of the
+Sun — mostly hydrogen and helium. Deep in the atmosphere,
+pressure and temperature increase, compressing the hydrogen
+gas into a liquid. This gives Jupiter the largest ocean in the solar
+system — an ocean made of hydrogen instead of water. Scientists think that, at depths perhaps halfway to the planet’s center,
+the pressure becomes so great that electrons are squeezed off
+the hydrogen atoms, making the liquid electrically conducting.
+Jupiter’s fast rotation is thought to drive electrical currents in
+this region, generating the planet’s powerful magnetic field. It is
+still unclear if, deeper down, Jupiter has a central core of solid
+material.
+The Jovian magnetosphere is the region of space influenced by
+Jupiter’s powerful magnetic field. It balloons 1 to 3 million kilometers (600,000 to 2 million miles) toward the Sun and tapers
+into a windsock-shaped tail extending more than 1 billion kilometers (600 million miles) behind Jupiter, as far as Saturn’s orbit.
+The magnetic field rotates with the planet and sweeps up particles that have an electric charge. Near the planet, the magnetic
+field traps a swarm of charged particles and accelerates them to
+very high energies, creating intense radiation that bombards the
+innermost moons and can damage spacecraft.
+With four large moons and many smaller moons, Jupiter forms a
+kind of miniature solar system. In total, the planet has more than
+60 moons, including several that were discovered in just the past
+few years.
+Jupiter’s four largest moons — Io, Europa, Ganymede, and Callisto — were first observed by the astronomer Galileo Galilei in
+1610 using an early version of the telescope. These four moons
+are known today as the Galilean satellites. Galileo would be
+astonished at what we have learned about these moons, largely
+from the NASA mission named for him: Io is the most volcanically active body in the solar system; Ganymede is the largest
+moon in the solar system and the only moon known to have its
+own magnetic field; and a liquid-water ocean with the ingredients for life may lie beneath the frozen crust of Europa, making it
+a tempting place to explore.
+Discovered in 1979 by NASA’s Voyager 1 spacecraft, Jupiter’s
+rings were a surprise, as they are composed of small, dark particles and are difficult (but not impossible) to see except when
+backlit by the Sun. Data from the Galileo spacecraft indicate
+that Jupiter’s ring system may be formed by dust kicked up as
+interplanetary meteoroids smash into the giant planet’s small
+innermost moons.
+In December 1995, NASA’s Galileo spacecraft dropped a probe
+into one of the dry, hot spots of Jupiter’s atmosphere. The probe
+made the first direct measurements of the planet’s composition
+and winds. Galileo studied Jupiter and its largest moons until
+2003. Beginning in 2016, NASA’s Juno spacecraft will conduct
+an in-depth investigation of the planet’s atmosphere, deep structure, and magnetosphere for clues to its origin and evolution.
+FAST FACTS
+Namesake
+
+King of the Roman gods
+Mean Distance from the Sun
+778.41 million km
+
+(483.68 million mi)
+Orbit Period
+11.8565 Earth years
+
+(4,330.6 Earth days)
+Orbit Eccentricity (Circular Orbit = 0)
+0.04839
+Orbit Inclination to Ecliptic
+1.305 deg
+Inclination of Equator to Orbit
+3.12 deg
+Rotation Period
+9.92 hr
+Equatorial Radius
+71,492 km (44,423 mi)
+Mass
+317.82 of Earth’s
+Density
+1.33 g/cm3
+Gravity
+20.87 m/sec2 (68.48 ft/sec2)
+Atmosphere Primary Components
+hydrogen, helium
+Effective Temperature at 1 bar
+–108 deg C (–163 deg F)
+Known Moons*
+50
+Rings
+1 (three major components)
+*Plus 17 awaiting official confirmation, total 67, as of July 2013.
+SIGNIFICANT DATES
+1610 — Galileo Galilei makes the first detailed observations of
+Jupiter.
+1973 — Pioneer 10 becomes the first spacecraft to cross the
+asteroid belt and fly past Jupiter.
+1979 — Voyager 1 and 2 discover Jupiter’s faint rings, several
+new moons, and volcanic activity on Io’s surface.
+1994 — Astronomers observe as pieces of comet Shoemaker–
+Levy 9 collide with Jupiter’s southern hemisphere.
+1995–2003 — The Galileo spacecraft drops a probe into Jupiter’s atmosphere and conducts extended observations of Jupiter
+and its moons and rings.
+2007 — Images taken by NASA’s New Horizons spacecraft,
+on the way to Pluto, show new perspectives on Jupiter’s
+atmospheric storms, the rings, volcanic Io, and icy Europa.
+2009 — On July 20, almost exactly 15 years after fragments of
+comet Shoemaker–Levy slammed into Jupiter, a comet or asteroid crashes into the giant planet’s southern hemisphere, creating
+a dark scar.
+ABOUT THE IMAGES
+
+2
+3
+4
+1
+A natural-color
+image taken by the
+Cassini spacecraft as
+it flew by on its way to
+Saturn. Europa’s shadow can be seen against
+the planet’s cloud tops.
+1
+A Voyager 1 image of Jupiter’s Great Red Spot.
+A Hubble Space Telescope ultraviolet image of Jupiter’s
+complex, glowing aurora. The bright spot with a curving tail at
+the right is the auroral footprint of the moon Io.
+An artist’s rendering of Jupiter’s inner magnetosphere,
+showing magnetic field lines (connecting the north and south
+poles) and auroras, along with a region of intense radiation
+around the planet’s middle.
+2
+3
+4
+FOR MORE INFORMATION
+solarsystem.nasa.gov/jupiter
+solarsystem.nasa.gov/planets/profile.cfm?Object=
+Jupiter&Display=Moons
+LG-2013-07-573-HQ — JPL 400-1489L 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 25
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Galilean Moons of Jupiter
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 26
+STATUS: ok
+
+The planet Jupiter’s four largest moons, or satellites, are called
+the Galilean moons, after Italian astronomer Galileo Galilei, who
+observed them in 1610. The German astronomer Simon Marius
+apparently discovered them around the same time. The names
+Marius proposed for the moons in 1614 (suggested to him by a
+fellow astronomer, Johannes Kepler) are the ones we use today
+— Io, Europa, Ganymede, and Callisto.
+Io is the most volcanically active body in the solar system. Its
+surface is covered by sulfur and lava in many colorful forms. As
+Io travels in its slightly elliptical orbit, Jupiter’s immense gravity
+causes tides in Io’s solid surface 100 meters (300 feet) high, generating enough heat to give rise to the volcanic activity and drive
+off most water. Io’s volcanoes are driven by hot silicate magma.
+Europa’s surface is mostly water ice, and the icy crust is believed
+to cover a global water ocean. Europa is thought to have twice
+as much liquid water as Earth. This moon intrigues astrobiologists because of its potential for having a habitable ocean very
+much like Earth’s. Life forms have been found thriving near underwater volcanoes and in other extreme locations on Earth that
+are possible analogs to what may exist at Europa.
+Ganymede is the largest moon in the solar system (larger than
+the planet Mercury), and is the only moon known to have its
+own internally generated magnetic field. Callisto’s surface is extremely heavily cratered and ancient — a record of events from
+the early history of the solar system. However, at a small scale,
+Callisto shows very few craters, suggesting that landslides have
+happened throughout its history, and probably occur even today.
+The interiors of Io, Europa, and Ganymede have a layered
+structure (as does Earth). Io has a core, and a mantle of partially
+molten rock, topped by a crust of solid rock coated with sulfur
+compounds. Both Europa and Ganymede have an iron-rich core,
+a rock envelope around the core, and an upper layer of water in
+ice and liquid forms. Like Europa, Ganymede and Callisto have
+oceans, but they are deeper and less accessible than Europa’s.
+Their seafloors are covered with thick layers of ice — if formed
+under more pressure, water ice can become denser than ice
+typically found on Earth, and sink rather than float.
+Three of the moons influence each other in an interesting way. Io
+is in a gravitational tug-of-war with Ganymede and Europa that
+drives the tides that make these moons so geologically active.
+Europa’s orbital period (time to go around Jupiter once) is twice
+Io’s, and Ganymede’s period is twice that of Europa. For every
+time Ganymede goes around Jupiter, Europa makes two orbits
+and Io makes four orbits. The moons all keep the same face towards Jupiter as they orbit, meaning that each moon turns once
+on its axis for every orbit around Jupiter.
+Voyagers 1 and 2 offered striking color views and global perspectives from their flybys of the Jupiter system in 1979. From
+1995 to 2003, the Galileo spacecraft made observations from
+repeated elliptical orbits around Jupiter, making numerous close
+approaches over the surfaces of the Galilean moons and producing images with unprecedented detail of selected portions of
+the surfaces.
+Close-up images taken by the Galileo spacecraft of portions
+of Europa’s surface show places where ice has broken up and
+moved apart, and where liquid may have come from below and
+frozen on the surface. The low number of craters on Europa
+leads scientists to believe that a subsurface ocean has been
+present in recent geologic history and may still exist today. The
+heat needed to melt the ice in a place so far from the Sun is
+thought to come from inside Europa, resulting primarily from the
+same tidal tug-of-war that drives Io’s volcanoes. The possibility
+of life existing on Europa in a subsurface ocean is so compelling
+that planetary scientists set among their highest priorities plans
+to send another spacecraft to study this intriguing moon.
+FAST FACTS
+Satellite
+Mean Distance from Jupiter
+Io
+422,000 km (262,200 mi)
+Europa
+671,000 km (417,000 mi)
+Ganymede
+1,070,000 km (665,000 mi)
+Callisto
+1,883,000 km (1,170,000 mi)
+Satellite
+Mean Radius
+Io
+1821.6 km (1,131.9 mi)
+Europa
+1,560.8 km (969.8 mi)
+Ganymede
+2,631 km (1,635 mi)
+Callisto
+2,410 km (1,498 mi)
+Satellite
+Orbital Period (Earth Days)
+Io
+1.769
+Europa
+3.551
+Ganymede
+7.155
+Callisto
+16.689
+Satellite
+Density (g/cm3)
+Io
+3.528
+Europa
+3.013
+Ganymede
+1.942
+Callisto
+1.834
+SIGNIFICANT DATES
+1610 — Galileo Galilei and Simon Marius independently discover
+four moons orbiting Jupiter. This discovery, among others by
+Galileo, helped change the way people thought about the heavens. The prevailing idea of the time was that all heavenly bodies
+orbit Earth: a planet with its own small orbiting bodies did not
+conform to this geocentric model.
+1979 — Voyager 1 photographs an erupting volcano on Io: the
+first ever seen anywhere other than Earth.
+1979–2000 — Using data from the Voyager and Galileo spacecraft, scientists gather strong evidence of an ocean beneath the
+icy crust of Europa; Galileo data indicate oceans within Ganymede and Callisto as well.
+2003 — The Galileo mission ends with the spacecraft deliberately descending into Jupiter’s atmosphere and being vaporized.
+Mission controllers purposely put Galileo on a collision course
+with Jupiter to eliminate any chance that the spacecraft would
+crash into Europa and contaminate that moon with terrestrial
+microbes.
+ABOUT THE IMAGES
+A comparison
+“portrait” of Jupiter’s
+four Galilean moons
+Io, Europa, Ganymede, and Callisto,
+each with different
+characteristics. (In this image composite, Jupiter is not at the
+same scale as the satellites.)
+During one flyby of Io in 2000, the Galileo spacecraft photographed Tvashtar Catena, a chain of giant erupting volcanoes.
+White and orange at the left of the image show newly erupted
+hot lava, seen in the false-color image because of infrared
+emission.
+This false-color image of Europa shows the icy crust broken
+up into blocks that appear to have “rafted” into new positions.
+Fresh, bright material was thrown out of an impact crater on
+Ganymede.
+Ice on Callisto excavated by younger impact craters contrasts with darker, redder coatings on older surfaces.
+FOR MORE INFORMATION
+solarsystem.nasa.gov/jupiter
+solarsystem.nasa.gov/planets/profile.cfm?Object=
+Jupiter&Display=Moons
+1
+2
+4
+5
+3
+1
+3
+4
+5
+2
+LG-2013-07-574-HQ — JPL 400-1489M 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 27
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Saturn
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 28
+STATUS: ok
+
+Saturn was the most distant of the five planets known to the
+ancients. In 1610, Italian astronomer Galileo Galilei was the first
+to gaze at Saturn through a telescope. To his surprise, he saw a
+pair of objects attached to the planet. He sketched them as separate spheres, thinking that Saturn was triple-bodied. Continuing
+his observations over the next few years, Galileo drew the lateral
+bodies as arms or handles attached to Saturn. In 1659, Dutch
+astronomer Christiaan Huygens, using a more powerful telescope than Galileo’s, proposed that Saturn was surrounded by a
+thin, flat ring. In 1675, Italian-born astronomer Jean-Dominique
+Cassini discovered a “division” between what are now called the
+A and B rings. It is now known that the gravitational influence
+of Saturn’s moon Mimas is responsible for the Cassini Division,
+which is 4,800 kilometers (3,000 miles) wide.
+Like Jupiter, Saturn is made mostly of hydrogen and helium.
+Its volume is 755 times greater than that of Earth. Winds in the
+upper atmosphere reach 500 meters (1,600 feet) per second in
+the equatorial region. In contrast, the strongest hurricane-force
+winds on Earth top out at about 110 meters (360 feet) per second. These super-fast winds, combined with heat rising from
+within the planet’s interior, cause the yellow and gold bands
+visible in the atmosphere.
+In the early 1980s, NASA’s two Voyager spacecraft revealed that
+Saturn’s rings are made mostly of water ice, and they imaged
+“braided” rings, ringlets, and “spokes” — dark features in the
+rings that form and initially circle the planet at different rates
+from that of the surrounding ring material. Saturn’s ring system
+extends hundreds of thousands of kilometers from the planet,
+yet the vertical height is typically about 10 meters (30 feet) in the
+main rings. During Saturn’s equinox in autumn 2009, when sunlight illuminated the rings edge-on, Cassini spacecraft images
+showed tall vertical formations in some of the rings; the particles
+seem to pile up in bumps or ridges more than 3 kilometers
+(2 miles) high.
+Saturn’s largest satellite, Titan, is a bit bigger than the planet
+Mercury. (Titan is the second-largest moon in the solar system;
+only Jupiter’s moon Ganymede is bigger.) Titan is shrouded in
+a thick, nitrogen-rich atmosphere that might be similar to what
+Earth’s was like long ago. Further study of this moon promises to
+reveal much about planetary formation and, perhaps, about the
+early days of Earth. Saturn also has many smaller icy satellites.
+From Enceladus, which shows evidence of recent (and ongoing)
+surface changes, to Iapetus, with one hemisphere darker than
+asphalt and the other as bright as snow, each of Saturn’s satellites is unique.
+
+4
+At Saturn’s center is a dense core of rock, ice, water, and other
+compounds made solid by the intense pressure and heat. It is
+enveloped by liquid metallic hydrogen, inside a layer of liquid
+hydrogen — similar to Jupiter but considerably smaller. Saturn’s
+magnetic field is smaller than Jupiter’s but still 578 times as
+powerful as Earth’s. Saturn, the rings, and many of the satellites
+lie totally within Saturn’s enormous magnetosphere, the region
+of space in which the behavior of electrically charged particles
+is influenced more by Saturn’s magnetic field than by the solar
+wind. Aurorae occur when charged particles spiral into a planet’s
+atmosphere along magnetic field lines. On Earth, these charged
+particles come from the solar wind. Cassini showed that at least
+some of Saturn’s aurorae are like Jupiter’s and are largely unaffected by the solar wind.
+The next chapter in our knowledge of Saturn is being written
+right now by the Cassini–Huygens mission. The Huygens probe
+descended through Titan’s atmosphere in January 2005, collecting data on the atmosphere and surface. The Cassini spacecraft,
+orbiting Saturn since 2004, continues to explore the planet and
+its moons, rings, and magnetosphere. The Cassini Equinox Mission studied the rings during Saturn’s autumnal equinox, when
+the Sun was shining directly on the equator, through 2010. Now
+the spacecraft is seeking to make exciting new discoveries in a
+second extended mission called the Cassini Solstice Mission,
+which continues until September 2017.
+FAST FACTS
+Namesake
+
+Roman god of agriculture
+Mean Distance from the Sun
+1,426.666 million km
+
+(886,489 million mi)
+Orbit Period
+29.4 Earth years
+
+(10,755.7 Earth days)
+Orbit Eccentricity (Circular Orbit = 0)
+0.05386179
+Orbit Inclination to Ecliptic
+2.486 deg
+Inclination of Equator to Orbit
+26.73 deg
+Rotation Period
+10.656 hours
+Equatorial Radius
+60,268 km (37,449 mi)
+Mass
+95.16 of Earth’s
+Density
+0.70 g/cm3
+Gravity
+7.207 m/sec2 (23.64 ft/sec2)
+Atmosphere Primary Components
+hydrogen, helium
+Effective Temperature
+–178 deg C (–288 deg F)
+Known Moons*
+53
+Rings
+7 main rings (C, B, A, D, F, G, E)
+*Plus 9 awaiting official confirmation, total 62, as of July 2013.
+SIGNIFICANT DATES
+1610 — Galileo Galilei reports seeing odd appendages on either
+side of Saturn; he did not realize he was viewing Saturn’s rings.
+1979 — Pioneer 11 is the first spacecraft to reach Saturn, flying
+within 22,000 kilometers (13,700 miles) of the cloud tops.
+1981 — Using Saturn’s powerful gravity as an interplanetary
+“slingshot,” Voyager 2 is placed on a path toward Uranus, then
+Neptune, then out of the solar system.
+1994 — The Hubble Space Telescope finds evidence of surface
+features beneath the hazy atmosphere of Titan.
+2004 — After a seven-year journey, Cassini–Huygens becomes
+the first spacecraft to orbit Saturn.
+2005 — The Huygens probe successfully lands on Titan, returning images of the complex surface.
+2005–2008 — The Cassini spacecraft continues to return high-
+resolution images of the Saturn system. Mission discoveries
+include evidence for liquid hydrocarbon lakes of methane and
+ethane on Titan, a new radiation belt around Saturn, new rings
+and moons, and icy jets and geysers at the south polar region of
+the moon Enceladus.
+2008–2010 — Cassini’s mission is extended for two years and
+designated the Cassini Equinox Mission.
+2010–2017 — Cassini’s mission is extended for seven years and
+designated the Cassini Solstice Mission.
+ABOUT THE IMAGES
+4
+2
+3
+5
+2
+1
+1
+A true-color image
+by Cassini of Saturn.
+The moon Pan
+casts a long shadow
+across the A ring as
+equinox approaches.
+This false-color enhanced Cassini image of the southern
+hem
+3
+isphere brings out the subtle details in Saturn’s clouds.
+A strong jetstream churns through Saturn’s northern hemisphere in this false-color view from Cassini. The dark band is the
+unilluminated rings.
+Cassini captured dramatic views of a huge storm churning
+thro
+5
+ugh Saturn’s atmosphere in 2011.
+FOR MORE INFORMATION
+solarsystem.nasa.gov/saturn
+solarsystem.nasa.gov/planets/profile.cfm?Object=
+Saturn&Display=Moons
+LG-2013-07-575-HQ — JPL 400-1489N 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 29
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Moons of Saturn
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 30
+STATUS: ok
+
+Saturn, the sixth planet from the Sun, is home to a vast array
+of intriguing and unique satellites — 53 plus 9 awaiting official
+confirmation. Christiaan Huygens discovered the first known
+moon of Saturn. The year was 1655 and the moon is Titan.
+Jean-Dominique Cassini made the next four discoveries: Iapetus
+(1671), Rhea (1672), Dione (1684), and Tethys (1684). Mimas and
+Enceladus were both discovered by William Herschel in 1789.
+The next two discoveries came at intervals of 50 or more years
+— Hyperion (1848) and Phoebe (1898).
+As telescopic resolving power improved, Saturn’s family of
+known moons grew. Epimetheus and Janus were discovered
+in 1966. By the time Cassini–Huygens was launched in 1997,
+high-resolution imaging techniques used on Earth-based telescopes had added to the moon count. Cassini has discovered
+six moons and may find more during its mission. Cassini focuses
+its cameras mainly on objects relatively close to Saturn; the
+bright rings complicate moon-hunting efforts. Earth-based telescopes focus on the outer part of the Saturn system, and have
+found a number of moons in the outer regions.
+Each of Saturn’s moons bears a unique story. Two of the moons
+orbit within gaps in the main rings. Some, such as Prometheus
+and Pandora, interact with ring material, shepherding the ring in
+its orbit. Some small moons are trapped in the same orbits as
+Tethys or Dione. Janus and Epimetheus occasionally pass close
+to each other, causing them to periodically exchange orbits. In
+2006, Cassini found evidence for a new class of “moonlets” residing within Saturn’s rings, sweeping out small gaps in the ring
+particles. There may be as many as 10 million moonlets within
+just one of the rings.
+Here’s a sampling of some of the unique aspects of the moons:
+• Titan — At 5,150 kilometers (3,200 miles) across, Titan is the
+solar system’s second-largest moon. Titan hides its surface
+beneath a thick, nitrogen-rich atmosphere, but Cassini’s instruments have revealed that Titan possesses many parallels to
+Earth — clouds, dunes, mountains, lakes, and rivers. Titan’s
+atmosphere is approximately 95 percent nitrogen with traces of
+methane. While Earth’s atmosphere extends about 60 kilometers (37 miles) into space, Titan’s extends nearly 600 kilometers
+(10 times that of Earth’s atmosphere) into space.
+• Iapetus has one side as bright as snow and one side as dark
+as black velvet, with a huge ridge running around most of its
+dark-side equator.
+• Phoebe orbits the planet in a direction opposite that of Saturn’s
+larger moons, as do several of the recently discovered moons.
+• Mimas has an enormous crater on one side, the result of an
+impact that nearly split the moon apart.
+• Enceladus displays evidence of active ice volcanism: Cassini
+observed warm fractures where evaporating ice evidently escapes and forms a huge cloud of water vapor over the south
+pole.
+• Hyperion has an odd flattened shape and rotates chaotically,
+probably due to a recent collision.
+• Pan orbits within the main rings and helps sweep materials out
+of a narrow space known as the Encke Gap.
+• Tethys has a huge rift zone called Ithaca Chasma that runs
+nearly three-quarters of the way around the moon.
+• Four moons orbit in stable places around Saturn called Lagrangian points. These places lie 60 degrees ahead of or behind a
+larger moon and in the same orbit. Telesto and Calypso occupy
+the two Lagrangian points of Tethys in its orbit; Helene and Polydeuces occupy the corresponding Lagrangian points of Dione.
+• Sixteen of Saturn’s moons keep the same face toward the
+planet as they orbit. Called “tidal locking,” this is the same
+phenomenon that keeps our Moon always facing toward Earth.
+In addition to studies of Titan, Cassini continues to gather data
+about many of the other satellites in an effort to fully understand
+the nature, formation, and dynamics of Saturn’s many intriguing
+moons.
+FAST FACTS
+• Largest Moon of Saturn
+Titan
+Titan’s Diameter
+5,150 km (3,200 mi)
+• Closest Moon to Saturn
+Pan
+Pan’s Distance from Saturn
+133,583 km (83,022 mi)
+• Fastest Orbit
+Pan
+Pan’s Orbit Around Saturn
+13.8 hours
+• Number of Moons Discovered by Voyager
+4
+(Atlas, Prometheus, Pandora, and Pan)
+• Number of Moons Discovered by Cassini
+6
+(Methone, Pallene, Polydeuces, Daphnis, Anthe, and Aegaeon)
+ABOUT THE IMAGES
+Saturn’s fourth-
+largest moon, Dione, is
+seen through the haze
+of the planet’s largest
+moon, Titan, against
+Saturn and its rings.
+False color (blue) emphasizes icy walls of fractures on
+Enceladus.
+The Herschel crater on Mimas is a relic of a large impact
+that nearly destroyed this moon.
+Titan’s atmosphere makes Saturn’s largest moon look like a
+fuzzy orange ball in this natural-color view.
+A false-color view processed to enhance the individual jets
+spurting ice particles on Enceladus.
+This image is a mosaic of images of Phoebe taken by
+Cassini during its historic close encounter in June 2004.
+This image of Iapetus, the two-toned moon, shows the
+bright trailing hemisphere.
+Cassini’s false-color image of Rhea enhances the slight
+differences in natural color across the moon’s face.
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+4
+5
+6
+7
+8
+FOR MORE INFORMATION
+solarsystem.nasa.gov/saturn
+For the most recent Saturn moon count, visit:
+solarsystem.nasa.gov/planets/profile.cfm?Object=
+Saturn&Display=Moons
+Some of Saturn’s moons are shown at relative distances to the planet.
+LG-2013-07-576-HQ — JPL 400-1489O 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 31
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Uranus
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 32
+STATUS: ok
+
+The first planet found with the aid of a telescope, Uranus was
+discovered in 1781 by astronomer William Herschel, although he
+originally thought it was a comet or star. The seventh planet from
+the Sun is so distant that it takes 84 years to complete one orbit.
+Like Venus, Uranus rotates east to west. Uranus’ rotation axis is
+tilted almost parallel to its orbital plane, so Uranus appears to be
+rotating on its side. This situation may be the result of a collision
+with a planet-sized body early in the planet’s history, which apparently radically changed Uranus’ rotation. Because of Uranus’
+unusual orientation, the planet experiences extreme variations in
+sunlight during each 20-year-long season.
+Voyager 2, the only spacecraft to visit Uranus, imaged a bland-
+looking sphere in 1986. When Voyager flew by, the south pole of
+Uranus pointed almost directly at the Sun because Uranus was
+near its southern summer solstice, with the southern hemisphere
+bathed in continuous sunlight and the northern hemisphere radiating heat into the blackness of space.
+Uranus reached equinox in December 2007, when it was fully
+illuminated as the Sun passed over the planet’s equator. By
+2028, the north pole will point directly at the Sun, a reversal of
+the situation when Voyager flew by. Equinox also brings ring-
+plane crossing, when Uranus’ rings appear to move more and
+more edge-on as seen from Earth.
+The Hubble Space Telescope and the Keck Observatory in
+Hawaii captured detailed images of Uranus as the planet approached equinox. While Voyager 2 saw only a few discrete
+clouds, more recent observations reveal that Uranus exhibits
+dynamic clouds as it approaches equinox, including rapidly
+evolving bright features and a new Great Dark Spot like those
+seen on Neptune.
+Uranus is one of the two ice giants of the outer solar system
+(the other is Neptune). The atmosphere is mostly hydrogen and
+helium, with a small amount of methane and traces of water and
+ammonia. Uranus gets its blue-green color from methane gas in
+the atmosphere. Sunlight passes through the atmosphere and is
+reflected back out by Uranus’ cloud tops. Methane gas absorbs
+the red portion of the light, resulting in a blue-green color. The
+bulk (80 percent or more) of the mass of Uranus is contained in
+an extended liquid core consisting mostly of icy materials (water,
+methane, and ammonia).
+For nearly a quarter of the Uranian year (equal to 84 Earth years),
+the Sun shines directly over each pole, plunging the other half of
+the planet into a long, dark winter.
+While magnetic fields are typically in alignment with a planet’s
+rotation, Uranus’ magnetic field is tipped over: the magnetic axis
+is tilted nearly 60 degrees from the planet’s axis of rotation, and
+is also offset from the center of the planet by one-third of the
+planet’s radius. The magnetic fields of both Uranus and Neptune
+are very irregular.
+Uranus has two sets of rings. The inner system of nine rings,
+discovered in 1977, consists mostly of narrow, dark rings. Voyager 2 found two additional inner rings. An outer system of two
+more-distant rings was discovered in Hubble Space Telescope
+images in 2003. In 2006, Hubble and Keck observations showed
+that the outer rings are brightly colored. Uranus has 27 known
+moons, named for characters from the works of William Shakespeare or Alexander Pope. Miranda is the strangest-looking
+Uranian moon: its complex surface may indicate partial melting
+of the interior, with icy material drifting to the surface.
+FAST FACTS
+Namesake
+Greek god of the heavens (“Ouranos”)
+Mean Distance from the Sun
+2,870.97 million km
+
+(1,783.94 million mi)
+Orbit Period
+84.02 Earth years (30,687.2 Earth days)
+Orbit Eccentricity (Circular Orbit = 0)
+0.047168
+Orbit Inclination to Ecliptic
+0.770 deg
+Inclination of Equator to Orbit
+97.86 deg
+Rotation Period
+17.24 hours (retrograde)
+Equatorial Radius
+25,559 km (15,882 mi)
+Mass
+14.371 of Earth’s
+Density
+1.32 g/cm3
+Gravity
+8.43 m/sec2 (27.7 ft/sec2)
+Atmosphere Primary Components
+hydrogen, helium
+Effective Temperature
+–216 deg C (–357 deg F)
+Known Moons*
+27
+Known Rings
+13 (Zeta, Six, Five, Four, Alpha,
+Beta, Eta, Gamma, Delta, Lambda, Epsilon, Nu, Mu)
+*As of July 2013.
+SIGNIFICANT DATES
+1781 — Astronomer William Herschel discovers Uranus.
+1787–1851 — Four Uranian moons are discovered and named
+Titania, Oberon, Ariel, and Umbriel.
+1948 — Another moon, Miranda, is discovered.
+1977 — Scientists discover nine faint rings of Uranus while
+observing a distant star pass behind the planet.
+1986 — Voyager 2 discovers 10 moons and two additional rings
+during its historic flyby.
+1997–2005 — Astronomers discover more tiny moons.
+2003–2005 — The Hubble Space Telescope images two delicate
+rings far from the planet, and two new moons.
+2007 — Uranus reaches equinox.
+ABOUT THE IMAGES
+This 2006 image
+taken by the Hubble
+Space Telescope
+shows bands and a
+new “dark spot” in
+Uranus’ atmosphere.
+This infrared image of the dark side of the rings was taken
+by the Keck Observatory in 2007. The rings are visible because
+the widely separated ring particles scatter sunlight from the
+sunlit side of the planet to the dark side. The image is rotated
+90 degrees.
+Uranus’ moon Ariel (white dot) and its shadow (black dot)
+were caught crossing the face of Uranus in this Hubble Space
+Telescope image.
+Uranus’ moon Miranda as seen by Voyager 2.
+This Hubble composite image shows two very faint outer
+rings revealed in 2003. The very bright streaks in the outer
+ring system are moons, their images smeared out by the long
+exposure.
+
+6 Keck Observatory infrared images show how Uranus and
+its rings changed, as viewed from Earth, from 2001–2007. The
+south pole is at the left in the images.
+6
+2
+3
+5
+4
+1
+1
+2
+3
+4
+5
+FOR MORE INFORMATION
+solarsystem.nasa.gov/uranus
+LG-2013-07-577-HQ — JPL 400-1489P 07/13
+Ill
+ustr
+atio
+n of
+the varyi
+ng locat
+ions of
+Uranus
+The varying positions of Uranus over its 20-year seasons.
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 33
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Neptune
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 34
+STATUS: ok
+
+The ice giant Neptune was the first planet located through
+mathematical predictions rather than through regular observa-
+tions of the sky. (Galileo had recorded it as a fixed star during
+observations with his small telescope in 1612 and 1613.) When
+Uranus didn’t travel exactly as astronomers expected it to, a
+French mathematician, Urbain Joseph Le Verrier, proposed
+the position and mass of another as yet unknown planet that
+could cause the observed changes to Uranus’ orbit. After being
+ignored by French astronomers, Le Verrier sent his predictions
+to Johann Gottfried Galle at the Berlin Observatory, who found
+Neptune on his first night of searching in 1846. Seventeen days
+later, its largest moon, Triton, was also discovered.
+Nearly 4.5 billion kilometers (2.8 billion miles) from the Sun,
+Neptune orbits the Sun once every 165 years. It is invisible to
+the naked eye because of its extreme distance from Earth.
+Interestingly, the highly eccentric orbit of the dwarf planet Pluto
+brings Pluto inside Neptune’s orbit for a 20-year period out of
+every 248 Earth years. Pluto can never crash into Neptune,
+though, because for every three laps Neptune takes around the
+Sun, Pluto makes two. This repeating pattern prevents close
+approaches of the two bodies.
+The main axis of Neptune’s magnetic field is tipped over by
+about 47 degrees compared with the planet’s rotation axis. Like
+Uranus, whose magnetic axis is tilted about 60 degrees from the
+axis of rotation, Neptune’s magnetosphere undergoes wild varia-
+tions during each rotation because of this misalignment. The
+magnetic field of Neptune is about 27 times more powerful than
+that of Earth.
+Neptune’s atmosphere extends to great depths, gradually merg-
+ing into water and other melted ices over a heavier, approxi-
+mately Earth-size solid core. Neptune’s blue color is the result
+of methane in the atmosphere. Uranus’ blue-green color is also
+the result of atmospheric methane, but Neptune is a more vivid,
+brighter blue, so there must be an unknown component that
+causes the more intense color.
+Despite its great distance and low energy input from the Sun,
+Neptune’s winds can be three times stronger than Jupiter’s and
+nine times stronger than Earth’s. In 1989, Voyager 2 tracked
+a large, oval-shaped, dark storm in Neptune’s southern hemi-
+sphere. This “Great Dark Spot” was large enough to contain the
+entire Earth, spun counterclockwise, and moved westward at al-
+most 1,200 kilometers (750 miles) per hour. Subsequent images
+taken by the Hubble Space Telescope showed no sign of this
+Great Dark Spot, but did reveal the appearance and then fading
+of two other Great Dark Spots over the last decade. Voyager 2
+also imaged clouds casting shadows on a lower cloud deck,
+enabling scientists to visually measure the altitude differences
+between the upper and lower cloud decks.
+Neptune has six known rings. Voyager 2’s observations con-
+firmed that these unusual rings are not uniform but have four
+thick regions (clumps of dust) called arcs. The rings are thought
+to be relatively young and short-lived.
+Neptune has 13 known moons, six of which were discovered by
+Voyager 2. A 14th tiny, very dim, moon was discovered in 2013
+and awaits official recognition. Triton, Neptune’s largest moon,
+orbits the planet in the opposite direction compared with the
+rest of the moons, suggesting that it may have been captured by
+Neptune in the distant past. Triton is extremely cold — tempera-
+tures on its surface are about –235 degrees Celsius (–391 de-
+grees Fahrenheit). Despite this deep freeze at Triton, Voyager 2
+discovered geysers spewing icy material upward more than 8 ki-
+lometers (5 miles). Triton’s thin atmosphere, also discovered by
+Voyager, has been detected from Earth several times since, and
+is growing warmer — although scientists do not yet know why.
+FAST FACTS
+Namesake
+Roman god of the sea
+Mean Distance from the Sun
+4,498.25 million km
+
+(2,795.08 million mi)
+Orbit Period
+164.79 Earth years
+
+(60,190 Earth days)
+Orbit Eccentricity (Circular Orbit = 0)
+0.00859
+Orbit Inclination to Ecliptic
+1.769 deg
+Inclination of Equator to Orbit
+29.58 deg
+Rotation Period
+16.11 hours
+Equatorial Radius
+24,764 km (15,388 mi)
+Mass
+17.147 of Earth’s
+Density
+1.64 g/cm3
+Gravity
+10.71 m/sec2 (35.14 ft/sec2)
+Atmosphere Primary Components
+hydrogen, helium
+Effective Temperature
+–214 deg C (–353 deg F)
+Known Moons*
+13
+Known Rings
+6 (Galle, Arago, Lassell, Le Verrier,
+
+unnamed ring co-orbital with
+the moon Galatea, Adams)
+*Plus 1 awaiting official confirmation, total 14, as of July 2013.
+SIGNIFICANT DATES
+1846 — Using mathematical calculations, astronomers discover
+Neptune, increasing the number of known planets to eight. Nep-
+tune’s largest moon, Triton, is found the same year.
+1984 — Astronomers find evidence for the existence of a ring
+system around Neptune.
+1989 — Voyager 2 becomes the first and only spacecraft to visit
+Neptune, passing about 4,800 kilometers (2,983 miles) above
+the planet’s north pole.
+1998 — Scientists using telescopes on Earth and in space
+image Neptune’s rings and ring arcs for the first time.
+2003 — Using improved observing techniques, astronomers
+discover five new moons orbiting Neptune.
+2005 — Scientists using the Keck Observatory image the outer
+rings and find that some of the ring arcs have deteriorated.
+2011 — Neptune completes its first 165-year orbit of the Sun
+since its discovery in 1846.
+2013 — A scientist studying Neptune’s ring arcs in archival
+Hubble Space Telescope images finds a previously unknown
+14th moon of Neptune, provisionally designated S/2004 N 1.
+ABOUT THE IMAGES
+Diagram
+V
+1
+oyager 2 captured
+this image of Neptune
+in 1989.
+This V
+2
+oyager 2
+image shows the arcs
+in the outer rings.
+
+3
+The moon Triton’s complex surface is shown in this
+Voyager 2 image. The surface is covered in nitrogen ice.
+The Keck Observatory in Hawaii took this infrar
+4
+ed image
+of Neptune using adaptive optics that compensate for the
+blurring effect of Earth’s atmosphere.
+This Hubble Space T
+5
+elescope image of Neptune shows
+bright, high-altitude clouds of methane ice crystals.
+The clouds in this V
+6
+oyager 2 image are estimated to be
+about 50 kilometers (31 miles) tall.
+V
+7
+oyager 2 took this close-up image of Neptune’s mysterious
+Great Dark Spot.
+FOR MORE INFORMATION
+solarsystem.nasa.gov/neptune
+
+D
+i
+agram of the images from the front cover numbered, from top left to bottom right, 1 to
+7
+LG-2013-07-578-HQ — JPL 400-1489Q, Rev. 1 09/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 35
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Illustratio
+n showing t
+he relative d
+istances of t
+he planets fr
+om the sun
+Pluto and Charon
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 36
+STATUS: ok
+
+Pluto’s discovery in 1930 resulted from an attempt to find a
+planet beyond Neptune that was theorized to be disturbing the
+orbits of Uranus and Neptune. Astronomers initially calculated
+Pluto’s mass based on its presumed effect on the two giant outer
+planets. With the 1978 discovery of Pluto’s large moon, Charon,
+astronomers could compute Pluto’s mass for the first time, and
+it proved to be far too small to account for discrepancies in the
+orbits of Uranus or Neptune.
+Pluto is classified as a dwarf planet and is also a member of a
+group of objects that orbit in a disc-like zone beyond the orbit of
+Neptune called the Kuiper Belt. This distant realm is populated
+with thousands of miniature icy worlds, which formed early in the
+history of the solar system. These icy, rocky bodies are called
+Kuiper Belt objects or transneptunian objects.
+Pluto’s 248-year-long elliptical orbit can take it as far as
+49.3 astronomical units (AU) from the Sun. (One AU is the mean
+distance between Earth and the Sun: about 150 million kilometers or 93 million miles.) From 1979 to 1999, Pluto was actually
+closer to the Sun than Neptune, and in 1989, Pluto came to
+within 29.7 AU of the Sun, providing rare opportunities to study
+this small, cold, distant world. Pluto’s orbit occasionally brings it
+closer to the Sun than the Kuiper Belt.
+Pluto is about two-thirds the diameter of Earth’s Moon. Exotic
+ices like methane and nitrogen frost coat its surface. Owing to
+its size and lower density, Pluto’s mass is about one-sixth that of
+Earth’s Moon. Its density indicates that it is partially composed
+of ices, not rocky materials. Pluto is more massive than Ceres —
+the dwarf planet that resides in the asteroid belt between Mars
+and Jupiter — by a factor of 20.
+When Pluto is close to the Sun, its surface ices thaw, rise, and
+temporarily form a thin atmosphere. Pluto’s low gravity (about
+6 percent of Earth’s) causes the atmosphere to be much more
+extended in altitude than our planet’s atmosphere. Pluto
+becomes much colder during the part of each orbit when it is
+traveling far away from the Sun, and it is thought that the bulk of
+the planet’s atmosphere freezes during this time.
+Pluto’s very large moon, Charon, is almost half the size of Pluto.
+Charon is so big that the two are sometimes referred to as a
+double dwarf planet system. The distance between them is
+19,640 kilometers (12,200 miles). The Hubble Space Telescope
+photographed Pluto and Charon in 1994 when Pluto was about
+30 AU from Earth. These photos showed that Charon is grayer
+than Pluto (which is red), indicating that they have different
+surface compositions and structure.
+In 2005, scientists photographing Pluto with the Hubble Space
+Telescope in preparation for the New Horizons mission found
+two tiny moons orbiting in the same plane as Charon, but two to
+three times farther away from Pluto than Charon. Named Nix and
+Hydra, the two moons are thought to be perhaps 50 to 100 kilometers (31 to 62 miles) in diameter. In 2011, Hubble observers found an even smaller moon (later named Kerberos), and in
+2012, yet another tiny moon was discovered (later named Styx).
+The space telescope is being used to scour the Pluto system
+to uncover potential orbital debris hazards to the New Horizons
+spacecraft, which will be traveling at about 48,280 kilometers
+per hour (30,000 miles per hour). The New Horizons team may
+be able to plan observations of these newly discovered moons.
+By July 2013, the spacecraft was halfway to Pluto — beyond the
+orbit of Uranus and heading for its Pluto rendezvous in 2015.
+Charon’s orbit around Pluto takes 6.4 Earth days, and one Pluto
+rotation (a Pluto day) takes 6.4 Earth days. Charon neither rises
+nor sets but “hovers” over the same spot on Pluto’s surface,
+and the same side of Charon always faces Pluto — this is called
+tidal locking. Compared with most of the planets and moons, the
+Pluto–Charon system is tipped on its side, like Uranus. Pluto’s
+rotation is retrograde: it rotates “backwards,” from east to west
+(Uranus and Venus also have retrograde rotation). It isn’t known
+whether Pluto has a magnetic field, but its small size and slow
+rotation suggest little or no magnetic field.
+Because Pluto and its family of moons are so small and far
+away, they are extremely difficult to observe from Earth. Careful
+analyses of images taken by the Hubble Space Telescope have
+allowed astronomers to make rudimentary maps showing areas
+of relative brightness and darkness.
+FAST FACTS
+Namesake
+Roman god of the underworld
+Mean Distance from the Sun
+5,906.38 million km
+
+(3,670.05 million mi)
+Orbit Period
+247.92 Earth years
+
+(90,553 Earth days)
+Orbit Eccentricity (Circular Orbit = 0)
+0.2488
+Orbit Inclination to Ecliptic
+17.14 deg
+Inclination of Equator to Orbit
+119.61 deg
+Rotation Period
+6.387 Earth days (retrograde)
+Equatorial Radius (Pluto)
+1,180 km (733 mi)
+Equatorial Radius (Charon)
+600 km (373 mi)
+Mass
+0.0022 of Earth’s
+Density (Pluto)
+2.03 g/cm3
+Gravity
+0.65 m/sec2 (2.1 ft/sec2)
+Atmosphere Primary Components
+nitrogen, carbon
+
+monoxide, methane
+Surface Temperature
+–233 to –223 deg C
+
+(–387 to –369 deg F)
+Known Moons*
+5
+Rings
+None known
+*As of July 2013.
+SIGNIFICANT DATES
+1930 — Clyde Tombaugh discovers Pluto.
+1977–1999 — Pluto’s lopsided orbit brings it slightly closer to
+the Sun than Neptune. It will be at least 230 years before Pluto
+moves inward of Neptune’s orbit for 20 years.
+1978 — American astronomers James Christy and Robert Harrington discover Pluto’s unusually large moon, Charon.
+1988 — Astronomers discover that Pluto has an atmosphere.
+2005 — Scientists using the Hubble Space Telescope announce
+the discovery of two additional moons of Pluto.
+2006 — NASA’s New Horizons mission launches to explore Pluto
+and the Kuiper Belt region.
+2011–2012 — Three more small moons are found, bringing the
+total of known moons to five.
+ABOUT THE IMAGES
+Pluto, Charon
+(just below and to the
+right of Pluto), and the
+tiny moons Nix and
+Hydra were imaged
+by the Hubble Space
+Telescope.
+1
+3
+4
+1
+2
+3
+4
+2
+Astronomers investigating a changing bulge in Pluto images
+eventually determined that Pluto had a companion — Charon, a
+large moon nearly half Pluto’s size.
+The Hubble Space Telescope resolved Pluto and Charon as
+separate discs in the 1990s, enabling better measurements of
+both bodies.
+Surface maps of Pluto created from Hubble Space Telescope images reveal a complex-looking world with white, dark-
+orange, and charcoal-black terrain.
+FOR MORE INFORMATION
+solarsystem.nasa.gov/pluto
+LG-2013-07-579-HQ — JPL 400-1489R 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 37
+STATUS: short
+
+National Aeronautics and Space Administration
+www.nasa.gov
+Comets
+National Aeronautics and Space Administration
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 38
+STATUS: ok
+
+In the distant past, people were both awed and alarmed by comets, perceiving them as “long-haired” stars that appeared in the
+sky unannounced and unpredictably. Chinese astronomers kept
+extensive records for centuries, including illustrations of characteristic types of comet tails, times of cometary appearances
+and disappearances, and celestial positions. These historic
+comet annals have proven to be a valuable resource for later
+astronomers.
+We now know that comets are leftovers from the dawn of the
+solar system around 4.6 billion years ago, and consist mostly of
+ice coated with dark organic material. They have been referred to
+as “dirty snowballs.” They may yield important clues about the
+formation of our solar system. Comets may have brought water
+and organic compounds, the building blocks of life, to the early
+Earth and other parts of the solar system.
+As theorized by astronomer Gerard Kuiper in 1951, a disc-like
+belt of icy bodies exists beyond Neptune, where a population of
+dark comets orbits the Sun in Pluto’s realm. These icy objects,
+occasionally pushed by gravity into orbits bringing them closer
+to the Sun, become the so-called short-period comets. Taking
+less than 200 years to orbit the Sun, in many cases their appearance is predictable because they have passed by before. Less
+predictable are long-period comets, many of which arrive from
+a region called the Oort Cloud about 100,000 astronomical units
+(that is, 100,000 times the distance between Earth and the Sun)
+from the Sun. These Oort Cloud comets can take as long as
+30 million years to complete one trip around the Sun.
+Each comet has a tiny frozen part, called a nucleus, often no
+larger than a few kilometers across. The nucleus contains icy
+chunks — frozen gases with bits of embedded dust. A comet
+warms up as it nears the Sun and develops an atmosphere, or
+coma. The Sun’s heat causes the comet’s ices to change to
+gases so the coma gets larger. The coma may extend hundreds
+of thousands of kilometers. The pressure of sunlight and high-
+speed solar particles (solar wind) can blow the coma dust and
+gas away from the Sun, sometimes forming a long, bright tail.
+Comets actually have two tails — a dust tail and an ion (gas) tail.
+Most comets travel a safe distance from the Sun — comet Halley comes no closer than 89 million kilometers (55 million miles).
+However, some comets, called sungrazers, crash straight into
+the Sun or get so close that they break up and evaporate.
+Scientists have long wanted to study comets in some detail,
+tantalized by the few 1986 images of comet Halley’s nucleus.
+NASA’s Deep Space 1 spacecraft flew by comet Borrelly in
+2001 and photographed its nucleus, which is about 8 kilometers
+(5 miles) long.
+NASA’s Stardust mission successfully flew within 236 kilometers (147 miles) of the nucleus of comet Wild 2 in January 2004,
+collecting cometary particles and interstellar dust for a sample
+return to Earth in 2006. The photographs taken during this close
+flyby of a comet nucleus show jets of dust and a rugged, textured surface. Analysis of the Stardust samples suggests that
+comets may be more complex than originally thought. Minerals
+formed near the Sun or other stars were found in the samples,
+suggesting that materials from the inner regions of the solar system traveled to the outer regions where comets formed.
+Another NASA mission, Deep Impact, consisted of a flyby
+spacecraft and an impactor. In July 2005, the impactor was
+released into the path of the nucleus of comet Tempel 1 in a
+planned collision, which vaporized the impactor and ejected
+massive amounts of fine, powdery material from beneath the
+comet’s surface. En route to impact, the impactor camera
+imaged the comet in increasing detail. Two cameras and a
+spectrometer on the flyby spacecraft recorded the dramatic
+excavation that helped determine the interior composition and
+structure of the nucleus.
+After their successful primary missions, the Deep Impact spacecraft and the Stardust spacecraft were still healthy and were
+retargeted for additional cometary flybys. Deep Impact’s mission, EPOXI (Extrasolar Planet Observation and Deep Impact
+Extended Investigation), comprised two projects: the Deep
+Impact Extended Investigation (DIXI), which encountered comet
+Hartley 2 in November 2010, and the Extrasolar Planet Observation and Characterization (EPOCh) investigation, which searched
+for Earth-size planets around other stars on route to Hartley 2.
+NASA returned to comet Tempel 1 in 2011, when the Stardust
+New Exploration of Tempel 1 (NExT) mission observed changes
+in the nucleus since Deep Impact’s 2005 encounter.
+SIGNIFICANT DATES
+1070–1080 — The comet later designated Halley’s Comet is
+pictured in the Bayeux Tapestry, a chronicle of the Battle of
+Hastings of 1066.
+1449–1450 — Astronomers make one of the first known efforts
+to record the paths of comets across the night sky.
+1705 — Edmond Halley publishes that the comets of 1531,
+1607, and 1682 are the same object and predicts its return in
+1758. The comet arrives on schedule and is later named Halley’s
+Comet.
+1986 — An international fleet of five spacecraft converges on
+comet Halley as it makes its regular (about every 76 years) pass
+through the inner solar system.
+1994 — In the first observed planetary impact by a comet, awed
+scientists watch as fragments of comet Shoemaker–Levy 9
+smash into Jupiter’s atmosphere.
+2001 — Deep Space 1 flies by and photographs comet Borrelly.
+2004 — NASA’s Stardust spacecraft collects dust samples from
+comet Wild 2 and images the nucleus.
+2005 — The Deep Impact impactor collides with comet Tempel 1
+to enable scientists to study the interior of the nucleus.
+2006 — The Stardust sample return capsule lands in Utah carrying cometary particles and interstellar dust.
+2009 — Scientists announce that the amino acid glycine, a building block of life, was collected by the Stardust spacecraft from
+comet Wild 2.
+2010 — The Deep Impact spacecraft studies its second cometary target, Hartley 2, a small, “hyperactive” comet.
+2011 — The Stardust spacecraft encounters Tempel 1 and captures views of the Deep Impact impact site, the opposite side of
+the nucleus, and signs of evolution on the comet’s surface.
+ABOUT THE IMAGES
+The collision of the
+Deep Impact impactor
+with comet Tempel 1
+generated a cloud of
+dust. Stardust imaged
+the back side of the
+nucleus (inset).
+Stardust revealed the nucleus of comet Wild 2 during a 2004
+flyby. Tiny cometary and interstellar dust particles were captured
+for return to Earth.
+Hartley 2 was very active at the time of the Deep Impact
+flyby, with ice jets propelled by carbon dioxide clearly seen
+emanating from the nucleus.
+The tail of comet C/2002 V1 is disrupted as it comes closer
+to the Sun in 2003. The image is from the Solar and Heliospheric
+Observatory, with the Sun’s bright disc covered.
+This image of comet McNaught was captured by the European Southern Observatory in Chile in January 2007 as both the
+comet and the Sun were setting over the Pacific Ocean.
+1
+2
+4
+5
+3
+2
+3
+4
+5
+1
+FOR MORE INFORMATION
+solarsystem.nasa.gov/comets
+LG-2013-07-580-HQ — JPL 400-1489S 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 39
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Pluto’s Orbit
+Typical KBO Orbit
+Oort Cloud
+Eris
+Kuiper
+Belt
+Outer Solar System
+Kuiper Belt and Oort Cloud
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 40
+STATUS: ok
+
+In 1930, soon after the discovery of Pluto, astronomer Frederick C. Leonard suggested that Pluto was but one of many
+“ultra-Neptunian” or “trans-Neptunian” small bodies. In 1943,
+astronomer Kenneth Edgeworth hypothesized that many small,
+icy bodies exist in a disc in the region beyond Neptune, having
+condensed from widely spaced ancient material, and that from
+time to time one of them visits the inner solar system. Eight
+years later, Gerard Kuiper proposed the existence of such a
+disc, which formed early in the solar system’s evolution. In 1992,
+astronomers detected a faint speck of light from an object about
+42 AU from the Sun — the first time a Kuiper Belt object (or KBO
+for short) had been sighted. (One astronomical unit, or AU, is the
+mean distance of Earth from the Sun: about 150 million kilometers or 93 million miles.) More than 1,300 KBOs have been identified since 1992. They are sometimes called Edgeworth–Kuiper
+Belt objects or transneptunian objects — TNOs for short.
+The Kuiper Belt should not be confused with the Oort Cloud,
+which is a thousand times more distant. In 1950, astronomer
+Jan Oort proposed that certain comets come from a vast,
+extremely distant spherical shell of icy bodies surrounding the
+solar system. This giant swarm of objects, now named the Oort
+Cloud, occupies space at a distance between 5,000 and 100,000
+astronomical units. No objects residing within the Oort Cloud
+have ever been directly observed. The outer extent of the Oort
+Cloud is where the Sun’s gravitational influence can be overpowered by that of other stars.
+The Oort Cloud probably contains 0.1 to 2 trillion icy bodies in
+solar orbit. Occasionally, giant molecular clouds, stars passing
+nearby, or tidal interactions with the Milky Way’s disc disturb
+the orbit of one of these bodies in the outer region of the Oort
+Cloud, causing the object to streak into the inner solar system
+as a so-called long-period comet. These comets have very large,
+eccentric orbits and are observed in the inner solar system only
+once. In contrast, short-period comets take less than 200 years
+to orbit the Sun and they travel along the plane in which most of
+the planets orbit. They are thought to come from the Kuiper Belt
+or from the so-called scattered disc, a dynamic zone created by
+the outward motion of Neptune that contains many icy objects
+with eccentric orbits. The objects in the Oort Cloud and in the
+Kuiper Belt are presumed to be remnants from the formation of
+the solar system about 4.6 billion years ago.
+The Kuiper Belt extends from about 30 to 55 AU and is probably populated with hundreds of thousands of icy bodies larger
+than 100 kilometers (62 miles) across and an estimated trillion or
+more comets. Because KBOs are so distant, their sizes are difficult to measure. The calculated diameter of a KBO depends on
+assumptions about how brightness relates to size. With infrared
+observations by the Spitzer Space Telescope, most of the largest
+KBOs have known sizes.
+One of the most unusual KBOs is Haumea, part of a collisional
+family orbiting the Sun, the first found in the Kuiper Belt. The
+parent body, Haumea, apparently collided with another object
+that was roughly half its size. The impact blasted large icy
+chunks away and sent Haumea reeling, causing it to spin end-
+over-end every four hours. It spins so fast that it has pulled itself
+into the shape of a squashed American football. Haumea and
+two small moons — Hi’iaka and Namaka — make up the family.
+In March 2004, a team of astronomers announced the discovery
+of a planet-like transneptunian object orbiting the Sun at an
+extreme distance, in one of the coldest known regions of our
+solar system. The object (2003VB12), since named Sedna for an
+Inuit goddess who lives at the bottom of the frigid Arctic ocean,
+approaches the Sun only briefly during its 10,500-year solar
+orbit. It never enters the Kuiper Belt, whose outer boundary
+region lies at about 55 AU — instead, Sedna travels in a long,
+elliptical orbit between 76 and nearly 1,000 AU from the Sun.
+Since Sedna’s orbit takes it to such an extreme distance, its
+discoverers have suggested that it is the first observed body belonging to the inner Oort Cloud.
+In July 2005, a team of scientists announced the discovery of a
+KBO that appeared to be slightly larger than Pluto. The object,
+temporarily designated 2003UB313 and later named Eris, orbits
+the Sun about every 560 years, its distance varying from about
+38 to 98 AU. (For comparison, Pluto travels from 29 to 49 AU
+in its solar orbit.) Eris’s size is difficult to measure, owing to its
+extreme distance, but a 2011 estimate from a ground-based
+telescope suggested that Eris is about 27 percent more massive
+than Pluto. Eris has a small moon named Dysnomia.
+The discovery of Eris — orbiting the Sun and larger than Pluto
+(which was then designated the ninth planet) — forced astronomers to consider whether Eris should be classified as the tenth
+planet. Instead, in 2006, the International Astronomical Union
+created a new class of objects called dwarf planet, and placed
+Pluto, Eris, and the asteroid Ceres in this category. Subsequent
+discoveries added Haumea and Makemake to the dwarf planet
+family. Pluto, Eris, Haumea, and Makemake retain their classification as KBOs (or TNOs).
+While no spacecraft has yet traveled to the Kuiper Belt, NASA’s
+New Horizons spacecraft, which is scheduled to arrive at Pluto
+in 2015, plans to study other KBOs after the Pluto mission is
+complete.
+SIGNIFICANT DATES
+1943 — Astronomer Kenneth Edgeworth suggests that a reservoir of comets and larger bodies resides beyond the planets.
+1950 — Astronomer Jan Oort theorizes that a vast population of
+comets may exist in a huge cloud surrounding our solar system.
+1951 — Astronomer Gerard Kuiper predicts the existence of a
+belt of icy objects just beyond the orbit of Neptune.
+1992 — After five years of searching, astronomers David Jewitt
+and Jane Luu discover the first KBO, 1992QB1.
+2002 — Scientists using the 48-inch Oschin telescope
+at Palomar Observatory find Quaoar, the first large KBO hundreds of kilometers in diameter. This object was photographed
+in 1980 but was not noticed in those images.
+2004 — Astronomers using the 48-inch Oschin telescope
+announce the discovery of Sedna.
+2005 — Astronomers announce the discovery of 2003UB313.
+This object, later named Eris, is slightly larger than Pluto.
+2008 — The Kuiper Belt object provisionally known as 2005FY9
+was recognized in July as a dwarf planet and named Makemake
+(pronounced MAHkeh-MAHkeh) after the Polynesian (Rapa Nui)
+creation god. In September, 2003EL61 was designated a dwarf
+planet and given the name Haumea after the Hawaiian goddess
+of fertility and childbirth.
+ABOUT THE IMAGES
+1
+2
+3
+4
+3
+4
+Artist’s concept of
+Eris and its moon. The
+Sun is in the distance.
+An illustration of
+the Kuiper Belt and
+Oort Cloud in relation
+to the solar system.
+1
+2
+Artist’s concept of Haumea and its two small moons.
+A diagram showing solar system orbits. The highly tilted
+orbit of Eris is in red.
+FOR MORE INFORMATION
+solarsystem.nasa.gov/kuiper
+LG-2013-07-581-HQ — JPL 400-1489T 07/13
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 41
+STATUS: short
+
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+Pluto/Charon
+Earth’s Moon
+Earth
+Eris
+Ceres
+What Is a Planet?
+www.nasa.gov
+
+----------------------------------------
+
+SOURCE: Solar_System_Lithograph_Set(1).pdf
+PDF PAGE: 42
+STATUS: ok
+
+Science is a dynamic process of questioning, hypothesizing,
+discovering, and changing previous ideas based on what is
+learned. Scientific ideas are developed through reasoning and
+tested against observations. Scientists assess and question
+each other’s work in a critical process called peer review.
+Our understanding about the universe and our place in it has
+changed over time. New information can cause us to rethink
+what we know and reevaluate how we classify objects in order to
+better understand them. New ideas and perspectives can come
+from questioning a theory or seeing where a classification breaks
+down.
+Defining the term planet is important, because such definitions
+reflect our understanding of the origins, architecture, and evolution of our solar system. Over historical time, objects categorized
+as planets have changed. The ancient Greeks counted the Moon
+and Sun as planets along with Mercury, Venus, Mars, Jupiter,
+and Saturn. Earth was not considered a planet, but rather was
+thought to be the central object around which all the other celestial objects orbited. The first known model that placed the Sun at
+the center of the known universe with the Earth revolving around
+it was presented by Aristarchus of Samos in the third century
+BCE, but it was not generally accepted. It wasn’t until the 16th
+century that the idea was revived by Nicolaus Copernicus. By
+the 17th century, astronomers (aided by the invention of the
+telescope) realized that the Sun was the celestial object around
+which all the planets — including Earth — orbit, and that the
+Moon is not a planet, but a satellite (moon) of Earth. Uranus was
+added as a planet in 1781 and Neptune was discovered in 1846.
+Ceres was discovered between Mars and Jupiter in 1801 and
+originally classified as a planet. But as many more objects were
+subsequently found in the same region, it was realized that
+Ceres was the first of a class of similar objects that were eventually termed asteroids (“star-like”) or minor planets.
+Pluto, discovered in 1930, was identified as the ninth planet.
+But Pluto is much smaller than Mercury and is even smaller than
+some of the planetary moons. It is unlike the terrestrial planets
+(Mercury, Venus, Earth, Mars), or the gas giants (Jupiter, Saturn),
+or the ice giants (Uranus, Neptune). Charon, its huge satellite, is
+nearly half the size of Pluto and shares Pluto’s orbit. Though
+Pluto kept its planetary status through the 1980s, things began
+to change in the 1990s with some new discoveries.
+Technical advances in telescopes led to better observations and
+improved detection of very small, very distant objects. In the
+early 1990s, astronomers began finding numerous icy worlds
+What makes a planet, according to the definitions adopted by
+the International Astronomical Union —
+PLANET CHARACTERISTICS
+planet
+dwarf planet
+Is in orbit around the Sun
+✓
+✓
+Has sufficient mass to assume
+✓
+✓
+a nearly round shape
+Is not a satellite
+✓
+✓
+Has cleared the neighborhood
+✓
+around its orbit
+Has not cleared the neighborhood
+
+✓
+around its orbit
+orbiting the Sun in a doughnut-shaped region called the Kuiper
+Belt beyond the orbit of Neptune — out in Pluto’s realm. With
+the discovery of the Kuiper Belt and its thousands of icy bodies
+(known as Kuiper Belt objects, or KBOs; also called transneptunians), it was proposed that it is more useful to think of Pluto as
+the biggest KBO instead of a planet. Then, in 2005, a team of astronomers announced that they had found a “tenth planet” — it
+was a KBO even larger than Pluto. People began to wonder what
+planethood really means. Just what is a planet, anyway? Suddenly the answer to that question didn’t seem so self-evident,
+and, as it turns out, there are plenty of disagreements about it.
+The International Astronomical Union (IAU), a worldwide organization of astronomers, took on the challenge of classifying the
+newly found KBO (later named Eris). In 2006, the IAU passed a
+resolution that defined planet and established a new category,
+dwarf planet. Eris, Ceres, Pluto, and two more recently discovered KBOs named Haumea and Makemake, are the dwarf planets recognized by the IAU (as of July 2013). Pluto, Eris, Haumea,
+and Makemake are also classified as KBOs, and Ceres retains
+its asteroid label. There may be another 100 dwarf planets in the
+solar system and hundreds more in and just outside the Kuiper
+Belt.
+Astronomers and planetary scientists did not unanimously agree
+with these definitions. To some it appeared that the classification
+scheme was designed to limit the number of planets; to others
+it was incomplete and the terms unclear. Some astronomers
+argued that location (context) is important, especially in understanding the formation and evolution of the solar system.
+One idea is to simply define a planet as a “natural object in
+space that is massive enough for gravity to make it approximately spherical.” But some scientists objected that this simple
+definition does not take into account what degree of measurable
+roundness is needed for an object to be considered round. In
+fact, it is often difficult to accurately determine the shapes of
+some distant objects. Others argue that where an object is
+located or what it is made of do matter and there should not be
+a concern with dynamics; that is, whether or not an object
+sweeps up or scatters away its immediate neighbors, or holds
+them in stable orbits. The lively planethood debate continues.
+As our knowledge deepens and expands, the more complex
+and intriguing the universe appears. Researchers have found
+hundreds of extrasolar planets, or exoplanets, that reside outside
+our solar system; there may be billions of exoplanets in the Milky
+Way Galaxy alone, and some may be habitable (have conditions
+favorable to life). Whether our definitions of “planet” can be applied to these newly found objects remains to be seen.
+ABOUT THE IMAGES
+This illustration* of
+our solar system shows
+Eris in its highly tilted
+orbit beyond Pluto.
+A Hubble Space
+Telescope image of
+Ceres. NASA’s Dawn
+mission will visit Ceres in 2015 for a much closer look.
+The Hubble Space Telescope took this image of Eris and
+its small moon, Dysnomia. Astronomers combined images from
+Hubble and the Keck Telescope to calculate Eris’s mass and
+Dysnomia’s orbit.
+A size comparison of dwarf planets Eris, Pluto, and Ceres
+(artist’s concepts); Pluto’s moon Charon (artist’s concept); Earth’s
+Moon; and Earth.
+FOR MORE INFORMATION
+solarsystem.nasa.gov/dwarf
+*In the illustration, the orbit of dwarf planet Eris, out beyond Pluto, is
+not to scale. Eris’s mean distance from the Sun is 67.6 astronomical
+units (AU), compared to Pluto’s mean distance of 39 AU. (One AU is
+the mean distance from Earth to the Sun.)
+3
+4
+1
+2
+1
+2
+3
+4
+ACTIVITY: WHAT IS A PLANET?
+In this activity, students (grades 9–12) compare the characteristics of planets, comets, asteroids, and transneptunian objects.
+Download the activity from this website — pluto.jhuapl.edu/
+education/educators_eduGuide.php
+LG-2013-07-582-HQ — JPL 400-1489U 07/13
+
+----------------------------------------
+

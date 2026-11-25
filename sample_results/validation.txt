@@ -1,0 +1,7 @@
+Validated on the four attached NASA PDFs using PyMuPDF 1.26.6.
+4 input PDFs, 48 physical PDF pages, 0 empty pages, 20 short pages.
+Verified continuous page numbering per document and source filenames.
+Verified page 6 Sun passage and composition survive cleaning.
+Verified synthetic blank page retains its original number.
+Verified empty-folder and malformed-PDF runs fail with visible errors.
+Reading order, tables, equations and image-only content still require review.
