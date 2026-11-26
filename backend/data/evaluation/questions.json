@@ -1,0 +1,141 @@
+{
+  "name": "AstroDocs development evaluation v1",
+  "scope": "Use only the supplied PDF editions. Reference answers describe their contents, not current mission updates. This is a small development benchmark, not an independent final test.",
+  "cases": [
+    {
+      "id": "Q01",
+      "answerable": true,
+      "question": "What is the temperature of the Sun's photosphere?",
+      "expected_answer": "About 5,500 degrees Celsius (10,000 degrees Fahrenheit).",
+      "expected_source": "Solar_System_Lithograph_Set.pdf",
+      "expected_page": 6,
+      "reference_quote": "The temperature of the photosphere is about 5,500 degrees Celsius (10,000 degrees Fahrenheit)."
+    },
+    {
+      "id": "Q02",
+      "answerable": true,
+      "question": "Why is the surface of Venus so hot?",
+      "expected_answer": "Its thick atmosphere traps the Sun's heat.",
+      "expected_source": "Solar_System_Lithograph_Set.pdf",
+      "expected_page": 10,
+      "reference_quote": "The thick atmosphere traps the Sun’s heat, resulting in surface temperatures higher than 470 degrees Celsius (880 degrees Fahrenheit)."
+    },
+    {
+      "id": "Q03",
+      "answerable": true,
+      "question": "Why do we always see the same face of the Moon from Earth?",
+      "expected_answer": "The Moon rotates on its axis at the same rate that it orbits Earth, in synchronous rotation.",
+      "expected_source": "Solar_System_Lithograph_Set.pdf",
+      "expected_page": 14,
+      "reference_quote": "From Earth, we always see the same face of the Moon because the Moon is spinning on its axis at the same speed that it is going around Earth (that is, it is in synchronous rotation with Earth)."
+    },
+    {
+      "id": "Q04",
+      "answerable": true,
+      "question": "What measurements does the MEDA instrument provide?",
+      "expected_answer": "Temperature, wind speed and direction, pressure, relative humidity, and dust size and shape.",
+      "expected_source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+      "expected_page": 2,
+      "reference_quote": "sensors that will provide measurements of temperature, wind speed and direction, pressure, relative humidity, and dust size and shape."
+    },
+    {
+      "id": "Q05",
+      "answerable": true,
+      "question": "How does Perseverance's MMRTG generate electricity?",
+      "expected_answer": "It uses heat from the natural decay of plutonium-238.",
+      "expected_source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+      "expected_page": 2,
+      "reference_quote": "It uses the heat from the natural decay of plutonium-238 to generate electricity."
+    },
+    {
+      "id": "Q06",
+      "answerable": true,
+      "question": "According to the Mars 2020 fact sheet, which crater is the landing site?",
+      "expected_answer": "Jezero Crater, at an ancient river delta in a former lake.",
+      "expected_source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+      "expected_page": 1,
+      "reference_quote": "at the site of an ancient river delta in a lake that once filled Jezero Crater"
+    },
+    {
+      "id": "Q07",
+      "answerable": true,
+      "question": "How many visible-light cameras does the Europa Imaging System have?",
+      "expected_answer": "Two visible-light cameras.",
+      "expected_source": "Europa-Clipper-Fact-Sheet.pdf",
+      "expected_page": 1,
+      "reference_quote": "has two visible-light cameras that will map Europa at a range of resolutions."
+    },
+    {
+      "id": "Q08",
+      "answerable": true,
+      "question": "What does the REASON radar study on Europa?",
+      "expected_answer": "The structure and thickness of Europa's ice.",
+      "expected_source": "Europa-Clipper-Fact-Sheet.pdf",
+      "expected_page": 2,
+      "reference_quote": "to study Europa’s ice structure and thickness."
+    },
+    {
+      "id": "Q09",
+      "answerable": true,
+      "question": "Why does Europa Clipper need enormous solar arrays?",
+      "expected_answer": "Jupiter is far from the Sun, so the arrays must convert faint sunlight into electricity to power the spacecraft.",
+      "expected_source": "Europa-Clipper-Fact-Sheet.pdf",
+      "expected_page": 2,
+      "reference_quote": "Because Jupiter is so far from the Sun, Europa Clipper needs enormous solar arrays to convert the faint sunlight into electricity"
+    },
+    {
+      "id": "Q10",
+      "answerable": true,
+      "question": "Which four Pluto moons did the New Horizons team discover using Hubble images?",
+      "expected_answer": "Nix, Hydra, Styx, and Kerberos.",
+      "expected_source": "nh-fact-sheet-2015_1.pdf",
+      "expected_page": 1,
+      "reference_quote": "Nix, Hydra, Styx and Kerberos."
+    },
+    {
+      "id": "Q11",
+      "answerable": true,
+      "question": "What does the LORRI instrument on New Horizons do?",
+      "expected_answer": "It is a telescopic camera that collects encounter data at long distances, maps Pluto's far side, and provides high-resolution geologic data.",
+      "expected_source": "nh-fact-sheet-2015_1.pdf",
+      "expected_page": 2,
+      "reference_quote": "Telescopic camera; obtains encounter data at long distances, maps Pluto’s far side and provides high resolution geologic data."
+    },
+    {
+      "id": "Q12",
+      "answerable": true,
+      "question": "Who built and operates the Venetia Burney Student Dust Counter?",
+      "expected_answer": "Students at the University of Colorado.",
+      "expected_source": "nh-fact-sheet-2015_1.pdf",
+      "expected_page": 2,
+      "reference_quote": "Built and operated by students at University of Colorado"
+    },
+    {
+      "id": "Q13",
+      "answerable": false,
+      "question": "What is the capital of Canada?",
+      "expected_answer": "The supplied documents do not provide the answer.",
+      "expected_source": null,
+      "expected_page": null,
+      "reference_quote": null
+    },
+    {
+      "id": "Q14",
+      "answerable": false,
+      "question": "What is the exact mass of the exoplanet TRAPPIST-1e?",
+      "expected_answer": "The supplied documents do not provide the answer.",
+      "expected_source": null,
+      "expected_page": null,
+      "reference_quote": null
+    },
+    {
+      "id": "Q15",
+      "answerable": false,
+      "question": "What were the final scientific results of the Europa Clipper mission?",
+      "expected_answer": "The supplied fact sheet describes plans and objectives, not final mission results.",
+      "expected_source": null,
+      "expected_page": null,
+      "reference_quote": null
+    }
+  ]
+}

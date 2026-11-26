@@ -1,0 +1,1248 @@
+{
+  "run_name": "improved_v3",
+  "created_at_utc": "2026-11-26T15:41:00.887445+00:00",
+  "dataset_name": "AstroDocs development evaluation v1",
+  "dataset_sha256": "b6574f2e7b690b1cdd4d0f54aecd847ca0429c33c4ed16f60946273b5b40da97",
+  "settings": {
+    "base_url": "http://127.0.0.1:8000",
+    "top_k": 4,
+    "candidate_k": 20
+  },
+  "models": {
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "generation_model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "reranker_model": "cross-encoder/ms-marco-MiniLM-L6-v2"
+  },
+  "health": {
+    "status": "ok",
+    "busy": false,
+    "indexed_chunks": 518,
+    "load_seconds": 14.2647,
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "generation_model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "reranker_model": "cross-encoder/ms-marco-MiniLM-L6-v2"
+  },
+  "snapshot": {
+    "files": {
+      "app/rag/generator.py": "ce1c5ce543fde50d7083cc104499ee492fea00fca39f09cb2f67fa2fc4b76982",
+      "app/rag/retriever.py": "2542609eab1cf0643f2b1cf5c5b2fa629a33761845cc22a3086a4fffc6c271df",
+      "app/rag/pipeline.py": "60000f08d76c51ea6892b8fd15d2b9713738f984cb385082f3e65d6536c74060",
+      "app/rag/embedder.py": "ccced1c876474a43e6ad88e1ee40d31f42a5067434d0589ab2af4582c3148f9c",
+      "app/rag/vector_store.py": "c65a6476f38ed217f92cff654c2a92abe453e51ef2f21cb871dd4fc3cd751846",
+      "app/main.py": "26793d864dc8873d46992568afc7ce36574a026550e858811ae69cd074d57273",
+      "app/schemas.py": "4966d00d7b3b173a43ddd2ea02afe7c62f9793c0702da8ecef3534f9f0523954",
+      "data/index/index_config.json": "0ed35f5aee4c4d074da71e58b0d610007d106c9c0cd3d8f92397b9963066226d",
+      "data/index/rag_index.faiss": "e80365555f1f558122291fd38a1c8c3aac4097add230bfc4445d7e7a08de8583",
+      "data/index/chunks.json": "e7c4f1872fe606c94242d70a8ab0c16f6703e6a550fe860200b0023f5ef915b2",
+      "evaluate.py": "23d371e9d31d4beb3fcfbad3070a9c9cb02bea37abbfb98c103e4c18648e0dc5",
+      "app/rag/hybrid_retriever.py": "5fa0aea4405ee1abe1cd7e252cfefa2cf56978fb0c4e81329dd7642ec6661b93",
+      "app/rag/evidence_selector.py": "e843ef6a9c95b28f84983c415fd105f4c1b26ead1dca43fe0385512256350efd"
+    },
+    "python": "3.13.2",
+    "packages": {
+      "fastapi": "0.165.0",
+      "pydantic": "2.14.4",
+      "torch": "2.15.0",
+      "transformers": "5.24.1",
+      "sentence-transformers": "6.3.0",
+      "faiss-cpu": "1.16.0",
+      "numpy": "2.5.5"
+    }
+  },
+  "results": [
+    {
+      "id": "Q01",
+      "answerable": true,
+      "question": "What is the temperature of the Sun's photosphere?",
+      "expected_answer": "About 5,500 degrees Celsius (10,000 degrees Fahrenheit).",
+      "expected_source": "Solar_System_Lithograph_Set.pdf",
+      "expected_page": 6,
+      "reference_quote": "The temperature of the photosphere is about 5,500 degrees Celsius (10,000 degrees Fahrenheit).",
+      "client_seconds": 12.4551,
+      "reference_page_retrieved": true,
+      "reference_page_cited": true,
+      "literal_support_ok": true,
+      "api_response": {
+        "question": "What is the temperature of the Sun's photosphere?",
+        "answer": "The temperature of the photosphere is about 5,500 degrees Celsius (10,000 degrees Fahrenheit). [1]",
+        "status": "verified_excerpt",
+        "answer_mode": "extractive",
+        "evidence_verified": true,
+        "citation_format_ok": true,
+        "verification_reason": "quote_found_in_source",
+        "relevance_action": "ranked_excerpt_answerability_accepted",
+        "cited_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "05108700818da6e91349693411393c49f956aa39a60b74db8548bc216b0a79e2",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 6,
+            "chunk_index": 9,
+            "text": "the photosphere are areas with strong magnetic fields that are cooler, and thus darker, than the surrounding\nregion. Sunspot numbers fluctuate every 11 years as part of the\nSun’s magnetic activity cycle. Also connected to this cycle are\nbright solar flares and huge coronal mass ejections that blast off\nof the Sun.\nThe temperature of the photosphere is about 5,500 degrees\nCelsius (10,000 degrees Fahrenheit). Above the photosphere lie",
+            "score": 0.7344334125518799,
+            "rerank_score": 8.804329872131348
+          }
+        ],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "05108700818da6e91349693411393c49f956aa39a60b74db8548bc216b0a79e2",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 6,
+            "chunk_index": 9,
+            "text": "the photosphere are areas with strong magnetic fields that are cooler, and thus darker, than the surrounding\nregion. Sunspot numbers fluctuate every 11 years as part of the\nSun’s magnetic activity cycle. Also connected to this cycle are\nbright solar flares and huge coronal mass ejections that blast off\nof the Sun.\nThe temperature of the photosphere is about 5,500 degrees\nCelsius (10,000 degrees Fahrenheit). Above the photosphere lie",
+            "score": 0.7344334125518799,
+            "rerank_score": 8.804329872131348
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "22528e5c7b8785fb6073cccde53efe0cc032b482001a8dd2a62e7f16207ef335",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 6,
+            "chunk_index": 10,
+            "text": "5,500 degrees\nCelsius (10,000 degrees Fahrenheit). Above the photosphere lie\nthe tenuous chromosphere and the corona (“crown”). Visible light\nfrom these top regions is usually too weak to be seen against the\nbrighter photosphere, but during total solar eclipses, when the\nMoon covers the photosphere, the chromosphere can be seen\nas a red rim around the Sun while the corona forms a beautiful white crown with",
+            "score": 0.7247740030288696,
+            "rerank_score": 5.277896881103516
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "0ffedbed876cbe13f931cb4e76401e0ffab3d31fc33b96445949e9bdb5088539",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 6,
+            "chunk_index": 7,
+            "text": "Energy from the core is carried outward by\nradiation, which bounces around the radiative zone, taking about\n170,000 years to get from the core to the convective zone. The\ntemperature drops below 2 million degrees Celsius (3.5 million\ndegrees Fahrenheit) in the convective zone, where large bubbles\nof hot plasma (a soup of ionized atoms) move upwards.\nThe Sun’s “surface” — the photosphere —",
+            "score": 0.5952672958374023,
+            "rerank_score": 5.05023717880249
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "ed03fdf58fbbd2b5d689db09803517ebb9d740a57471a9d5998b894bcfca9048",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 6,
+            "chunk_index": 11,
+            "text": "be seen\nas a red rim around the Sun while the corona forms a beautiful white crown with plasma streaming outward, forming the\n“points” of the crown.\nAbove the photosphere, temperature increases with altitude,\nreaching as high as 2 million degrees Celsius (3.5 million degrees\nFahrenheit). The source of coronal heating has been a scientific\nmystery for more than 50 years. Likely solutions emerged from\nobservations by the Solar and Heli",
+            "score": 0.6427785158157349,
+            "rerank_score": 3.4223763942718506
+          }
+        ],
+        "retrieval_seconds": 1.6934,
+        "generation_seconds": 10.7246,
+        "total_seconds": 12.4183,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q02",
+      "answerable": true,
+      "question": "Why is the surface of Venus so hot?",
+      "expected_answer": "Its thick atmosphere traps the Sun's heat.",
+      "expected_source": "Solar_System_Lithograph_Set.pdf",
+      "expected_page": 10,
+      "reference_quote": "The thick atmosphere traps the Sun’s heat, resulting in surface temperatures higher than 470 degrees Celsius (880 degrees Fahrenheit).",
+      "client_seconds": 20.4852,
+      "reference_page_retrieved": true,
+      "reference_page_cited": true,
+      "literal_support_ok": true,
+      "api_response": {
+        "question": "Why is the surface of Venus so hot?",
+        "answer": "traps the Sun’s heat, resulting in surface temperatures higher than 470 degrees Celsius (880 degrees Fahrenheit). The few probes that have landed on Venus have not survived longer than 2 hours in the intense heat. [1]",
+        "status": "verified_excerpt",
+        "answer_mode": "extractive",
+        "evidence_verified": true,
+        "citation_format_ok": true,
+        "verification_reason": "quote_found_in_source",
+        "relevance_action": "ranked_excerpt_answerability_accepted",
+        "cited_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "f869a9b229e06156a47c4102fb14d6cf44e933a3636328698132721f08111bf1",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 10,
+            "chunk_index": 6,
+            "text": "traps the Sun’s heat, resulting in surface temperatures higher\nthan 470 degrees Celsius (880 degrees Fahrenheit). The few\nprobes that have landed on Venus have not survived longer than\n2 hours in the intense heat. Sulfur compounds are abundant in\nVenus’ clouds; the corrosive chemistry and dense, moving\n\natmosphere cause significant surface weathering and erosion.\nThe Venusian year (orbital period) is about 225 Earth days",
+            "score": 0.7387335300445557,
+            "rerank_score": 5.460384368896484
+          }
+        ],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "f869a9b229e06156a47c4102fb14d6cf44e933a3636328698132721f08111bf1",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 10,
+            "chunk_index": 6,
+            "text": "traps the Sun’s heat, resulting in surface temperatures higher\nthan 470 degrees Celsius (880 degrees Fahrenheit). The few\nprobes that have landed on Venus have not survived longer than\n2 hours in the intense heat. Sulfur compounds are abundant in\nVenus’ clouds; the corrosive chemistry and dense, moving\n\natmosphere cause significant surface weathering and erosion.\nThe Venusian year (orbital period) is about 225 Earth days",
+            "score": 0.7387335300445557,
+            "rerank_score": 5.460384368896484
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "d62ff4a8ba2eeb938e2a4f2bd6821e59a3b02899b6e23c39c70d1164e8b36e14",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 10,
+            "chunk_index": 1,
+            "text": "Venus and Earth are similar in size, mass, density, composition, and gravity. There, however, the similarities end. Venus\nis covered by a thick, rapidly spinning atmosphere, creating a\nscorched world with temperatures hot enough to melt lead and\nsurface pressure 90 times that of Earth (similar to the bottom\nof a swimming pool 1-1/2 miles deep). Because of its proximity\nto Earth and the way its clouds reflect sunlight, Venus appears\nto",
+            "score": 0.7342681884765625,
+            "rerank_score": 4.980589866638184
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "464cc55cb06560c75ee11c6ddca2a3e164bf9752e2c8d584373acfc76016226a",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 10,
+            "chunk_index": 5,
+            "text": "is December 11, 2117. Observing\nthese transits helps us understand the capabilities and limitations of techniques used to find and characterize planets around\nother stars.\nVenus’ atmosphere consists mainly of carbon dioxide, with\nclouds of sulfuric acid droplets. Only trace amounts of water\nhave been detected in the atmosphere. The thick atmosphere\ntraps the Sun’s heat, resulting in surface temperatures higher\nthan 470 degrees Celsius",
+            "score": 0.6157815456390381,
+            "rerank_score": 3.4105186462402344
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "0c58359b1cd69d47323fd6ac1436696c42cc36fd1c629fd46828583f566491f5",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 10,
+            "chunk_index": 2,
+            "text": "Because of its proximity\nto Earth and the way its clouds reflect sunlight, Venus appears\nto be the brightest planet in the sky. We cannot normally see\nthrough Venus’ thick atmosphere, but NASA’s Magellan mission\nduring the early 1990s used radar to image 98 percent of the\nsurface, and the Galileo spacecraft used infrared mapping to\nview both the surface and mid-level cloud structure as it passed\nby Venus on the way to Jupiter. In 2010, infrared",
+            "score": 0.6302325129508972,
+            "rerank_score": 0.868308424949646
+          }
+        ],
+        "retrieval_seconds": 0.9051,
+        "generation_seconds": 19.5525,
+        "total_seconds": 20.4579,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q03",
+      "answerable": true,
+      "question": "Why do we always see the same face of the Moon from Earth?",
+      "expected_answer": "The Moon rotates on its axis at the same rate that it orbits Earth, in synchronous rotation.",
+      "expected_source": "Solar_System_Lithograph_Set.pdf",
+      "expected_page": 14,
+      "reference_quote": "From Earth, we always see the same face of the Moon because the Moon is spinning on its axis at the same speed that it is going around Earth (that is, it is in synchronous rotation with Earth).",
+      "client_seconds": 11.3708,
+      "reference_page_retrieved": true,
+      "reference_page_cited": true,
+      "literal_support_ok": true,
+      "api_response": {
+        "question": "Why do we always see the same face of the Moon from Earth?",
+        "answer": "From Earth, we always see the same face of the Moon because the Moon is spinning on its axis at the same speed that it is going around Earth (that is, it is in synchronous rotation with Earth). [1]",
+        "status": "verified_excerpt",
+        "answer_mode": "extractive",
+        "evidence_verified": true,
+        "citation_format_ok": true,
+        "verification_reason": "quote_found_in_source",
+        "relevance_action": "ranked_excerpt_answerability_accepted",
+        "cited_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "b9964787db7e8c20f49d0dc540a68e870e81995c6469d95a61f4e1c2318cfd87",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 14,
+            "chunk_index": 2,
+            "text": "over billions of years. From Earth, we always see the same face\nof the Moon because the Moon is spinning on its axis at the\nsame speed that it is going around Earth (that is, it is in synchronous rotation with Earth).\nThe light areas of the Moon are known as the highlands. The\ndark features, called maria (Latin for seas), are impact basins\nthat were filled with lava between 4.2 and 1.2 billion years ago.\nThese light and dark",
+            "score": 0.7519760131835938,
+            "rerank_score": 10.083623886108398
+          }
+        ],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "b9964787db7e8c20f49d0dc540a68e870e81995c6469d95a61f4e1c2318cfd87",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 14,
+            "chunk_index": 2,
+            "text": "over billions of years. From Earth, we always see the same face\nof the Moon because the Moon is spinning on its axis at the\nsame speed that it is going around Earth (that is, it is in synchronous rotation with Earth).\nThe light areas of the Moon are known as the highlands. The\ndark features, called maria (Latin for seas), are impact basins\nthat were filled with lava between 4.2 and 1.2 billion years ago.\nThese light and dark",
+            "score": 0.7519760131835938,
+            "rerank_score": 10.083623886108398
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "75f0f9088f006bdfc85aaba964cf48387618adf2cd1931735bc68ace8d448d7e",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 14,
+            "chunk_index": 1,
+            "text": "The regular daily and monthly rhythms of Earth’s only natural\nsatellite, the Moon, have guided timekeepers for thousands of\nyears. Its influence on Earth’s cycles, notably tides, has been\ncharted by many cultures in many ages. The Moon moderates\nEarth’s wobble on its axis, leading to a relatively stable climate\nover billions of years. From Earth, we always see the same face\nof the Moon because the",
+            "score": 0.551506757736206,
+            "rerank_score": 6.990366458892822
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "50eccb8d24bbf483404ab9394f6d5a3b8da983fe2049868636f7d0b2249ca9a3",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 30,
+            "chunk_index": 12,
+            "text": "gian points of Tethys in its orbit; Helene and Polydeuces occupy the corresponding Lagrangian points of Dione.\n• Sixteen of Saturn’s moons keep the same face toward the\nplanet as they orbit. Called “tidal locking,” this is the same\n\nphenomenon that keeps our Moon always facing toward Earth.\nIn addition to studies of Titan, Cassini continues to gather data\nabout many of the other satellites",
+            "score": 0.5118473768234253,
+            "rerank_score": 4.3585615158081055
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "22bc3820c4f2c1d7fe57b68df0f550c2fbe8fbaccd81c3d7dff1b2f51888f6e2",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 8,
+            "chunk_index": 16,
+            "text": "to 800 deg F)\n\nKnown Moons\n0\n\nRings\n0\nSIGNIFICANT DATES\n1609 — Thomas Harriott and Galileo Galilei observe Mercury\nwith the newly invented telescope.\n\n1631 — Pierre Gassendi uses a telescope to watch from Earth\nas Mercury crosses the face of the Sun.\n\n1965 — Incorrectly believing for centuries that the same side of\nMercury always faces the Sun, astronomers find that the planet",
+            "score": 0.47265398502349854,
+            "rerank_score": 0.6879714727401733
+          }
+        ],
+        "retrieval_seconds": 1.5112,
+        "generation_seconds": 9.8286,
+        "total_seconds": 11.34,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q04",
+      "answerable": true,
+      "question": "What measurements does the MEDA instrument provide?",
+      "expected_answer": "Temperature, wind speed and direction, pressure, relative humidity, and dust size and shape.",
+      "expected_source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+      "expected_page": 2,
+      "reference_quote": "sensors that will provide measurements of temperature, wind speed and direction, pressure, relative humidity, and dust size and shape.",
+      "client_seconds": 10.9413,
+      "reference_page_retrieved": true,
+      "reference_page_cited": true,
+      "literal_support_ok": true,
+      "api_response": {
+        "question": "What measurements does the MEDA instrument provide?",
+        "answer": "• Mars Environmental Dynamics Analyzer (MEDA), a set of sensors that will provide measurements of temperature, wind speed and direction, pressure, relative humidity, and dust size and shape. [1]",
+        "status": "verified_excerpt",
+        "answer_mode": "extractive",
+        "evidence_verified": true,
+        "citation_format_ok": true,
+        "verification_reason": "quote_found_in_source",
+        "relevance_action": "ranked_excerpt_answerability_accepted",
+        "cited_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "153260ab08720cc554c388206bb6d4d29a847512b6843ce93bb24a50b535483a",
+            "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+            "page": 2,
+            "chunk_index": 6,
+            "text": "ic carbon dioxide. If\nsuccessful, MOXIE’s technology could be used by future\nastronauts on Mars to burn rocket fuel for returning\nto Earth. The principal investigator is Michael Hecht,\nMassachusetts Institute of Technology, Cambridge,\nMassachusetts.\n• Mars Environmental Dynamics Analyzer (MEDA), a set of\nsensors that will provide measurements of temperature,\nwind speed and direction, pressure, relative humidity, and\ndust size and shape. The principal investigator",
+            "score": 0.27084317803382874,
+            "rerank_score": 3.2175159454345703
+          }
+        ],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "153260ab08720cc554c388206bb6d4d29a847512b6843ce93bb24a50b535483a",
+            "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+            "page": 2,
+            "chunk_index": 6,
+            "text": "ic carbon dioxide. If\nsuccessful, MOXIE’s technology could be used by future\nastronauts on Mars to burn rocket fuel for returning\nto Earth. The principal investigator is Michael Hecht,\nMassachusetts Institute of Technology, Cambridge,\nMassachusetts.\n• Mars Environmental Dynamics Analyzer (MEDA), a set of\nsensors that will provide measurements of temperature,\nwind speed and direction, pressure, relative humidity, and\ndust size and shape. The principal investigator",
+            "score": 0.27084317803382874,
+            "rerank_score": 3.2175159454345703
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "bed1c71077ed68fd5d9eabfa96aa1410ffd745fcc3f65750015550bc5ae94571",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 2,
+            "chunk_index": 2,
+            "text": "the surface. Surface Dust\nAnalyzer (SUDA) will identify the makeup of dust\nparticles ejected from the surface.\n• Magnetometer and Plasma Instruments: Europa\nClipper Magnetometer (ECM) will work hand-in-hand\nwith the Plasma Instrument for Magnetic Sounding\n(PIMS) to study magnetic fields to confirm the existence of an ocean, measure the ocean’s depth and\nsaltiness, and assess the thickness",
+            "score": 0.3510549068450928,
+            "rerank_score": -4.404097557067871
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "e674912f677092cd610a860b3ffd1a513e43a8a7f456fc80c232d76134e64c8b",
+            "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+            "page": 2,
+            "chunk_index": 9,
+            "text": "Entry, Descent and Landing Instrumentation 2,\nor MEDLI2). A new autonomous navigation system will allow\nthe rover to drive faster in challenging terrain.\nAs with Curiosity, Perseverance’s baseline power system\nis a Multi-Mission Radioisotope Thermoelectric Generator\n(MMRTG) provided by the U.S. Department of Energy. It uses\nthe heat from the natural decay of plutonium-238 to generate\nelectricity",
+            "score": 0.32221484184265137,
+            "rerank_score": -4.658466815948486
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "18eee742c7c66ff6cdb9a4388c12cccb52693c639cb68b92a49d18ea2a0f18d0",
+            "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+            "page": 2,
+            "chunk_index": 4,
+            "text": "Habitable Environments with Raman &\nLuminescence for Organics and Chemicals (SHERLOC), a\nspectrometer that will provide fine-scale imaging and uses\nan ultraviolet (UV) laser to map mineralogy and organic\ncompounds. SHERLOC will be the first UV Raman\nspectrometer to fly to the surface of Mars and will provide\ncomplementary measurements with other instruments in\nthe payload. SHERLOC includes a high-",
+            "score": 0.3165740370750427,
+            "rerank_score": -4.91497278213501
+          }
+        ],
+        "retrieval_seconds": 1.1208,
+        "generation_seconds": 9.7882,
+        "total_seconds": 10.9094,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q05",
+      "answerable": true,
+      "question": "How does Perseverance's MMRTG generate electricity?",
+      "expected_answer": "It uses heat from the natural decay of plutonium-238.",
+      "expected_source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+      "expected_page": 2,
+      "reference_quote": "It uses the heat from the natural decay of plutonium-238 to generate electricity.",
+      "client_seconds": 11.9966,
+      "reference_page_retrieved": true,
+      "reference_page_cited": true,
+      "literal_support_ok": true,
+      "api_response": {
+        "question": "How does Perseverance's MMRTG generate electricity?",
+        "answer": "As with Curiosity, Perseverance’s baseline power system is a Multi-Mission Radioisotope Thermoelectric Generator (MMRTG) provided by the U.S. Department of Energy. It uses the heat from the natural decay of plutonium-238 to generate electricity [1]",
+        "status": "verified_excerpt",
+        "answer_mode": "extractive",
+        "evidence_verified": true,
+        "citation_format_ok": true,
+        "verification_reason": "quote_found_in_source",
+        "relevance_action": "ranked_excerpt_answerability_accepted",
+        "cited_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "e674912f677092cd610a860b3ffd1a513e43a8a7f456fc80c232d76134e64c8b",
+            "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+            "page": 2,
+            "chunk_index": 9,
+            "text": "Entry, Descent and Landing Instrumentation 2,\nor MEDLI2). A new autonomous navigation system will allow\nthe rover to drive faster in challenging terrain.\nAs with Curiosity, Perseverance’s baseline power system\nis a Multi-Mission Radioisotope Thermoelectric Generator\n(MMRTG) provided by the U.S. Department of Energy. It uses\nthe heat from the natural decay of plutonium-238 to generate\nelectricity",
+            "score": 0.45421701669692993,
+            "rerank_score": 6.128398418426514
+          }
+        ],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "e674912f677092cd610a860b3ffd1a513e43a8a7f456fc80c232d76134e64c8b",
+            "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+            "page": 2,
+            "chunk_index": 9,
+            "text": "Entry, Descent and Landing Instrumentation 2,\nor MEDLI2). A new autonomous navigation system will allow\nthe rover to drive faster in challenging terrain.\nAs with Curiosity, Perseverance’s baseline power system\nis a Multi-Mission Radioisotope Thermoelectric Generator\n(MMRTG) provided by the U.S. Department of Energy. It uses\nthe heat from the natural decay of plutonium-238 to generate\nelectricity",
+            "score": 0.45421701669692993,
+            "rerank_score": 6.128398418426514
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "2c3abf7b76bd2446684b4ffed4d5fb850d37cd89abab7f849e4f319725e5f24d",
+            "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+            "page": 2,
+            "chunk_index": 13,
+            "text": "25 kilograms), Perseverance is about 278\npounds (126 kilograms) heavier than Curiosity.",
+            "score": 0.26586276292800903,
+            "rerank_score": -5.953625202178955
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "d14098d5807f8c887ddb1b885eb09c25bef6a598e2dea650ec4e95dbb4758787",
+            "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+            "page": 2,
+            "chunk_index": 8,
+            "text": "ologic structure of the\nsubsurface. The principal investigator is Svein-Erik Hamran,\nUniversity of Oslo.\nTechnology\nPerseverance will also test new technology for future robotic\nand human missions to the Red Planet. That includes\nan autopilot for avoiding hazards called Terrain Relative\nNavigation and a set of sensors for gathering data during the\nlanding (Mars Entry, Descent and Landing Instrumentation 2,\nor MEDLI2). A new autonom",
+            "score": 0.24387261271476746,
+            "rerank_score": -8.097673416137695
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "3b5570a41d9a7fc7c5d171f556b8299794c3d5654b855852528d35a3eaf00afb",
+            "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+            "page": 2,
+            "chunk_index": 12,
+            "text": "Curiosity rover and include many\nheritage components. The car-sized Perseverance rover has\nroughly the same dimensions as Curiosity: it’s about 10 feet\nlong (not including the arm), 9 feet wide, and 7 feet tall (about\n3 meters long, 2.7 meters wide, and 2.2 meters tall). But at\n2,260 pounds (1,025 kilograms), Perseverance is about 278\npounds (126 kilograms) heavier than",
+            "score": 0.25620436668395996,
+            "rerank_score": -8.324682235717773
+          }
+        ],
+        "retrieval_seconds": 1.3072,
+        "generation_seconds": 10.6584,
+        "total_seconds": 11.9658,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q06",
+      "answerable": true,
+      "question": "According to the Mars 2020 fact sheet, which crater is the landing site?",
+      "expected_answer": "Jezero Crater, at an ancient river delta in a former lake.",
+      "expected_source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+      "expected_page": 1,
+      "reference_quote": "at the site of an ancient river delta in a lake that once filled Jezero Crater",
+      "client_seconds": 23.8181,
+      "reference_page_retrieved": true,
+      "reference_page_cited": true,
+      "literal_support_ok": true,
+      "api_response": {
+        "question": "According to the Mars 2020 fact sheet, which crater is the landing site?",
+        "answer": "• Land on Mars on February 18, 2021 at the site of an ancient river delta in a lake that once filled Jezero Crater [1]",
+        "status": "verified_excerpt",
+        "answer_mode": "extractive",
+        "evidence_verified": true,
+        "citation_format_ok": true,
+        "verification_reason": "quote_found_in_source",
+        "relevance_action": "ranked_excerpt_answerability_accepted",
+        "cited_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "e007f38d5874ef58969b7212b6fc70286dee8905382c05bf3ee4e1dc03b734ac",
+            "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+            "page": 1,
+            "chunk_index": 3,
+            "text": "July 30, 2020 from Cape Canaveral Air\nForce Station, Florida\n• Land on Mars on February 18, 2021 at the site\nof an ancient river delta in a lake that once filled\nJezero Crater\n• Spend at least one Mars year (two Earth years)\nexploring the landing site region\nKey Hardware\nPerseverance will carry seven instruments to\nconduct unprecedented science and test new\ntechnology on the Red Planet. They are:\n• Mastcam-Z, an advanced",
+            "score": 0.7114183902740479,
+            "rerank_score": 4.603555679321289
+          }
+        ],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "e007f38d5874ef58969b7212b6fc70286dee8905382c05bf3ee4e1dc03b734ac",
+            "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+            "page": 1,
+            "chunk_index": 3,
+            "text": "July 30, 2020 from Cape Canaveral Air\nForce Station, Florida\n• Land on Mars on February 18, 2021 at the site\nof an ancient river delta in a lake that once filled\nJezero Crater\n• Spend at least one Mars year (two Earth years)\nexploring the landing site region\nKey Hardware\nPerseverance will carry seven instruments to\nconduct unprecedented science and test new\ntechnology on the Red Planet. They are:\n• Mastcam-Z, an advanced",
+            "score": 0.7114183902740479,
+            "rerank_score": 4.603555679321289
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "fcc2b3491edf47f061a1cf1969ebb66e83c1204abe644ac5875803e376b86803",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 16,
+            "chunk_index": 12,
+            "text": "ation (snow falling from\nclouds), as confirmed by Mars Reconnaissance Orbiter. Soil\nchemistry experiments led scientists to believe that the Phoenix\nlanding site had a wetter and warmer climate in the recent past\n(the last few million years). NASA’s Mars Science Laboratory\nmission, with its large rover Curiosity, is examining martian rocks\nand soil at Gale Crater, looking for minerals that formed",
+            "score": 0.7093704342842102,
+            "rerank_score": -0.5931880474090576
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "5fbcd756dbc3a27ec3fcf5e203413d4a485332db3fb4de3b4007c150d91b8804",
+            "source": "44738_Mars2020_Fact_Sheet_REV_BI.pdf",
+            "page": 1,
+            "chunk_index": 1,
+            "text": "Mars 2020/Perseverance\nNational Aeronautics and Space Administration\nOver the past two decades, missions flown\nby NASA’s Mars Exploration Program have\nshown us that Mars was once very different\nfrom the cold, dry planet it is today. Evidence\ndiscovered by landed and orbital missions point\nto wet conditions billions of years ago. These\nenvironments lasted long enough to potentially\nsupport the development of microbial life.\nThe Mars 2020/Perseverance",
+            "score": 0.616812527179718,
+            "rerank_score": -1.903900384902954
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "505ebf609a5562a0f49fa9dcff648e63c83e9c31945c449d621b9a86dfe2651b",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 16,
+            "chunk_index": 13,
+            "text": "ining martian rocks\nand soil at Gale Crater, looking for minerals that formed in water,\nsigns of subsurface water, and carbon-based molecules called\norganics, the chemical building blocks of life. That information\nwill reveal more about the present and past habitability of Mars,\nas well as whether humans could survive on Mars some day.\nFAST FACTS\nNamesake\n\nRoman god of war\n\nMean Distance from the Sun\n227.94 million km",
+            "score": 0.6505507230758667,
+            "rerank_score": -3.221597671508789
+          }
+        ],
+        "retrieval_seconds": 1.1629,
+        "generation_seconds": 22.6276,
+        "total_seconds": 23.791,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q07",
+      "answerable": true,
+      "question": "How many visible-light cameras does the Europa Imaging System have?",
+      "expected_answer": "Two visible-light cameras.",
+      "expected_source": "Europa-Clipper-Fact-Sheet.pdf",
+      "expected_page": 1,
+      "reference_quote": "has two visible-light cameras that will map Europa at a range of resolutions.",
+      "client_seconds": 10.1763,
+      "reference_page_retrieved": true,
+      "reference_page_cited": true,
+      "literal_support_ok": true,
+      "api_response": {
+        "question": "How many visible-light cameras does the Europa Imaging System have?",
+        "answer": "• Imagers: Europa Imaging System (EIS) has two visible-light cameras that will map Europa at a range of resolutions. [1]",
+        "status": "verified_excerpt",
+        "answer_mode": "extractive",
+        "evidence_verified": true,
+        "citation_format_ok": true,
+        "verification_reason": "quote_found_in_source",
+        "relevance_action": "ranked_excerpt_answerability_accepted",
+        "cited_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "9d0950a70dfad23ffca30a68352ac9f122557f3bdfa66baebb8c6334859e21b4",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 1,
+            "chunk_index": 6,
+            "text": "Key Hardware\nEuropa Clipper has a suite of nine instruments dedicated to collecting science and a\ngravity experiment that uses the telecommunications system.\n• Imagers: Europa Imaging System (EIS)\nhas two visible-light cameras that will\nmap Europa at a range of resolutions.\n\nEuropa Thermal Emission Imaging\n\nSystem (E-THEMIS) uses an infrared\ncamera to map temperature and\n\nroughness. Mapping Imaging Spectrometer for Europa (MIS",
+            "score": 0.61582350730896,
+            "rerank_score": 6.870174407958984
+          }
+        ],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "9d0950a70dfad23ffca30a68352ac9f122557f3bdfa66baebb8c6334859e21b4",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 1,
+            "chunk_index": 6,
+            "text": "Key Hardware\nEuropa Clipper has a suite of nine instruments dedicated to collecting science and a\ngravity experiment that uses the telecommunications system.\n• Imagers: Europa Imaging System (EIS)\nhas two visible-light cameras that will\nmap Europa at a range of resolutions.\n\nEuropa Thermal Emission Imaging\n\nSystem (E-THEMIS) uses an infrared\ncamera to map temperature and\n\nroughness. Mapping Imaging Spectrometer for Europa (MIS",
+            "score": 0.61582350730896,
+            "rerank_score": 6.870174407958984
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "aa7751ed4062c31b79afa896566ae42371f62d75a45c8d8e650130087612fcee",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 1,
+            "chunk_index": 7,
+            "text": "red\ncamera to map temperature and\n\nroughness. Mapping Imaging Spectrometer for Europa (MISE) will map surface\ncomposition by using infrared light. Europa Ultraviolet Spectrograph (Europa-UVS)\n\nwill collect ultraviolet light to search for\nplumes and analyze the composition of\nEuropa’s surface and thin atmosphere.\nThis artist’s concept depicts NASA’s Europa Clipper flying by the\nicy moon Europa as the spacecraft orbits Jupiter",
+            "score": 0.5946215391159058,
+            "rerank_score": -0.3333986699581146
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "18e328ff60bf030e905f90e8d07db43d4f3c807d2afe8e8588583076fbb353c7",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 2,
+            "chunk_index": 6,
+            "text": "least 700 watts throughout the prime mission, equivalent\nto powering seven 100-watt light bulbs.\nEuropa Clipper is built to protect itself from Jupiter’s\nharsh radiation environment. The surface of the spacecraft will be exposed to the equivalent of about a few million chest X-rays during each flyby of Europa. A\n\nspecial aluminum-zinc alloy vault protects its sensitive\nelectronics, and the design of the spacecraft’s Europa flyby",
+            "score": 0.579525351524353,
+            "rerank_score": -1.9206963777542114
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "eb399f3848da07c23e637322c4967b2b556cc52cd9a4113bbde47b56328da24c",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 2,
+            "chunk_index": 7,
+            "text": "ult protects its sensitive\nelectronics, and the design of the spacecraft’s Europa flybys minimizes the amount of time in high-radiation zones.\nThe vault also features a unique tantalum metal plate\nengraved with messages in the form of artwork and\npoetry, along with a microchip stenciled with more\nthan 2.6 million names contributed by the public to ride\nalong to Europa.\nMission Partners\nManaged by Caltech in Pasadena, California",
+            "score": 0.5019710659980774,
+            "rerank_score": -4.176680564880371
+          }
+        ],
+        "retrieval_seconds": 1.1744,
+        "generation_seconds": 8.9756,
+        "total_seconds": 10.1502,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q08",
+      "answerable": true,
+      "question": "What does the REASON radar study on Europa?",
+      "expected_answer": "The structure and thickness of Europa's ice.",
+      "expected_source": "Europa-Clipper-Fact-Sheet.pdf",
+      "expected_page": 2,
+      "reference_quote": "to study Europa’s ice structure and thickness.",
+      "client_seconds": 11.4069,
+      "reference_page_retrieved": true,
+      "reference_page_cited": true,
+      "literal_support_ok": true,
+      "api_response": {
+        "question": "What does the REASON radar study on Europa?",
+        "answer": "• Ice-penetrating radar: Radar for Europa Assessment and Sounding: Ocean to Near-surface (REASON) to study Europa’s ice structure and thickness. [1]",
+        "status": "verified_excerpt",
+        "answer_mode": "extractive",
+        "evidence_verified": true,
+        "citation_format_ok": true,
+        "verification_reason": "quote_found_in_source",
+        "relevance_action": "ranked_excerpt_answerability_accepted",
+        "cited_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "e950d6045f6c31979ea94dfd948b280612c7c6745886a7cfdfb2b95d5be7e660",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 2,
+            "chunk_index": 1,
+            "text": "• Ice-penetrating radar: Radar for Europa Assessment and Sounding: Ocean to Near-surface (REASON) to study Europa’s ice structure and thickness.\n• Gas and Dust measurements: Mass Spectrometer for Planetary Exploration/Europa (MASPEX) will\nanalyze gases in the atmosphere and in possible\nplumes spraying from the surface. Surface Dust\nAnalyzer (SUDA) will identify the makeup of dust",
+            "score": 0.7123932838439941,
+            "rerank_score": 6.8240861892700195
+          }
+        ],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "e950d6045f6c31979ea94dfd948b280612c7c6745886a7cfdfb2b95d5be7e660",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 2,
+            "chunk_index": 1,
+            "text": "• Ice-penetrating radar: Radar for Europa Assessment and Sounding: Ocean to Near-surface (REASON) to study Europa’s ice structure and thickness.\n• Gas and Dust measurements: Mass Spectrometer for Planetary Exploration/Europa (MASPEX) will\nanalyze gases in the atmosphere and in possible\nplumes spraying from the surface. Surface Dust\nAnalyzer (SUDA) will identify the makeup of dust",
+            "score": 0.7123932838439941,
+            "rerank_score": 6.8240861892700195
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "aa7751ed4062c31b79afa896566ae42371f62d75a45c8d8e650130087612fcee",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 1,
+            "chunk_index": 7,
+            "text": "red\ncamera to map temperature and\n\nroughness. Mapping Imaging Spectrometer for Europa (MISE) will map surface\ncomposition by using infrared light. Europa Ultraviolet Spectrograph (Europa-UVS)\n\nwill collect ultraviolet light to search for\nplumes and analyze the composition of\nEuropa’s surface and thin atmosphere.\nThis artist’s concept depicts NASA’s Europa Clipper flying by the\nicy moon Europa as the spacecraft orbits Jupiter",
+            "score": 0.6104820966720581,
+            "rerank_score": -2.2608304023742676
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "1f93c68c73c137942f9c4f03ce2ef2755380fe36bd16ef725f1b42a43094b56f",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 26,
+            "chunk_index": 12,
+            "text": "place so far from the Sun is\nthought to come from inside Europa, resulting primarily from the\nsame tidal tug-of-war that drives Io’s volcanoes. The possibility\nof life existing on Europa in a subsurface ocean is so compelling\nthat planetary scientists set among their highest priorities plans\nto send another spacecraft to study this intriguing moon.\nFAST FACTS\nSatellite\nMean Distance from Jupiter\n\nIo\n422,000 km (262,",
+            "score": 0.5924307703971863,
+            "rerank_score": -2.546309471130371
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "2d3ec386d209e8bf6177e6e712480f9a50c201f35a9ef197f2b995395f06b630",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 2,
+            "chunk_index": 3,
+            "text": "ocean, measure the ocean’s depth and\nsaltiness, and assess the thickness of the ice shell.\n• Gravity science experiment: By analyzing the radio\nsignals sent back and forth through space via the\nspacecraft’s telecommunications system, scientists\nwill study how changes in Europa’s gravity can\n\nreveal the moon’s internal structure.\nEuropa Clipper Spacecraft\nEuropa Clipper is the largest spacecraft NASA has ever\ndeveloped for",
+            "score": 0.5825012922286987,
+            "rerank_score": -2.979238510131836
+          }
+        ],
+        "retrieval_seconds": 1.0852,
+        "generation_seconds": 10.2962,
+        "total_seconds": 11.3817,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q09",
+      "answerable": true,
+      "question": "Why does Europa Clipper need enormous solar arrays?",
+      "expected_answer": "Jupiter is far from the Sun, so the arrays must convert faint sunlight into electricity to power the spacecraft.",
+      "expected_source": "Europa-Clipper-Fact-Sheet.pdf",
+      "expected_page": 2,
+      "reference_quote": "Because Jupiter is so far from the Sun, Europa Clipper needs enormous solar arrays to convert the faint sunlight into electricity",
+      "client_seconds": 11.7557,
+      "reference_page_retrieved": true,
+      "reference_page_cited": true,
+      "literal_support_ok": true,
+      "api_response": {
+        "question": "Why does Europa Clipper need enormous solar arrays?",
+        "answer": "Because Jupiter is so far from the Sun, Europa Clipper needs enormous solar arrays to convert the faint sunlight into electricity, providing power for the spacecraft’s computers, heaters, science instruments, and other subsystems. [1]",
+        "status": "verified_excerpt",
+        "answer_mode": "extractive",
+        "evidence_verified": true,
+        "citation_format_ok": true,
+        "verification_reason": "quote_found_in_source",
+        "relevance_action": "ranked_excerpt_answerability_accepted",
+        "cited_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "18d266ba5bcd23aeebed1e5a3af9a158dcc59e906f193bb2718eaf8b04edfa1d",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 2,
+            "chunk_index": 5,
+            "text": "es over 100 feet (30.5 meters) wide, a\nlittle longer than a basketball court.\nBecause Jupiter is so far from the Sun, Europa Clipper\nneeds enormous solar arrays to convert the faint\n\nsunlight into electricity, providing power for the\n\nspacecraft’s computers, heaters, science instruments,\nand other subsystems. The solar arrays will provide at\nleast 700 watts throughout the prime mission, equivalent\nto powering seven 100-watt light bulbs",
+            "score": 0.7972785234451294,
+            "rerank_score": 9.480653762817383
+          }
+        ],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "18d266ba5bcd23aeebed1e5a3af9a158dcc59e906f193bb2718eaf8b04edfa1d",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 2,
+            "chunk_index": 5,
+            "text": "es over 100 feet (30.5 meters) wide, a\nlittle longer than a basketball court.\nBecause Jupiter is so far from the Sun, Europa Clipper\nneeds enormous solar arrays to convert the faint\n\nsunlight into electricity, providing power for the\n\nspacecraft’s computers, heaters, science instruments,\nand other subsystems. The solar arrays will provide at\nleast 700 watts throughout the prime mission, equivalent\nto powering seven 100-watt light bulbs",
+            "score": 0.7972785234451294,
+            "rerank_score": 9.480653762817383
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "18e328ff60bf030e905f90e8d07db43d4f3c807d2afe8e8588583076fbb353c7",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 2,
+            "chunk_index": 6,
+            "text": "least 700 watts throughout the prime mission, equivalent\nto powering seven 100-watt light bulbs.\nEuropa Clipper is built to protect itself from Jupiter’s\nharsh radiation environment. The surface of the spacecraft will be exposed to the equivalent of about a few million chest X-rays during each flyby of Europa. A\n\nspecial aluminum-zinc alloy vault protects its sensitive\nelectronics, and the design of the spacecraft’s Europa flyby",
+            "score": 0.6560539603233337,
+            "rerank_score": 2.3036186695098877
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "7905394af09f6392e4cd9e28c20b52630c31619877718cd24f66e322a6e2cd9a",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 2,
+            "chunk_index": 4,
+            "text": "structure.\nEuropa Clipper Spacecraft\nEuropa Clipper is the largest spacecraft NASA has ever\ndeveloped for a planetary mission. The main spacecraft\nbody is about 10 feet (3 meters) wide, 15.5 feet (4.7\n\nmeters) tall, and 13 feet (4 meters) deep — about the\nsize of a small box truck. When fully deployed, Europa\nClipper stretches over 100 feet (30.5 meters) wide, a\nlittle longer than a basketball court.",
+            "score": 0.6783460378646851,
+            "rerank_score": 0.5698575377464294
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "7a4de2e2beb1d9a807532b678cfe1e68ae8b50ce87dac697948a79a9699c86bc",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 1,
+            "chunk_index": 1,
+            "text": "Europa Clipper\nExploring Jupiter’s Ocean World\nEuropa, an icy moon that orbits Jupiter, is\nconsidered one of the most promising places\nin our solar system to find an environment\nsuitable for life beyond Earth. There is strong\nevidence of an ocean beneath the moon’s\nthick icy crust, potentially with twice as much\nliquid water as all of Earth’s oceans\n\ncombined. Everywhere on Earth that there’s\nwater, there’s life,",
+            "score": 0.5061080455780029,
+            "rerank_score": -0.159133642911911
+          }
+        ],
+        "retrieval_seconds": 1.1619,
+        "generation_seconds": 10.55,
+        "total_seconds": 11.7122,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q10",
+      "answerable": true,
+      "question": "Which four Pluto moons did the New Horizons team discover using Hubble images?",
+      "expected_answer": "Nix, Hydra, Styx, and Kerberos.",
+      "expected_source": "nh-fact-sheet-2015_1.pdf",
+      "expected_page": 1,
+      "reference_quote": "Nix, Hydra, Styx and Kerberos.",
+      "client_seconds": 15.0595,
+      "reference_page_retrieved": true,
+      "reference_page_cited": true,
+      "literal_support_ok": true,
+      "api_response": {
+        "question": "Which four Pluto moons did the New Horizons team discover using Hubble images?",
+        "answer": "Using Hubble Space Telescope images, New Horizons team members have discovered four previously unknown moons of Pluto: Nix, Hydra, Styx and Kerberos. [1]",
+        "status": "verified_excerpt",
+        "answer_mode": "extractive",
+        "evidence_verified": true,
+        "citation_format_ok": true,
+        "verification_reason": "quote_found_in_source",
+        "relevance_action": "ranked_excerpt_answerability_accepted",
+        "cited_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "079b7acdca1edd9571a487506875fb511483860dbc3f542e2ac70a9ce53d9cbf",
+            "source": "nh-fact-sheet-2015_1.pdf",
+            "page": 1,
+            "chunk_index": 6,
+            "text": "s but, unlike the terrestrial planets, a significant\nportion of their mass is icy material.\nUsing Hubble Space Telescope images, New Horizons team members have discovered four previously\nunknown moons of Pluto: Nix, Hydra, Styx and\nKerberos.\nA close-up look at these worlds from a spacecraft\npromises to tell an incredible story about the origins\nand outskirts of our solar system. New Horizons also",
+            "score": 0.7934219241142273,
+            "rerank_score": 10.092643737792969
+          }
+        ],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "079b7acdca1edd9571a487506875fb511483860dbc3f542e2ac70a9ce53d9cbf",
+            "source": "nh-fact-sheet-2015_1.pdf",
+            "page": 1,
+            "chunk_index": 6,
+            "text": "s but, unlike the terrestrial planets, a significant\nportion of their mass is icy material.\nUsing Hubble Space Telescope images, New Horizons team members have discovered four previously\nunknown moons of Pluto: Nix, Hydra, Styx and\nKerberos.\nA close-up look at these worlds from a spacecraft\npromises to tell an incredible story about the origins\nand outskirts of our solar system. New Horizons also",
+            "score": 0.7934219241142273,
+            "rerank_score": 10.092643737792969
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "66231653df56018f90155a6a7c9f0dcf5d4667b6c2bcb24d7f6b7ecbf8a7fe50",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 36,
+            "chunk_index": 20,
+            "text": "mission launches to explore Pluto\nand the Kuiper Belt region.\n\n2011–2012 — Three more small moons are found, bringing the\ntotal of known moons to five.\nABOUT THE IMAGES\nPluto, Charon\n(just below and to the\nright of Pluto), and the\ntiny moons Nix and\nHydra were imaged\nby the Hubble Space\nTelescope.\n1\n3\n4\n1\n2\n3\n4\n2\nAstronomers investigating a changing bulge in Pluto",
+            "score": 0.7043958902359009,
+            "rerank_score": 5.987427711486816
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "e62d4441dc3fb4aa222391649d4dc090b904bd16594ab7e562ca3e4b4c2511f7",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 36,
+            "chunk_index": 19,
+            "text": "s orbit for 20 years.\n\n1978 — American astronomers James Christy and Robert Harrington discover Pluto’s unusually large moon, Charon.\n\n1988 — Astronomers discover that Pluto has an atmosphere.\n\n2005 — Scientists using the Hubble Space Telescope announce\nthe discovery of two additional moons of Pluto.\n\n2006 — NASA’s New Horizons mission launches to explore Pluto\nand the Kuiper Belt region.\n\n2011–2012 — Three",
+            "score": 0.644880473613739,
+            "rerank_score": 5.963327884674072
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "ea511b26f56d44b4b7f56753b59e2f0f5f1bb3d516f54072fd81b238593cf48b",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 36,
+            "chunk_index": 21,
+            "text": "1\n3\n4\n1\n2\n3\n4\n2\nAstronomers investigating a changing bulge in Pluto images\neventually determined that Pluto had a companion — Charon, a\nlarge moon nearly half Pluto’s size.\nThe Hubble Space Telescope resolved Pluto and Charon as\nseparate discs in the 1990s, enabling better measurements of\nboth bodies.\nSurface maps of Pluto created from Hubble Space Telescope images reveal a complex-looking world",
+            "score": 0.7109134197235107,
+            "rerank_score": 4.442784309387207
+          }
+        ],
+        "retrieval_seconds": 3.425,
+        "generation_seconds": 11.5925,
+        "total_seconds": 15.0178,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q11",
+      "answerable": true,
+      "question": "What does the LORRI instrument on New Horizons do?",
+      "expected_answer": "It is a telescopic camera that collects encounter data at long distances, maps Pluto's far side, and provides high-resolution geologic data.",
+      "expected_source": "nh-fact-sheet-2015_1.pdf",
+      "expected_page": 2,
+      "reference_quote": "Telescopic camera; obtains encounter data at long distances, maps Pluto’s far side and provides high resolution geologic data.",
+      "client_seconds": 10.3477,
+      "reference_page_retrieved": true,
+      "reference_page_cited": true,
+      "literal_support_ok": true,
+      "api_response": {
+        "question": "What does the LORRI instrument on New Horizons do?",
+        "answer": "• LORRI (Long Range Reconnaissance Imager): Telescopic camera; obtains encounter data at long distances, maps Pluto’s far side and provides high resolution geologic data. [2]",
+        "status": "verified_excerpt",
+        "answer_mode": "extractive",
+        "evidence_verified": true,
+        "citation_format_ok": true,
+        "verification_reason": "quote_found_in_source",
+        "relevance_action": "ranked_excerpt_answerability_accepted",
+        "cited_sources": [
+          {
+            "source_id": 2,
+            "chunk_id": "e594163cf3dae73a73c8d6202d32c3b35507e4e90ee9d7d3051d7139472e47a2",
+            "source": "nh-fact-sheet-2015_1.pdf",
+            "page": 2,
+            "chunk_index": 4,
+            "text": "for atmospheres around Charon and Kuiper Belt Objects (KBOs).\n•\nREX (Radio Science EXperiment): Measures atmospheric\ncomposition and temperature; passive radiometer.\n•\nLORRI (Long Range Reconnaissance Imager): Telescopic\ncamera; obtains encounter data at long distances, maps\nPluto’s far side and provides high resolution geologic data.\n•\nSWAP (Solar Wind Around Pluto):",
+            "score": 0.3969338536262512,
+            "rerank_score": 1.1834397315979004
+          }
+        ],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "a264c4769d6f5a3ee89c99dd7ea271a73a92b0032110e371f882596252de37ad",
+            "source": "nh-fact-sheet-2015_1.pdf",
+            "page": 2,
+            "chunk_index": 6,
+            "text": "the composition and density of plasma (ions) escaping from\nPluto’s atmosphere.\n•\nVBSDC (Venetia Burney Student Dust Counter): Built and\noperated by students at University of Colorado; measures\nthe space dust peppering New Horizons during its voyage\nacross the solar system.\nPEPSSI\nSWAP\nLORRI\nVBSDC\n(Under spacecraft;\nnot visible)\nAlice\nRalph\nREX\nJoin the Adventure\nNew Horizons on the Web\nhttp",
+            "score": 0.424558162689209,
+            "rerank_score": 1.579094409942627
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "e594163cf3dae73a73c8d6202d32c3b35507e4e90ee9d7d3051d7139472e47a2",
+            "source": "nh-fact-sheet-2015_1.pdf",
+            "page": 2,
+            "chunk_index": 4,
+            "text": "for atmospheres around Charon and Kuiper Belt Objects (KBOs).\n•\nREX (Radio Science EXperiment): Measures atmospheric\ncomposition and temperature; passive radiometer.\n•\nLORRI (Long Range Reconnaissance Imager): Telescopic\ncamera; obtains encounter data at long distances, maps\nPluto’s far side and provides high resolution geologic data.\n•\nSWAP (Solar Wind Around Pluto):",
+            "score": 0.3969338536262512,
+            "rerank_score": 1.1834397315979004
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "a7643c8c075118933fc5efa6ed389e8c5bc564be676de8de7781a4478937bd86",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 36,
+            "chunk_index": 11,
+            "text": "named Styx).\nThe space telescope is being used to scour the Pluto system\nto uncover potential orbital debris hazards to the New Horizons\nspacecraft, which will be traveling at about 48,280 kilometers\nper hour (30,000 miles per hour). The New Horizons team may\nbe able to plan observations of these newly discovered moons.\nBy July 2013, the spacecraft was halfway to Pluto — beyond the\norbit of Uranus and head",
+            "score": 0.4697588086128235,
+            "rerank_score": -3.0179929733276367
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "d3c67829efa8a848ceeaa959670e475631df9982305fb5098eb1f7e0311407db",
+            "source": "nh-fact-sheet-2015_1.pdf",
+            "page": 1,
+            "chunk_index": 1,
+            "text": "National Aeronautics and Space Administration\nThe First Mission to the Pluto System and the Kuiper Belt\nNew Horizons\n\nVoyage to Unexplored Pluto and a\nNew Realm\nThe New Horizons mission will help us understand\nworlds at the edge of our solar system by making\nthe first reconnaissance of the Pluto system and by\nventuring deeper into the distant, mysterious Kuiper\nBelt – a relic of solar system formation.\nThe Journey\nNew Horizons launched on Jan.",
+            "score": 0.45173245668411255,
+            "rerank_score": -4.169713020324707
+          }
+        ],
+        "retrieval_seconds": 1.3257,
+        "generation_seconds": 8.9983,
+        "total_seconds": 10.3241,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q12",
+      "answerable": true,
+      "question": "Who built and operates the Venetia Burney Student Dust Counter?",
+      "expected_answer": "Students at the University of Colorado.",
+      "expected_source": "nh-fact-sheet-2015_1.pdf",
+      "expected_page": 2,
+      "reference_quote": "Built and operated by students at University of Colorado",
+      "client_seconds": 10.5655,
+      "reference_page_retrieved": true,
+      "reference_page_cited": true,
+      "literal_support_ok": true,
+      "api_response": {
+        "question": "Who built and operates the Venetia Burney Student Dust Counter?",
+        "answer": "• VBSDC (Venetia Burney Student Dust Counter): Built and operated by students at University of Colorado; measures the space dust peppering New Horizons during its voyage across the solar system. [1]",
+        "status": "verified_excerpt",
+        "answer_mode": "extractive",
+        "evidence_verified": true,
+        "citation_format_ok": true,
+        "verification_reason": "quote_found_in_source",
+        "relevance_action": "ranked_excerpt_answerability_accepted",
+        "cited_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "a264c4769d6f5a3ee89c99dd7ea271a73a92b0032110e371f882596252de37ad",
+            "source": "nh-fact-sheet-2015_1.pdf",
+            "page": 2,
+            "chunk_index": 6,
+            "text": "the composition and density of plasma (ions) escaping from\nPluto’s atmosphere.\n•\nVBSDC (Venetia Burney Student Dust Counter): Built and\noperated by students at University of Colorado; measures\nthe space dust peppering New Horizons during its voyage\nacross the solar system.\nPEPSSI\nSWAP\nLORRI\nVBSDC\n(Under spacecraft;\nnot visible)\nAlice\nRalph\nREX\nJoin the Adventure\nNew Horizons on the Web\nhttp",
+            "score": 0.45089343190193176,
+            "rerank_score": 8.458759307861328
+          }
+        ],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "a264c4769d6f5a3ee89c99dd7ea271a73a92b0032110e371f882596252de37ad",
+            "source": "nh-fact-sheet-2015_1.pdf",
+            "page": 2,
+            "chunk_index": 6,
+            "text": "the composition and density of plasma (ions) escaping from\nPluto’s atmosphere.\n•\nVBSDC (Venetia Burney Student Dust Counter): Built and\noperated by students at University of Colorado; measures\nthe space dust peppering New Horizons during its voyage\nacross the solar system.\nPEPSSI\nSWAP\nLORRI\nVBSDC\n(Under spacecraft;\nnot visible)\nAlice\nRalph\nREX\nJoin the Adventure\nNew Horizons on the Web\nhttp",
+            "score": 0.45089343190193176,
+            "rerank_score": 8.458759307861328
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "6e19ac35034faa09822987c8666c857cf627ece70560455b005355ede689ec5a",
+            "source": "nh-fact-sheet-2015_1.pdf",
+            "page": 1,
+            "chunk_index": 9,
+            "text": "built and operates the spacecraft. SwRI\nis responsible for science payload operations, and\ndata reduction and archiving, and participates in\nthe science team. The mission team also includes\nKinetX, Inc. (navigation team), Ball Aerospace Corporation, the Boeing Company, NASA Goddard Space\nFlight Center, NASA Jet Propulsion Laboratory, Stanford University, Lockheed Martin Corporation, University of Colorado, the U.S. Department of Energy and",
+            "score": 0.31755390763282776,
+            "rerank_score": -8.352794647216797
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "55aa87585ee299045d105d99d0aff95966b0a4b0ea4b50d68d5ce179dc78a4cf",
+            "source": "nh-fact-sheet-2015_1.pdf",
+            "page": 1,
+            "chunk_index": 8,
+            "text": "If New Horizons is successful, it will allow the\nU.S. to complete the initial reconnaissance of the\nsolar system.\nA Team Approach\nPrincipal Investigator Dr. Alan Stern, of Southwest\nResearch Institute (SwRI), leads the mission team.\nThe Johns Hopkins University Applied Physics Laboratory (APL) manages the mission for NASA, and\ndesigned, built and operates the spacecraft. SwRI\nis responsible for science payload operations,",
+            "score": 0.24418509006500244,
+            "rerank_score": -10.668713569641113
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "1dbb33ab86afe6ebb9b66a1e62bfff1f8b626a8e0522ee3d564e21850939175f",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 2,
+            "chunk_index": 9,
+            "text": "craft body in collaboration with JPL and NASA’s Goddard Space Flight Center in Greenbelt, Maryland; NASA’s Marshall Space\nFlight Center in Huntsville, Alabama; and NASA’s\nLangley Research Center in Hampton, Virginia. The\ninstruments were designed and built by JPL, APL, Arizona State University, and the University of Colorado\nat Boulder. The Planetary Missions Program Office at\nNASA’s Marshall Space Flight Center in Huntsville, Alabama,",
+            "score": 0.335438072681427,
+            "rerank_score": -10.778721809387207
+          }
+        ],
+        "retrieval_seconds": 1.2319,
+        "generation_seconds": 9.3114,
+        "total_seconds": 10.5435,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q13",
+      "answerable": false,
+      "question": "What is the capital of Canada?",
+      "expected_answer": "The supplied documents do not provide the answer.",
+      "expected_source": null,
+      "expected_page": null,
+      "reference_quote": null,
+      "client_seconds": 1.7995,
+      "reference_page_retrieved": null,
+      "reference_page_cited": null,
+      "literal_support_ok": null,
+      "api_response": {
+        "question": "What is the capital of Canada?",
+        "answer": "The retrieved passages do not contain enough information to answer this question.",
+        "status": "abstained",
+        "answer_mode": "extractive",
+        "evidence_verified": false,
+        "citation_format_ok": true,
+        "verification_reason": "no_relevant_candidate",
+        "relevance_action": "relevance_gate_abstained",
+        "cited_sources": [],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "9a9fe9352e5f97c74ff613fce698b6a46cc54db53e2d35e83d82b7e4a14475f3",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 6,
+            "chunk_index": 1,
+            "text": "Our solar system’s central star, the Sun, has inspired mythological stories in cultures around the world, including those of the\nancient Egyptians, the Aztecs of México, Native American tribes\nof North America and Canada, the Chinese, and many others.\nA number of ancient cultures built stone structures or modified\nnatural rock formations to mark the motions of the Sun and\nMoon — they charted the seasons, created calendars, and",
+            "score": 0.16131365299224854,
+            "rerank_score": -10.537229537963867
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "8d86b0a54099be93b92cf638769162333f4e982c61c6bdaba132acb23a70ff45",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 34,
+            "chunk_index": 11,
+            "text": "was discovered in 2013\nand awaits official recognition. Triton, Neptune’s largest moon,\norbits the planet in the opposite direction compared with the\nrest of the moons, suggesting that it may have been captured by\nNeptune in the distant past. Triton is extremely cold — tempera-\ntures on its surface are about –235 degrees Celsius (–391 de-\ngrees Fahrenheit). Despite this deep freeze at Triton, Voyager",
+            "score": 0.24110069870948792,
+            "rerank_score": -11.112442016601562
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "0c95d8b4296f74dcc4848e31d2102f35425488485903ca59a4ff9df9d2c64126",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 42,
+            "chunk_index": 1,
+            "text": "Science is a dynamic process of questioning, hypothesizing,\n\ndiscovering, and changing previous ideas based on what is\nlearned. Scientific ideas are developed through reasoning and\ntested against observations. Scientists assess and question\neach other’s work in a critical process called peer review.\nOur understanding about the universe and our place in it has\nchanged over time. New information can cause us to rethink\nwhat we know and reevaluate how we classify objects in order to",
+            "score": -0.055636413395404816,
+            "rerank_score": -11.113261222839355
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "14d1cc077d1b96f242d1e8b0f5aed20ddd81ffdb3ccbe8512e55d654f44ca5a9",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 28,
+            "chunk_index": 3,
+            "text": "division” between what are now called the\nA and B rings. It is now known that the gravitational influence\nof Saturn’s moon Mimas is responsible for the Cassini Division,\nwhich is 4,800 kilometers (3,000 miles) wide.\nLike Jupiter, Saturn is made mostly of hydrogen and helium.\nIts volume is 755 times greater than that of Earth. Winds in the\nupper atmosphere reach 500 meters (1,600 feet) per second in\nthe",
+            "score": 0.13660189509391785,
+            "rerank_score": -11.126996040344238
+          }
+        ],
+        "retrieval_seconds": 1.1247,
+        "generation_seconds": 0.6473,
+        "total_seconds": 1.7722,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q14",
+      "answerable": false,
+      "question": "What is the exact mass of the exoplanet TRAPPIST-1e?",
+      "expected_answer": "The supplied documents do not provide the answer.",
+      "expected_source": null,
+      "expected_page": null,
+      "reference_quote": null,
+      "client_seconds": 1.6208,
+      "reference_page_retrieved": null,
+      "reference_page_cited": null,
+      "literal_support_ok": null,
+      "api_response": {
+        "question": "What is the exact mass of the exoplanet TRAPPIST-1e?",
+        "answer": "The retrieved passages do not contain enough information to answer this question.",
+        "status": "abstained",
+        "answer_mode": "extractive",
+        "evidence_verified": false,
+        "citation_format_ok": true,
+        "verification_reason": "no_relevant_candidate",
+        "relevance_action": "relevance_gate_abstained",
+        "cited_sources": [],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "09bd215630e10179721e17c15eebfa26d9f651b64773cecee58eb060cd160154",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 8,
+            "chunk_index": 15,
+            "text": "Radius\n2,440 km (1,516 mi)\n\nMass\n0.055 of Earth’s\n\nDensity\n5.43 g/cm^3 (0.98 of Earth’s)\n\nGravity\n0.38 of Earth’s\n\nExosphere Components\nhydrogen, helium, sodium,\n\npotassium, calcium, magnesium\n\nTemperature Range\n–180 to 430 deg C\n\n(–290 to 800 deg F)\n\nKnown Moons\n0\n\nRings\n0\nSIGNIFICANT DATES",
+            "score": 0.5527763366699219,
+            "rerank_score": -5.612059593200684
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "85e7bfc429c2485970123b9ce0d4ddf5221064d87e77bfed27af967943b346f2",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 36,
+            "chunk_index": 17,
+            "text": ")\n\nMass\n0.0022 of Earth’s\n\nDensity (Pluto)\n2.03 g/cm^3\n\nGravity\n0.65 m/sec^2 (2.1 ft/sec^2)\n\nAtmosphere Primary Components\nnitrogen, carbon\n\nmonoxide, methane\n\nSurface Temperature\n–233 to –223 deg C\n\n(–387 to –369 deg F)\n\nKnown Moons*\n5\n\nRings\nNone known\n*As of July 2013.\nSIGNIFI",
+            "score": 0.5309227705001831,
+            "rerank_score": -7.014287948608398
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "b327149ae8ed3d11fd8570cb4b0fc18f84a4509ed98ae663e7e34827d904fd39",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 28,
+            "chunk_index": 15,
+            "text": "torial Radius\n60,268 km (37,449 mi)\n\nMass\n95.16 of Earth’s\n\nDensity\n0.70 g/cm^3\n\nGravity\n7.207 m/sec^2 (23.64 ft/sec^2)\n\nAtmosphere Primary Components\nhydrogen, helium\n\nEffective Temperature\n–178 deg C (–288 deg F)\n\nKnown Moons*\n53\n\nRings\n7 main rings (C, B, A, D,",
+            "score": 0.5564888715744019,
+            "rerank_score": -7.367007255554199
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "e7eb1b76109e663a03d423778d377d854f4e80056156a4e88f4ecad3400ceb6e",
+            "source": "Solar_System_Lithograph_Set.pdf",
+            "page": 10,
+            "chunk_index": 15,
+            "text": "us\n6,052 km (3,760 mi)\n\nMass\n0.815 of Earth’s\n\nDensity\n5.24 g/cm^3 (0.95 of Earth’s)\n\nGravity\n0.91 of Earth’s\n\nAtmosphere Primary Component\ncarbon dioxide\n\nTemperature at Surface\n470 deg C (880 deg F)\n\nKnown Moons\n0\n\nRings\n0\nSIGNIFICANT DATES\n650 CE — Mayan astronomers make detailed observations of\nVenus, leading to",
+            "score": 0.489765465259552,
+            "rerank_score": -7.421391487121582
+          }
+        ],
+        "retrieval_seconds": 1.4262,
+        "generation_seconds": 0.1704,
+        "total_seconds": 1.5967,
+        "reached_token_budget": false
+      }
+    },
+    {
+      "id": "Q15",
+      "answerable": false,
+      "question": "What were the final scientific results of the Europa Clipper mission?",
+      "expected_answer": "The supplied fact sheet describes plans and objectives, not final mission results.",
+      "expected_source": null,
+      "expected_page": null,
+      "reference_quote": null,
+      "client_seconds": 32.6965,
+      "reference_page_retrieved": null,
+      "reference_page_cited": null,
+      "literal_support_ok": null,
+      "api_response": {
+        "question": "What were the final scientific results of the Europa Clipper mission?",
+        "answer": "The retrieved passages do not contain enough information to answer this question.",
+        "status": "abstained",
+        "answer_mode": "extractive",
+        "evidence_verified": false,
+        "citation_format_ok": true,
+        "verification_reason": "no_excerpt_answers_question",
+        "relevance_action": "answerability_rejected",
+        "cited_sources": [],
+        "retrieved_sources": [
+          {
+            "source_id": 1,
+            "chunk_id": "d5046616cb2932153ff827c886b27d1ed905cf88b3fbc3ba5a4eb0d1528b6bf5",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 1,
+            "chunk_index": 5,
+            "text": "Europa\nbegins.\n• June 2034: End of the prime mission.\nGoals and Objectives\nDetermine whether there are places below\nthe surface of Europa that could support life\nby studying:\n• the geology of Europa’s icy shell\n• the interior of Europa, including the ice\nshell and the liquid water ocean beneath it\n• the composition of the surface and interior\nKey Hardware\nEuropa Clipper has a suite of nine instruments dedicated to collecting science and a",
+            "score": 0.6677645444869995,
+            "rerank_score": 2.9510157108306885
+          },
+          {
+            "source_id": 2,
+            "chunk_id": "e25f7f7669c173f921f84006825a18eb392cf84ceaf84f928361a53d5448e2e0",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 1,
+            "chunk_index": 2,
+            "text": "oceans\n\ncombined. Everywhere on Earth that there’s\nwater, there’s life, and scientists want to\nknow if oceans elsewhere in the solar system\ncan also be habitable.\nNASA’s Europa Clipper mission will be the\nfirst to conduct a detailed survey of this icy\nmoon. While Europa Clipper is not a life-\ndetection mission, it aims to answer\n\nquestions about Europa’s potential to\n\nsupport life. The mission will confirm whether\nthere is an ocean,",
+            "score": 0.5084942579269409,
+            "rerank_score": 2.093137741088867
+          },
+          {
+            "source_id": 3,
+            "chunk_id": "fa9a7937af5ed336d1790fbfc50c595abf11e0daf0504b0cf23d47f18873841f",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 1,
+            "chunk_index": 3,
+            "text": "questions about Europa’s potential to\n\nsupport life. The mission will confirm whether\nthere is an ocean, look for evidence of\n\nenergy sources beneath Europa’s surface,\nand determine the moon’s makeup.\nExpected Mission Timeline\n• October 2024: Europa Clipper is scheduled to launch from NASA’s Kennedy\nSpace Center on a SpaceX Falcon Heavy\nrocket.\n• February 2025: Spacecraft flies by Mars\nfor a gravity assist to gain speed.\n• February 2026",
+            "score": 0.565689206123352,
+            "rerank_score": 1.9176331758499146
+          },
+          {
+            "source_id": 4,
+            "chunk_id": "2d3ec386d209e8bf6177e6e712480f9a50c201f35a9ef197f2b995395f06b630",
+            "source": "Europa-Clipper-Fact-Sheet.pdf",
+            "page": 2,
+            "chunk_index": 3,
+            "text": "ocean, measure the ocean’s depth and\nsaltiness, and assess the thickness of the ice shell.\n• Gravity science experiment: By analyzing the radio\nsignals sent back and forth through space via the\nspacecraft’s telecommunications system, scientists\nwill study how changes in Europa’s gravity can\n\nreveal the moon’s internal structure.\nEuropa Clipper Spacecraft\nEuropa Clipper is the largest spacecraft NASA has ever\ndeveloped for",
+            "score": 0.6022518873214722,
+            "rerank_score": 0.3633819818496704
+          }
+        ],
+        "retrieval_seconds": 1.125,
+        "generation_seconds": 31.5434,
+        "total_seconds": 32.6685,
+        "reached_token_budget": false
+      }
+    }
+  ],
+  "errors": [],
+  "updated_at_utc": "2026-11-26T15:44:17.532974+00:00",
+  "summary": {
+    "completed_cases": 15,
+    "reference_page_retrieved": "12/12",
+    "unanswerable_cases_abstained": "3/3",
+    "answerable_cases_abstained": "0/12",
+    "literal_support_among_non_abstained": "12/12",
+    "mean_api_seconds": 13.07,
+    "request_errors": 0,
+    "answer_correctness": "Manual review required."
+  }
+}
