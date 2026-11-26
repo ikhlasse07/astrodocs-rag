@@ -1,0 +1,102 @@
+:root {
+  font-family: "Inter", Arial, sans-serif;
+  color: #f4f6fc;
+  background-color: #070b18;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --font-heading: "Space Grotesk", "Trebuchet MS", sans-serif;
+  --font-body: "Inter", Arial, sans-serif;
+  --font-data: "IBM Plex Mono", Consolas, monospace;
+
+  --background: #070b18;
+  --panel: #12182b;
+  --panel-deep: #0c1223;
+  --text: #f4f6fc;
+  --muted: #a7b0c5;
+  --cyan: #75dfe8;
+  --violet: #bb9af7;
+  --border: #29314b;
+  --warning: #f1ce91;
+  --error: #ffafb7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-width: 320px;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: var(--background);
+}
+
+button,
+textarea {
+  font: inherit;
+}
+
+button,
+a,
+summary {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+a {
+  color: var(--cyan);
+}
+
+button:focus-visible,
+a:focus-visible,
+textarea:focus-visible,
+summary:focus-visible {
+  outline: 2px solid var(--cyan);
+  outline-offset: 4px;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-heading);
+}
+
+::selection {
+  color: var(--background);
+  background: var(--cyan);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}

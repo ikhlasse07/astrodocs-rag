@@ -1,0 +1,141 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="240"
+  height="240"
+  viewBox="0 0 240 240"
+>
+  <defs>
+    <linearGradient id="lavender" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c3b4f1" />
+      <stop offset="0.45" stop-color="#a08bd6" />
+      <stop offset="1" stop-color="#7860ab" />
+    </linearGradient>
+
+    <linearGradient id="aurora" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c2fbff" />
+      <stop offset="0.5" stop-color="#6ae6e8" />
+      <stop offset="1" stop-color="#b1a5ed" />
+    </linearGradient>
+
+    <filter
+      id="mist"
+      x="-40%"
+      y="-40%"
+      width="180%"
+      height="180%"
+    >
+      <feGaussianBlur stdDeviation="10" />
+    </filter>
+
+    <filter
+      id="glow"
+      x="-30%"
+      y="-30%"
+      width="160%"
+      height="160%"
+    >
+      <feGaussianBlur stdDeviation="3" />
+    </filter>
+
+    <filter
+      id="wisps"
+      filterUnits="userSpaceOnUse"
+      x="0"
+      y="0"
+      width="240"
+      height="240"
+    >
+      <feTurbulence
+        type="fractalNoise"
+        baseFrequency="0.018 0.035"
+        numOctaves="2"
+        seed="9"
+        stitchTiles="stitch"
+        result="flow"
+      />
+
+      <feDisplacementMap
+        in="SourceGraphic"
+        in2="flow"
+        scale="12"
+        xChannelSelector="R"
+        yChannelSelector="G"
+      />
+    </filter>
+
+    <filter id="grain">
+      <feTurbulence
+        type="fractalNoise"
+        baseFrequency="0.35"
+        numOctaves="2"
+        seed="4"
+        stitchTiles="stitch"
+      />
+
+      <feColorMatrix type="saturate" values="0" />
+    </filter>
+  </defs>
+
+  <path fill="url(#lavender)" d="M0 0h240v240H0z" />
+
+  <g fill="none" stroke-linecap="round">
+    <path
+      d="M-240 120C-180 20-60 220 0 120S180 220 240 120S420 220 480 120"
+      stroke="#dcceff"
+      stroke-width="48"
+      opacity="0.22"
+      filter="url(#mist)"
+    />
+
+    <path
+      d="M-240 120C-180 20-60 220 0 120S180 220 240 120S420 220 480 120"
+      stroke="#65e3e6"
+      stroke-width="20"
+      opacity="0.4"
+      filter="url(#mist)"
+    />
+  </g>
+
+  <g
+    fill="none"
+    stroke="url(#aurora)"
+    filter="url(#wisps)"
+  >
+    <path
+      d="M-240 120C-180 20-60 220 0 120S180 220 240 120S420 220 480 120"
+      stroke-width="7"
+      opacity="0.4"
+      filter="url(#glow)"
+    />
+
+    <path
+      d="M-240 120C-180 20-60 220 0 120S180 220 240 120S420 220 480 120"
+      stroke-width="1.6"
+      opacity="0.7"
+    />
+
+    <path
+      d="M-240 129C-180 37-60 217 0 129S180 217 240 129S420 217 480 129"
+      stroke-width="1"
+      opacity="0.46"
+    />
+
+    <path
+      d="M-240 109C-180 5-60 206 0 109S180 206 240 109S420 206 480 109"
+      stroke-width="0.8"
+      opacity="0.4"
+    />
+
+    <path
+      d="M-240 141C-180 49-60 232 0 141S180 232 240 141S420 232 480 141"
+      stroke-width="0.7"
+      opacity="0.3"
+    />
+  </g>
+
+  <path
+    d="M0 0h240v240H0z"
+    filter="url(#grain)"
+    opacity="0.055"
+  />
+</svg>

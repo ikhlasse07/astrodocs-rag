@@ -1,0 +1,324 @@
+.app-shell {
+  position: relative;
+  isolation: isolate;
+}
+
+/* Keep the scenery fixed behind the scrolling content. */
+.sky-background {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  pointer-events: none;
+
+  background:
+    radial-gradient(
+      ellipse at 85% 0%,
+      rgba(147, 100, 226, 0.14),
+      transparent 48%
+    ),
+    #070b18;
+}
+
+/* Each star receives its own timing and brightness. */
+.sky-star {
+  position: absolute;
+
+  width: calc(var(--star-size) * 4 + 4px);
+  height: calc(var(--star-size) * 4 + 4px);
+
+  border-radius: 0;
+  color: #edf4ff;
+  background: transparent;
+  box-shadow: none;
+
+  filter:
+    drop-shadow(0 0 3px currentColor)
+    drop-shadow(0 0 7px currentColor);
+
+  opacity: 0.35;
+
+  animation:
+    sky-twinkle
+    var(--star-duration)
+    ease-in-out
+    var(--star-delay)
+    infinite;
+}
+
+/* Draw the star inside its glowing outer element. */
+.sky-star::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  background: currentColor;
+
+  clip-path: polygon(
+    50% 0%,
+    62% 38%,
+    100% 50%,
+    62% 62%,
+    50% 100%,
+    38% 62%,
+    0% 50%,
+    38% 38%
+  );
+}
+
+.sky-star:nth-child(3n) {
+  color: #75dfe8;
+}
+
+.sky-star:nth-child(5n) {
+  color: #bb9af7;
+}
+
+.sky-planet {
+  position: absolute;
+  top: 145px;
+  right: max(24px, calc((100vw - 1180px) / 2));
+  width: 240px;
+  height: 240px;
+}
+
+/* The surface moves beneath a stationary lighting layer. */
+.sky-globe {
+  position: absolute;
+  inset: 48px;
+  z-index: 2;
+  overflow: hidden;
+  border-radius: 50%;
+
+  background: #a08bd6;
+  transform: rotate(-16deg);
+
+  box-shadow:
+    0 0 34px rgba(187, 154, 247, 0.13),
+    0 0 70px rgba(117, 223, 232, 0.04);
+}
+
+.sky-surface {
+  width: 200%;
+  height: 100%;
+  background-repeat: repeat-x;
+  background-size: 50% 100%;
+  animation: sky-planet-turn 28s linear infinite;
+}
+
+.sky-globe::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+
+  background:
+    radial-gradient(
+      circle at 27% 23%,
+      rgba(244, 232, 255, 0.48),
+      transparent 52%
+    ),
+    radial-gradient(
+      circle at 35% 28%,
+      transparent 34%,
+      rgba(24, 15, 51, 0.32) 78%,
+      rgba(12, 10, 29, 0.65) 100%
+    ),
+    linear-gradient(
+      115deg,
+      transparent 35%,
+      rgba(15, 12, 37, 0.58) 100%
+    );
+
+  box-shadow:
+    inset -14px -10px 25px rgba(13, 10, 35, 0.38),
+    inset 3px 3px 10px rgba(227, 217, 255, 0.28);
+}
+
+/* Split the orbits into layers behind and in front of the globe. */
+.sky-orbit-layer {
+  position: absolute;
+  inset: 0;
+}
+
+.sky-orbit-layer.back {
+  z-index: 1;
+}
+
+.sky-orbit-layer.front {
+  z-index: 3;
+}
+
+.sky-orbit-path {
+  position: absolute;
+  inset: 12px;
+  color: #bb9af7;
+
+  --orbit-angle: -25deg;
+  --orbit-counter-angle: 25deg;
+  --orbit-flatten: 0.55;
+  --orbit-unflatten: 1.8181818;
+  --orbit-duration: 23s;
+  --orbit-delay: -3s;
+
+  transform:
+    rotate(var(--orbit-angle))
+    scaleY(var(--orbit-flatten));
+}
+
+.sky-orbit-path.two {
+  inset: 28px;
+  color: #75dfe8;
+
+  --orbit-angle: 55deg;
+  --orbit-counter-angle: -55deg;
+  --orbit-flatten: 0.85;
+  --orbit-unflatten: 1.1764706;
+  --orbit-duration: 31s;
+  --orbit-delay: -18s;
+}
+
+.sky-orbit-layer.back .sky-orbit-path {
+  clip-path: polygon(
+    -30% -30%,
+    130% -30%,
+    130% 50%,
+    -30% 50%
+  );
+}
+
+.sky-orbit-layer.front .sky-orbit-path {
+  clip-path: polygon(
+    -30% 50%,
+    130% 50%,
+    130% 130%,
+    -30% 130%
+  );
+}
+
+.sky-orbit-path::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  opacity: 0.3;
+}
+
+.sky-orbit-spinner {
+  position: absolute;
+  inset: 0;
+
+  animation:
+    sky-orbit-turn
+    var(--orbit-duration)
+    linear
+    var(--orbit-delay)
+    infinite;
+}
+
+.sky-satellite {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  display: grid;
+  place-items: center;
+  width: 22px;
+  height: 22px;
+  margin: -11px;
+
+  animation:
+    sky-orbit-counter
+    var(--orbit-duration)
+    linear
+    var(--orbit-delay)
+    infinite;
+}
+
+.sky-satellite > span {
+  display: block;
+  font-size: 22px;
+  line-height: 1;
+  text-shadow: 0 0 12px currentColor;
+
+  transform:
+    scaleY(var(--orbit-unflatten))
+    rotate(var(--orbit-counter-angle));
+}
+
+@keyframes sky-planet-turn {
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes sky-orbit-turn {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes sky-orbit-counter {
+  to {
+    transform: rotate(-360deg);
+  }
+}
+
+@keyframes sky-twinkle {
+  0%,
+  100% {
+    opacity: 0;
+    transform: scale(0.75);
+  }
+
+  25% {
+    opacity: 0.08;
+  }
+
+  50% {
+    opacity: var(--star-brightness);
+    transform: scale(1.15);
+  }
+
+  75% {
+    opacity: 0.12;
+  }
+}
+
+@media (max-width: 900px) {
+  .sky-planet {
+    width: 180px;
+    height: 180px;
+    right: 24px;
+    top: 160px;
+  }
+
+  .sky-globe {
+    inset: 35px;
+  }
+
+  .sky-orbit-path {
+    inset: 8px;
+  }
+
+  .sky-orbit-path.two {
+    inset: 20px;
+  }
+}
+
+@media (max-width: 600px) {
+  .sky-planet {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sky-background * {
+    animation: none !important;
+  }
+
+  .sky-star {
+    opacity: 0.3;
+    transform: none;
+  }
+}
